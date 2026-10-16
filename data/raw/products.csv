@@ -1,0 +1,1501 @@
+sku_id,product_name,category,is_assembly_required,supplier_id,unit_price,product_family,weight_category
+SKU-FURN-00001,Furnitur Kayu Olahan 407,Office Chair,1,,1472960,Kursi,Sedang
+SKU-FURN-00002,Furnitur Kayu Olahan 536,Wardrobe,1,SUP-PBR-SDA-05,2212127,Lemari,Oversized
+SKU-FURN-00003,Sofa Japandi Minimalis 867,Sofa,1,SUP-PRJ-KLT-02,4331071,Sofa,Bulky
+SKU-FURN-00004,Furnitur Kayu Olahan 727,Kursi Kerja,1,SUP-PBR-SDA-03,1450063,Kursi,Sedang
+SKU-FURN-00005,Furnitur Kayu Olahan 363,Wardrobe,1,SUP-PBR-SDA-05,3469543,Lemari,Oversized
+SKU-FURN-00006,Furnitur Kayu Olahan 229,Lemari,1,SUP-PRJ-SLO-03,3477282,Lemari,Oversized
+SKU-FURN-00007,Furnitur Kayu Olahan 148,Office Chair,1,SUP-PBR-SDA-02,1472164,Kursi,Ringan
+SKU-FURN-00008,Furnitur Kayu Olahan 185,Wardrobe,1,SUP-PRJ-SLO-01,2529835,Lemari,Oversized
+SKU-FURN-00009,Sofa Japandi Minimalis 808,Sofa,0,SUP-PRJ-CRB-04,4451239,Sofa,Bulky
+SKU-FURN-00010,Sofa Japandi Minimalis 221,Sofa,0,SUP-PRJ-CRB-04,2907971,Sofa,Bulky
+SKU-FURN-00011,Furnitur Kayu Olahan 101,Kursi Kerja,1,SUP-PBR-SDA-02,777682,Kursi,Ringan
+SKU-FURN-00012,Sofa Japandi Minimalis 693,sofabed,1,SUP-PRJ-KLT-02,4382574,Sofa,Oversized
+SKU-FURN-00013,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-IMP-SBY-01,544200,Dekorasi,Ringan
+SKU-FURN-00014,Furnitur Kayu Olahan 278,Kursi Kerja,1,SUP-PBR-SDA-03,789258,Kursi,Bulky
+SKU-FURN-00015,Furnitur Kayu Olahan 880,Kursi Kerja,1,,1338206,Kursi,Ringan
+SKU-FURN-00016,Furnitur Kayu Olahan 185,Kursi Kerja,1,SUP-PBR-SDA-03,960207,Kursi,Sedang
+SKU-FURN-00017,Furnitur Kayu Olahan 486,Lemari,1,SUP-PBR-SDA-05,2119014,Lemari,Oversized
+SKU-FURN-00018,Furnitur Kayu Olahan 177,Dining Table,1,SUP-PBR-BKS-05,1517187,Meja,Bulky
+SKU-FURN-00019,Sofa Japandi Minimalis 844,sofabed,1,SUP-PRJ-KLT-02,4437843,Sofa,Oversized
+SKU-FURN-00020,Furnitur Kayu Olahan 453,Office Chair,1,,709200,Kursi,Sedang
+SKU-FURN-00021,Hiasan Meja / Karpet Aesthetic 20,Dekorasi,0,SUP-PBR-SMG-01,755659,Dekorasi,Sedang
+SKU-FURN-00022,Furnitur Kayu Olahan 241,lmri,1,SUP-PRJ-SLO-03,2945041,Lemari,Bulky
+SKU-FURN-00023,Furnitur Kayu Olahan 233,Wardrobe,1,,2888049,Lemari,Bulky
+SKU-FURN-00024,Furnitur Kayu Olahan 120,Dining Table,1,SUP-PRJ-CRB-03,1280508,Meja,Bulky
+SKU-FURN-00025,Sofa Japandi Minimalis 482,Sofa,1,SUP-PRJ-KLT-02,4498960,Sofa,Sedang
+SKU-FURN-00026,Furnitur Kayu Olahan 238,Kursi Kerja,1,,960270,Kursi,Ringan
+SKU-FURN-00027,Sofa Japandi Minimalis 527,Sofa,1,SUP-PRJ-CRB-04,4177167,Sofa,Bulky
+SKU-FURN-00028,Sofa Japandi Minimalis 263,Sofa,0,SUP-PBR-SMG-02,3108860,Sofa,Oversized
+SKU-FURN-00029,Furnitur Kayu Olahan 555,lmri,1,SUP-PRJ-KLT-05,2406512,Lemari,Bulky
+SKU-FURN-00030,Hiasan Meja / Karpet Aesthetic 58,Dekorasi,0,SUP-IMP-SBY-01,210521,Dekorasi,Ringan
+SKU-FURN-00031,Furnitur Kayu Olahan 468,Lemari,1,SUP-PBR-SDA-04,2651811,Lemari,Oversized
+SKU-FURN-00032,Furnitur Kayu Olahan 299,Meja Makan,1,SUP-PRJ-KLT-05,2077920,Meja,Bulky
+SKU-FURN-00033,Sofa Japandi Minimalis 969,Sofa,0,SUP-PRJ-KLT-02,3677570,Sofa,Bulky
+SKU-FURN-00034,Furnitur Kayu Olahan 602,Office Chair,1,SUP-PBR-SDA-02,1040869,Kursi,Sedang
+SKU-FURN-00035,Furnitur Kayu Olahan 753,Bed,1,SUP-PRJ-KLT-04,4324080,Bed,Bulky
+SKU-FURN-00036,Furnitur Kayu Olahan 409,Meja Makan,1,SUP-PRJ-KLT-05,1636911,Meja,Sedang
+SKU-FURN-00037,Hiasan Meja / Karpet Aesthetic 65,Dekorasi,0,,439807,Dekorasi,Ringan
+SKU-FURN-00038,Furnitur Kayu Olahan 378,Lemari,1,SUP-PBR-SDA-04,2721449,Lemari,Oversized
+SKU-FURN-00039,Furnitur Kayu Olahan 870,Meja Makan,1,SUP-PBR-BKS-04,1325849,Meja,Bulky
+SKU-FURN-00040,Hiasan Meja / Karpet Aesthetic 52,Dekorasi,0,SUP-IMP-SBY-01,566427,Dekorasi,Ringan
+SKU-FURN-00041,Furnitur Kayu Olahan 884,lmri,1,SUP-PRJ-SLO-03,2181608,Lemari,Bulky
+SKU-FURN-00042,Furnitur Kayu Olahan 871,Kursi Kerja,1,SUP-PBR-SDA-03,1354107,Kursi,Sedang
+SKU-FURN-00043,Sofa Japandi Minimalis 163,Sofa,0,SUP-PBR-SMG-02,4408977,Sofa,Sedang
+SKU-FURN-00044,Furnitur Kayu Olahan 322,Wardrobe,1,SUP-PRJ-SLO-02,2817254,Lemari,Oversized
+SKU-FURN-00045,Furnitur Kayu Olahan 128,Dining Table,1,SUP-PRJ-KLT-05,1569569,Meja,Bulky
+SKU-FURN-00046,Furnitur Kayu Olahan 667,Dining Table,1,SUP-PBR-SMG-03,1760562,Meja,Sedang
+SKU-FURN-00047,Furnitur Kayu Olahan 972,Kursi Kerja,1,SUP-PBR-SDA-03,1024686,Kursi,Sedang
+SKU-FURN-00048,Furnitur Kayu Olahan 472,Kursi Kerja,1,SUP-PBR-SDA-02,772876,Kursi,Sedang
+SKU-FURN-00049,Sofa Japandi Minimalis 774,Sofa,0,SUP-PRJ-KLT-02,4206310,Sofa,Bulky
+SKU-FURN-00050,Furnitur Kayu Olahan 363,lmri,1,SUP-PRJ-KLT-02,2743321,Lemari,Bulky
+SKU-FURN-00051,Sofa Japandi Minimalis 525,Sofa,1,,4416896,Sofa,Bulky
+SKU-FURN-00052,Hiasan Meja / Karpet Aesthetic 58,Dekorasi,0,SUP-PBR-SMG-01,353483,Dekorasi,Sedang
+SKU-FURN-00053,Sofa Japandi Minimalis 635,sofabed,1,SUP-PRJ-KLT-02,3220237,Sofa,Bulky
+SKU-FURN-00054,Furnitur Kayu Olahan 385,Wardrobe,1,SUP-PRJ-SLO-03,2801562,Lemari,Oversized
+SKU-FURN-00055,Furnitur Kayu Olahan 932,Meja Makan,1,SUP-PRJ-SLO-01,2114758,Meja,Sedang
+SKU-FURN-00056,Furnitur Kayu Olahan 322,Lemari,1,SUP-PBR-TNG-02,2118894,Lemari,Bulky
+SKU-FURN-00057,Furnitur Kayu Olahan 649,Lemari,1,SUP-PRJ-TGL-01,3150646,Lemari,Bulky
+SKU-FURN-00058,Furnitur Kayu Olahan 650,Kursi Kerja,1,,1173571,Kursi,Sedang
+SKU-FURN-00059,Furnitur Kayu Olahan 138,Dining Table,1,,1457066,Meja,Sedang
+SKU-FURN-00060,Furnitur Kayu Olahan 303,Wardrobe,1,,2920427,Lemari,Oversized
+SKU-FURN-00061,Sofa Japandi Minimalis 921,sofabed,0,SUP-PRJ-KLT-02,2985382,Sofa,Bulky
+SKU-FURN-00062,Sofa Japandi Minimalis 755,Sofa,0,,3437432,Sofa,Oversized
+SKU-FURN-00063,Hiasan Meja / Karpet Aesthetic 47,Dekorasi,0,,601327,Dekorasi,Sedang
+SKU-FURN-00064,Furnitur Kayu Olahan 992,lmri,1,SUP-PRJ-KLT-01,2747687,Lemari,Bulky
+SKU-FURN-00065,Furnitur Kayu Olahan 489,Kursi Kerja,1,SUP-PBR-SDA-02,1353911,Kursi,Ringan
+SKU-FURN-00066,Furnitur Kayu Olahan 537,Meja Makan,1,SUP-PRJ-SLO-01,1682967,Meja,Oversized
+SKU-FURN-00067,Hiasan Meja / Karpet Aesthetic 60,Dekorasi,0,SUP-PBR-SMG-01,334201,Dekorasi,Sedang
+SKU-FURN-00068,Furnitur Kayu Olahan 125,lmri,1,SUP-PRJ-SLO-03,2742686,Lemari,Oversized
+SKU-FURN-00069,Furnitur Kayu Olahan 566,Kursi Kerja,1,SUP-PBR-BKS-05,1392644,Kursi,Sedang
+SKU-FURN-00070,Furnitur Kayu Olahan 140,Meja Makan,1,SUP-PRJ-KLT-04,1879151,Meja,Sedang
+SKU-FURN-00071,Hiasan Meja / Karpet Aesthetic 98,Dekorasi,0,SUP-IMP-JKT-01,389547,Dekorasi,Ringan
+SKU-FURN-00072,Furnitur Kayu Olahan 564,Office Chair,1,SUP-PBR-SDA-03,1281772,Kursi,Sedang
+SKU-FURN-00073,Furnitur Kayu Olahan 509,Office Chair,1,SUP-PBR-BKS-05,1378767,Kursi,Sedang
+SKU-FURN-00074,Sofa Japandi Minimalis 214,Sofa,1,SUP-PRJ-CRB-04,3722239,Sofa,Sedang
+SKU-FURN-00075,Hiasan Meja / Karpet Aesthetic 96,Dekorasi,0,SUP-PBR-SMG-01,506875,Dekorasi,Sedang
+SKU-FURN-00076,Furnitur Kayu Olahan 447,Wardrobe,1,SUP-PBR-BKS-02,2990697,Lemari,Bulky
+SKU-FURN-00077,Furnitur Kayu Olahan 669,Wardrobe,1,SUP-PBR-BKS-02,2895191,Lemari,Bulky
+SKU-FURN-00078,Furnitur Kayu Olahan 711,Kursi Kerja,1,SUP-PBR-SDA-02,1375570,Kursi,Sedang
+SKU-FURN-00079,Furnitur Kayu Olahan 640,Lemari,1,SUP-PRJ-SLO-03,2377655,Lemari,Oversized
+SKU-FURN-00080,Furnitur Kayu Olahan 551,Dining Table,1,SUP-PRJ-KLT-04,2143638,Meja,Sedang
+SKU-FURN-00081,Sofa Japandi Minimalis 863,Sofa,0,SUP-PRJ-KLT-02,3539175,Sofa,Oversized
+SKU-FURN-00082,Sofa Japandi Minimalis 875,sofabed,1,SUP-PBR-SMG-02,3505059,Sofa,Sedang
+SKU-FURN-00083,Sofa Japandi Minimalis 541,Sofa,0,SUP-PBR-SMG-02,3409171,Sofa,Bulky
+SKU-FURN-00084,Furnitur Kayu Olahan 885,Meja Makan,1,,1389649,Meja,Oversized
+SKU-FURN-00085,Furnitur Kayu Olahan 993,Meja Makan,1,SUP-PRJ-KLT-05,1681588,Meja,Sedang
+SKU-FURN-00086,Furnitur Kayu Olahan 792,Kursi Kerja,1,SUP-PBR-SDA-02,1468787,Kursi,Ringan
+SKU-FURN-00087,Hiasan Meja / Karpet Aesthetic 72,Dekorasi,0,SUP-IMP-SBY-01,361297,Dekorasi,Sedang
+SKU-FURN-00088,Furnitur Kayu Olahan 318,Wardrobe,1,SUP-PRJ-CRB-02,2710763,Lemari,Bulky
+SKU-FURN-00089,Furnitur Kayu Olahan 741,Kursi Kerja,1,SUP-PBR-BKS-05,1111919,Kursi,Sedang
+SKU-FURN-00090,Sofa Japandi Minimalis 185,Sofa,0,SUP-PRJ-CRB-04,3686715,Sofa,Bulky
+SKU-FURN-00091,Furnitur Kayu Olahan 786,lmri,1,SUP-PRJ-CRB-05,2347229,Lemari,Bulky
+SKU-FURN-00092,Furnitur Kayu Olahan 776,Meja Makan,1,SUP-PRJ-KLT-05,2145452,Meja,Sedang
+SKU-FURN-00093,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-IMP-SBY-01,528579,Dekorasi,Ringan
+SKU-FURN-00094,Sofa Japandi Minimalis 471,sofabed,0,SUP-PBR-SMG-02,2900021,Sofa,Oversized
+SKU-FURN-00095,Furnitur Kayu Olahan 494,Dining Table,1,SUP-PRJ-KLT-05,1838501,Meja,Bulky
+SKU-FURN-00096,Hiasan Meja / Karpet Aesthetic 72,Dekorasi,0,SUP-PBR-SMG-01,344179,Dekorasi,Sedang
+SKU-FURN-00097,Furnitur Kayu Olahan 204,Wardrobe,1,,3182678,Lemari,Bulky
+SKU-FURN-00098,Furnitur Kayu Olahan 480,Office Chair,1,SUP-PBR-SDA-03,866362,Kursi,Sedang
+SKU-FURN-00099,Furnitur Kayu Olahan 898,Kursi Kerja,1,SUP-PBR-BKS-05,1208600,Kursi,Bulky
+SKU-FURN-00100,Sofa Japandi Minimalis 637,Sofa,1,SUP-PBR-SMG-02,3091492,Sofa,Oversized
+SKU-FURN-00101,Furnitur Kayu Olahan 863,Kursi Kerja,1,,1191327,Kursi,Sedang
+SKU-FURN-00102,Furnitur Kayu Olahan 840,Wardrobe,1,SUP-PBR-SDA-05,3494644,Lemari,Oversized
+SKU-FURN-00103,Sofa Japandi Minimalis 151,sofabed,0,SUP-PRJ-KLT-02,3527081,Sofa,Bulky
+SKU-FURN-00104,Hiasan Meja / Karpet Aesthetic 91,Dekorasi,0,,419727,Dekorasi,Sedang
+SKU-FURN-00105,Furnitur Kayu Olahan 429,Lemari,1,SUP-PBR-SDA-04,3421519,Lemari,Bulky
+SKU-FURN-00106,Furnitur Kayu Olahan 459,Kursi Kerja,1,SUP-PBR-SDA-03,1042501,Kursi,Sedang
+SKU-FURN-00107,Furnitur Kayu Olahan 538,Office Chair,1,SUP-PBR-SDA-02,897237,Kursi,Sedang
+SKU-FURN-00108,Sofa Japandi Minimalis 791,Sofa,0,SUP-PBR-SMG-02,4004888,Sofa,Bulky
+SKU-FURN-00109,Furnitur Kayu Olahan 552,Wardrobe,1,SUP-PRJ-SLO-02,2523285,Lemari,Bulky
+SKU-FURN-00110,Hiasan Meja / Karpet Aesthetic 31,Dekorasi,0,SUP-IMP-JKT-01,728968,Dekorasi,Ringan
+SKU-FURN-00111,Furnitur Kayu Olahan 363,lmri,1,SUP-PRJ-SLO-02,3261007,Lemari,Bulky
+SKU-FURN-00112,Furnitur Kayu Olahan 945,Wardrobe,1,SUP-PBR-SDA-05,3194088,Lemari,Oversized
+SKU-FURN-00113,Furnitur Kayu Olahan 460,Bed,1,SUP-PBR-TNG-02,3752095,Bed,Oversized
+SKU-FURN-00114,Furnitur Kayu Olahan 421,Meja Makan,1,SUP-PBR-BKS-02,1393942,Meja,Sedang
+SKU-FURN-00115,Furnitur Kayu Olahan 986,Office Chair,1,SUP-PBR-BKS-05,1126151,Kursi,Sedang
+SKU-FURN-00116,Furnitur Kayu Olahan 936,Dining Table,1,SUP-PRJ-KLT-04,1358703,Meja,Sedang
+SKU-FURN-00117,Sofa Japandi Minimalis 522,Sofa,0,SUP-PRJ-KLT-02,3994438,Sofa,Oversized
+SKU-FURN-00118,Furnitur Kayu Olahan 718,Bed,1,SUP-PRJ-CRB-05,3929467,Bed,Oversized
+SKU-FURN-00119,Furnitur Kayu Olahan 768,Bed,1,SUP-PRJ-KLT-04,5328759,Bed,Bulky
+SKU-FURN-00120,Furnitur Kayu Olahan 442,lmri,1,,3498193,Lemari,Bulky
+SKU-FURN-00121,Furnitur Kayu Olahan 125,Bed,1,SUP-PRJ-KLT-04,4908811,Bed,Oversized
+SKU-FURN-00122,Furnitur Kayu Olahan 237,Wardrobe,1,SUP-PBR-SDA-04,2738345,Lemari,Bulky
+SKU-FURN-00123,Furnitur Kayu Olahan 451,Wardrobe,1,SUP-PBR-SDA-05,3066359,Lemari,Oversized
+SKU-FURN-00124,Furnitur Kayu Olahan 499,lmri,1,SUP-PRJ-TGL-01,3208967,Lemari,Bulky
+SKU-FURN-00125,Furnitur Kayu Olahan 723,Wardrobe,1,SUP-PRJ-KLT-02,2723661,Lemari,Bulky
+SKU-FURN-00126,Sofa Japandi Minimalis 448,Sofa,1,SUP-PRJ-KLT-02,4175743,Sofa,Bulky
+SKU-FURN-00127,Furnitur Kayu Olahan 921,Wardrobe,1,SUP-PBR-SDA-05,2093026,Lemari,Bulky
+SKU-FURN-00128,Furnitur Kayu Olahan 871,Wardrobe,1,SUP-PBR-SDA-03,3087530,Lemari,Bulky
+SKU-FURN-00129,Furnitur Kayu Olahan 694,Office Chair,1,SUP-PBR-SDA-02,653240,Kursi,Ringan
+SKU-FURN-00130,Furnitur Kayu Olahan 172,Meja Makan,1,,1920748,Meja,Sedang
+SKU-FURN-00131,Sofa Japandi Minimalis 394,Sofa,0,,3201290,Sofa,Bulky
+SKU-FURN-00132,Hiasan Meja / Karpet Aesthetic 47,Dekorasi,0,SUP-PBR-BKS-03,711916,Dekorasi,Ringan
+SKU-FURN-00133,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-PBR-SMG-01,160501,Dekorasi,Ringan
+SKU-FURN-00134,Furnitur Kayu Olahan 123,Lemari,1,SUP-PRJ-KLT-05,2882622,Lemari,Oversized
+SKU-FURN-00135,Hiasan Meja / Karpet Aesthetic 13,Dekorasi,0,,593792,Dekorasi,Ringan
+SKU-FURN-00136,Furnitur Kayu Olahan 919,Lemari,1,SUP-PRJ-KLT-05,2651479,Lemari,Bulky
+SKU-FURN-00137,Hiasan Meja / Karpet Aesthetic 50,Dekorasi,0,SUP-IMP-SBY-01,736620,Dekorasi,Sedang
+SKU-FURN-00138,Hiasan Meja / Karpet Aesthetic 43,Dekorasi,0,SUP-PBR-BKS-03,770896,Dekorasi,Ringan
+SKU-FURN-00139,Sofa Japandi Minimalis 203,Sofa,1,SUP-PRJ-CRB-04,3526224,Sofa,Oversized
+SKU-FURN-00140,Hiasan Meja / Karpet Aesthetic 94,Dekorasi,0,SUP-IMP-SBY-01,741967,Dekorasi,Ringan
+SKU-FURN-00141,Furnitur Kayu Olahan 477,Kursi Kerja,1,SUP-PBR-BKS-05,701576,Kursi,Sedang
+SKU-FURN-00142,Hiasan Meja / Karpet Aesthetic 79,Dekorasi,0,SUP-IMP-JKT-01,697622,Dekorasi,Ringan
+SKU-FURN-00143,Furnitur Kayu Olahan 949,Office Chair,1,SUP-PBR-SDA-03,766341,Kursi,Sedang
+SKU-FURN-00144,Furnitur Kayu Olahan 461,Kursi Kerja,1,SUP-PBR-SDA-02,1258515,Kursi,Ringan
+SKU-FURN-00145,Furnitur Kayu Olahan 594,Office Chair,1,SUP-PBR-SDA-03,979739,Kursi,Sedang
+SKU-FURN-00146,Sofa Japandi Minimalis 521,Sofa,1,SUP-PRJ-KLT-02,3497696,Sofa,Oversized
+SKU-FURN-00147,Furnitur Kayu Olahan 194,Kursi Kerja,1,SUP-PBR-SDA-03,1475665,Kursi,Sedang
+SKU-FURN-00148,Sofa Japandi Minimalis 107,sofabed,0,SUP-PBR-SMG-02,3601406,Sofa,Bulky
+SKU-FURN-00149,Furnitur Kayu Olahan 133,Meja Makan,1,SUP-PRJ-KLT-04,1887513,Meja,Sedang
+SKU-FURN-00150,Sofa Japandi Minimalis 842,Sofa,1,SUP-PBR-SMG-02,4167360,Sofa,Oversized
+SKU-FURN-00151,Furnitur Kayu Olahan 112,Wardrobe,1,SUP-PRJ-CRB-03,3125280,Lemari,Oversized
+SKU-FURN-00152,Furnitur Kayu Olahan 326,Office Chair,1,SUP-PBR-BKS-05,1034702,Kursi,Sedang
+SKU-FURN-00153,Sofa Japandi Minimalis 385,sofabed,1,SUP-PBR-SMG-02,3120622,Sofa,Bulky
+SKU-FURN-00154,Furnitur Kayu Olahan 350,Dining Table,1,SUP-PBR-BKS-04,2132078,Meja,Bulky
+SKU-FURN-00155,Furnitur Kayu Olahan 796,Dining Table,1,SUP-PRJ-CRB-01,1939211,Meja,Sedang
+SKU-FURN-00156,Sofa Japandi Minimalis 468,Sofa,0,SUP-PRJ-KLT-02,4103491,Sofa,Bulky
+SKU-FURN-00157,Furnitur Kayu Olahan 582,Office Chair,1,SUP-PBR-SDA-02,995116,Kursi,Sedang
+SKU-FURN-00158,Furnitur Kayu Olahan 164,Meja Makan,1,SUP-PRJ-CRB-03,1555259,Meja,Bulky
+SKU-FURN-00159,Furnitur Kayu Olahan 849,Kursi Kerja,1,SUP-PBR-SDA-03,1142575,Kursi,Ringan
+SKU-FURN-00160,Furnitur Kayu Olahan 137,Bed,1,SUP-PBR-TNG-02,5460118,Bed,Oversized
+SKU-FURN-00161,Sofa Japandi Minimalis 677,Sofa,1,SUP-PRJ-CRB-04,2971819,Sofa,Sedang
+SKU-FURN-00162,Furnitur Kayu Olahan 689,Office Chair,1,SUP-PBR-BKS-05,1094169,Kursi,Sedang
+SKU-FURN-00163,Sofa Japandi Minimalis 624,sofabed,0,SUP-PBR-SMG-02,3862348,Sofa,Oversized
+SKU-FURN-00164,Furnitur Kayu Olahan 275,Wardrobe,1,SUP-PRJ-KLT-05,3387636,Lemari,Oversized
+SKU-FURN-00165,Furnitur Kayu Olahan 439,Kursi Kerja,1,SUP-PBR-BKS-05,1110837,Kursi,Sedang
+SKU-FURN-00166,Furnitur Kayu Olahan 570,Kursi Kerja,1,SUP-PBR-SDA-02,1223688,Kursi,Bulky
+SKU-FURN-00167,Furnitur Kayu Olahan 104,Meja Makan,1,SUP-PRJ-KLT-03,1400567,Meja,Sedang
+SKU-FURN-00168,Furnitur Kayu Olahan 594,Meja Makan,1,SUP-PBR-TNG-01,2023159,Meja,Bulky
+SKU-FURN-00169,Furnitur Kayu Olahan 691,Bed,1,SUP-PBR-BKS-01,5164167,Bed,Bulky
+SKU-FURN-00170,Hiasan Meja / Karpet Aesthetic 24,Dekorasi,0,SUP-PBR-SMG-01,393640,Dekorasi,Ringan
+SKU-FURN-00171,Furnitur Kayu Olahan 192,Office Chair,1,SUP-PBR-BKS-05,1396507,Kursi,Sedang
+SKU-FURN-00172,Furnitur Kayu Olahan 383,Dining Table,1,SUP-PRJ-KLT-04,2013565,Meja,Oversized
+SKU-FURN-00173,Furnitur Kayu Olahan 665,Bed,1,SUP-PBR-TNG-02,4994920,Bed,Oversized
+SKU-FURN-00174,Furnitur Kayu Olahan 771,Office Chair,1,SUP-PBR-BKS-05,1401370,Kursi,Sedang
+SKU-FURN-00175,Sofa Japandi Minimalis 313,sofabed,1,SUP-PBR-SMG-02,4082895,Sofa,Bulky
+SKU-FURN-00176,Furnitur Kayu Olahan 700,Meja Makan,1,SUP-PBR-BKS-02,2071632,Meja,Sedang
+SKU-FURN-00177,Furnitur Kayu Olahan 159,Kursi Kerja,1,SUP-PBR-BKS-05,1184413,Kursi,Ringan
+SKU-FURN-00178,Hiasan Meja / Karpet Aesthetic 49,Dekorasi,0,SUP-IMP-JKT-01,466756,Dekorasi,Ringan
+SKU-FURN-00179,Furnitur Kayu Olahan 622,Meja Makan,1,SUP-PRJ-KLT-03,1722908,Meja,Bulky
+SKU-FURN-00180,Furnitur Kayu Olahan 535,Office Chair,1,SUP-PBR-BKS-05,1052278,Kursi,Ringan
+SKU-FURN-00181,Hiasan Meja / Karpet Aesthetic 61,Dekorasi,0,,674651,Dekorasi,Sedang
+SKU-FURN-00182,Furnitur Kayu Olahan 342,Office Chair,1,SUP-PBR-BKS-05,1337561,Kursi,Bulky
+SKU-FURN-00183,Furnitur Kayu Olahan 879,Lemari,1,SUP-PRJ-CRB-02,2827377,Lemari,Oversized
+SKU-FURN-00184,Furnitur Kayu Olahan 863,lmri,1,SUP-PBR-SDA-03,2107215,Lemari,Oversized
+SKU-FURN-00185,Furnitur Kayu Olahan 874,Office Chair,1,SUP-PBR-SDA-03,1429499,Kursi,Sedang
+SKU-FURN-00186,Furnitur Kayu Olahan 379,Office Chair,1,SUP-PBR-SDA-02,1083263,Kursi,Sedang
+SKU-FURN-00187,Furnitur Kayu Olahan 957,Office Chair,1,SUP-PBR-SDA-03,1455914,Kursi,Sedang
+SKU-FURN-00188,Sofa Japandi Minimalis 938,sofabed,1,,3646193,Sofa,Bulky
+SKU-FURN-00189,Furnitur Kayu Olahan 883,Wardrobe,1,SUP-PRJ-KLT-01,2590159,Lemari,Bulky
+SKU-FURN-00190,Hiasan Meja / Karpet Aesthetic 97,Dekorasi,0,SUP-IMP-JKT-01,409517,Dekorasi,Ringan
+SKU-FURN-00191,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-IMP-SBY-01,425919,Dekorasi,Sedang
+SKU-FURN-00192,Hiasan Meja / Karpet Aesthetic 57,Dekorasi,0,SUP-IMP-JKT-01,586152,Dekorasi,Sedang
+SKU-FURN-00193,Furnitur Kayu Olahan 946,Lemari,1,,2339255,Lemari,Bulky
+SKU-FURN-00194,Sofa Japandi Minimalis 897,Sofa,1,,3599196,Sofa,Bulky
+SKU-FURN-00195,Furnitur Kayu Olahan 794,Kursi Kerja,1,SUP-PBR-SDA-02,1015097,Kursi,Sedang
+SKU-FURN-00196,Hiasan Meja / Karpet Aesthetic 19,Dekorasi,0,,743778,Dekorasi,Ringan
+SKU-FURN-00197,Furnitur Kayu Olahan 216,lmri,1,SUP-PRJ-SLO-01,3424920,Lemari,Oversized
+SKU-FURN-00198,Furnitur Kayu Olahan 250,Kursi Kerja,1,SUP-PBR-SDA-02,1311159,Kursi,Sedang
+SKU-FURN-00199,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-IMP-SBY-01,371426,Dekorasi,Ringan
+SKU-FURN-00200,Furnitur Kayu Olahan 554,Kursi Kerja,1,SUP-PBR-BKS-05,760425,Kursi,Sedang
+SKU-FURN-00201,Sofa Japandi Minimalis 660,sofabed,1,SUP-PRJ-KLT-02,2863410,Sofa,Bulky
+SKU-FURN-00202,Furnitur Kayu Olahan 901,Lemari,1,,3185167,Lemari,Bulky
+SKU-FURN-00203,Furnitur Kayu Olahan 170,Kursi Kerja,1,SUP-PBR-SDA-02,1383669,Kursi,Bulky
+SKU-FURN-00204,Furnitur Kayu Olahan 628,Meja Makan,1,SUP-PRJ-CRB-04,1306449,Meja,Sedang
+SKU-FURN-00205,Furnitur Kayu Olahan 413,Dining Table,1,,2145590,Meja,Bulky
+SKU-FURN-00206,Furnitur Kayu Olahan 179,Kursi Kerja,1,SUP-PBR-SDA-03,893466,Kursi,Bulky
+SKU-FURN-00207,Hiasan Meja / Karpet Aesthetic 65,Dekorasi,0,SUP-PBR-SMG-01,182264,Dekorasi,Ringan
+SKU-FURN-00208,Furnitur Kayu Olahan 335,Meja Makan,1,SUP-PBR-SMG-03,1340102,Meja,Bulky
+SKU-FURN-00209,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-PBR-SMG-01,434899,Dekorasi,Ringan
+SKU-FURN-00210,Sofa Japandi Minimalis 942,Sofa,1,SUP-PRJ-KLT-02,3029293,Sofa,Oversized
+SKU-FURN-00211,Furnitur Kayu Olahan 760,Kursi Kerja,1,SUP-PBR-SDA-02,981032,Kursi,Sedang
+SKU-FURN-00212,Sofa Japandi Minimalis 717,Sofa,0,SUP-PRJ-CRB-04,4030256,Sofa,Bulky
+SKU-FURN-00213,Furnitur Kayu Olahan 121,lmri,1,SUP-PBR-BKS-02,3451920,Lemari,Oversized
+SKU-FURN-00214,Sofa Japandi Minimalis 684,Sofa,1,SUP-PRJ-CRB-04,3807154,Sofa,Bulky
+SKU-FURN-00215,Furnitur Kayu Olahan 107,Office Chair,1,SUP-PBR-SDA-03,1349847,Kursi,Ringan
+SKU-FURN-00216,Sofa Japandi Minimalis 516,Sofa,0,SUP-PRJ-KLT-02,4194232,Sofa,Sedang
+SKU-FURN-00217,Furnitur Kayu Olahan 852,Lemari,1,SUP-PRJ-KLT-01,2623719,Lemari,Bulky
+SKU-FURN-00218,Furnitur Kayu Olahan 549,lmri,1,SUP-PRJ-KLT-01,2872789,Lemari,Oversized
+SKU-FURN-00219,Furnitur Kayu Olahan 145,Wardrobe,1,SUP-PRJ-SLO-03,3334400,Lemari,Oversized
+SKU-FURN-00220,Hiasan Meja / Karpet Aesthetic 71,Dekorasi,0,,690849,Dekorasi,Ringan
+SKU-FURN-00221,Sofa Japandi Minimalis 918,Sofa,0,SUP-PRJ-KLT-02,3627501,Sofa,Bulky
+SKU-FURN-00222,Furnitur Kayu Olahan 490,Meja Makan,1,SUP-PBR-SMG-03,1508412,Meja,Sedang
+SKU-FURN-00223,Furnitur Kayu Olahan 553,Bed,1,,4363785,Bed,Oversized
+SKU-FURN-00224,Sofa Japandi Minimalis 832,Sofa,1,SUP-PRJ-CRB-04,4148683,Sofa,Bulky
+SKU-FURN-00225,Sofa Japandi Minimalis 731,Sofa,0,SUP-PRJ-CRB-04,3988588,Sofa,Sedang
+SKU-FURN-00226,Furnitur Kayu Olahan 382,Lemari,1,SUP-PRJ-CRB-03,3233544,Lemari,Oversized
+SKU-FURN-00227,Furnitur Kayu Olahan 378,Lemari,1,SUP-PBR-SDA-05,2427622,Lemari,Oversized
+SKU-FURN-00228,Furnitur Kayu Olahan 929,Kursi Kerja,1,SUP-PBR-BKS-05,1003773,Kursi,Sedang
+SKU-FURN-00229,Furnitur Kayu Olahan 127,Bed,1,SUP-PRJ-CRB-01,4791421,Bed,Bulky
+SKU-FURN-00230,Hiasan Meja / Karpet Aesthetic 98,Dekorasi,0,,674058,Dekorasi,Sedang
+SKU-FURN-00231,Furnitur Kayu Olahan 649,Office Chair,1,SUP-PBR-SDA-02,802426,Kursi,Ringan
+SKU-FURN-00232,Hiasan Meja / Karpet Aesthetic 64,Dekorasi,0,SUP-PBR-BKS-03,797087,Dekorasi,Ringan
+SKU-FURN-00233,Furnitur Kayu Olahan 747,Lemari,1,SUP-PRJ-KLT-02,2463443,Lemari,Bulky
+SKU-FURN-00234,Hiasan Meja / Karpet Aesthetic 88,Dekorasi,0,,610861,Dekorasi,Ringan
+SKU-FURN-00235,Furnitur Kayu Olahan 216,Wardrobe,1,SUP-PBR-SDA-03,2311177,Lemari,Bulky
+SKU-FURN-00236,Furnitur Kayu Olahan 591,Meja Makan,1,SUP-PRJ-SLO-01,1834720,Meja,Bulky
+SKU-FURN-00237,Sofa Japandi Minimalis 757,sofabed,0,SUP-PRJ-CRB-04,4143375,Sofa,Bulky
+SKU-FURN-00238,Furnitur Kayu Olahan 189,Dining Table,1,SUP-PRJ-SLO-01,1280198,Meja,Bulky
+SKU-FURN-00239,Hiasan Meja / Karpet Aesthetic 74,Dekorasi,0,SUP-IMP-JKT-01,422160,Dekorasi,Ringan
+SKU-FURN-00240,Furnitur Kayu Olahan 198,Lemari,1,SUP-PBR-SDA-05,2989577,Lemari,Bulky
+SKU-FURN-00241,Furnitur Kayu Olahan 336,Meja Makan,1,SUP-PRJ-CRB-04,1832450,Meja,Sedang
+SKU-FURN-00242,Furnitur Kayu Olahan 403,lmri,1,SUP-PRJ-SLO-03,3061165,Lemari,Oversized
+SKU-FURN-00243,Sofa Japandi Minimalis 504,Sofa,0,,4009645,Sofa,Bulky
+SKU-FURN-00244,Hiasan Meja / Karpet Aesthetic 71,Dekorasi,0,SUP-PBR-BKS-03,747838,Dekorasi,Sedang
+SKU-FURN-00245,Furnitur Kayu Olahan 886,Lemari,1,SUP-PRJ-KLT-01,2979338,Lemari,Oversized
+SKU-FURN-00246,Sofa Japandi Minimalis 129,Sofa,1,,3706966,Sofa,Bulky
+SKU-FURN-00247,Sofa Japandi Minimalis 655,sofabed,1,SUP-PRJ-CRB-04,4281067,Sofa,Bulky
+SKU-FURN-00248,Furnitur Kayu Olahan 998,Meja Makan,1,SUP-PRJ-SLO-01,1845410,Meja,Sedang
+SKU-FURN-00249,Sofa Japandi Minimalis 597,Sofa,1,SUP-PRJ-KLT-02,2701288,Sofa,Bulky
+SKU-FURN-00250,Furnitur Kayu Olahan 536,Lemari,1,SUP-PBR-BKS-02,2708476,Lemari,Oversized
+SKU-FURN-00251,Sofa Japandi Minimalis 313,Sofa,0,SUP-PRJ-CRB-04,3756526,Sofa,Sedang
+SKU-FURN-00252,Furnitur Kayu Olahan 488,lmri,1,,2659521,Lemari,Bulky
+SKU-FURN-00253,Furnitur Kayu Olahan 431,Meja Makan,1,SUP-PRJ-KLT-05,1739315,Meja,Bulky
+SKU-FURN-00254,Furnitur Kayu Olahan 880,Lemari,1,SUP-PBR-SDA-05,3408932,Lemari,Oversized
+SKU-FURN-00255,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-PBR-BKS-03,375467,Dekorasi,Ringan
+SKU-FURN-00256,Furnitur Kayu Olahan 988,Wardrobe,1,SUP-PRJ-CRB-02,2853167,Lemari,Oversized
+SKU-FURN-00257,Furnitur Kayu Olahan 429,Bed,1,SUP-PRJ-SLO-03,5316308,Bed,Bulky
+SKU-FURN-00258,Furnitur Kayu Olahan 561,Meja Makan,1,SUP-PBR-TNG-01,1342631,Meja,Sedang
+SKU-FURN-00259,Furnitur Kayu Olahan 795,Dining Table,1,SUP-PRJ-KLT-04,2055160,Meja,Bulky
+SKU-FURN-00260,Furnitur Kayu Olahan 826,Office Chair,1,,935282,Kursi,Sedang
+SKU-FURN-00261,Furnitur Kayu Olahan 837,Office Chair,1,SUP-PBR-SDA-03,766651,Kursi,Sedang
+SKU-FURN-00262,Sofa Japandi Minimalis 386,Sofa,1,SUP-PRJ-CRB-04,2984287,Sofa,Sedang
+SKU-FURN-00263,Furnitur Kayu Olahan 933,Meja Makan,1,SUP-PRJ-SLO-01,1830602,Meja,Bulky
+SKU-FURN-00264,Furnitur Kayu Olahan 154,Kursi Kerja,1,SUP-PBR-SDA-03,1143211,Kursi,Sedang
+SKU-FURN-00265,Sofa Japandi Minimalis 473,Sofa,0,SUP-PBR-SMG-02,3116200,Sofa,Bulky
+SKU-FURN-00266,Sofa Japandi Minimalis 191,Sofa,1,SUP-PBR-SMG-02,3494211,Sofa,Bulky
+SKU-FURN-00267,Sofa Japandi Minimalis 536,Sofa,1,SUP-PRJ-KLT-02,2517738,Sofa,Bulky
+SKU-FURN-00268,Furnitur Kayu Olahan 423,Meja Makan,1,SUP-PRJ-SLO-01,1959175,Meja,Bulky
+SKU-FURN-00269,Furnitur Kayu Olahan 656,Bed,1,SUP-PBR-BKS-01,4230476,Bed,Oversized
+SKU-FURN-00270,Sofa Japandi Minimalis 790,Sofa,1,SUP-PRJ-KLT-02,3464692,Sofa,Bulky
+SKU-FURN-00271,Sofa Japandi Minimalis 181,Sofa,0,SUP-PBR-SMG-02,3649783,Sofa,Bulky
+SKU-FURN-00272,Furnitur Kayu Olahan 102,Lemari,1,SUP-PRJ-SLO-03,3435432,Lemari,Oversized
+SKU-FURN-00273,Furnitur Kayu Olahan 101,Office Chair,1,SUP-PBR-SDA-03,1316832,Kursi,Bulky
+SKU-FURN-00274,Furnitur Kayu Olahan 564,Office Chair,1,SUP-PBR-SDA-03,1219703,Kursi,Sedang
+SKU-FURN-00275,Hiasan Meja / Karpet Aesthetic 65,Dekorasi,0,SUP-IMP-JKT-01,323829,Dekorasi,Sedang
+SKU-FURN-00276,Sofa Japandi Minimalis 457,Sofa,1,SUP-PRJ-KLT-02,4243681,Sofa,Bulky
+SKU-FURN-00277,Furnitur Kayu Olahan 694,Office Chair,1,SUP-PBR-SDA-03,1418584,Kursi,Ringan
+SKU-FURN-00278,Furnitur Kayu Olahan 957,Bed,1,SUP-PBR-TNG-02,4583412,Bed,Bulky
+SKU-FURN-00279,Sofa Japandi Minimalis 667,Sofa,1,SUP-PRJ-KLT-02,3694525,Sofa,Bulky
+SKU-FURN-00280,Sofa Japandi Minimalis 634,sofabed,0,SUP-PBR-SMG-02,2579177,Sofa,Oversized
+SKU-FURN-00281,Sofa Japandi Minimalis 829,sofabed,1,SUP-PBR-SMG-02,2862806,Sofa,Sedang
+SKU-FURN-00282,Furnitur Kayu Olahan 978,Kursi Kerja,1,SUP-PBR-SDA-02,740499,Kursi,Sedang
+SKU-FURN-00283,Furnitur Kayu Olahan 479,Kursi Kerja,1,SUP-PBR-SDA-03,963293,Kursi,Sedang
+SKU-FURN-00284,Furnitur Kayu Olahan 719,Kursi Kerja,1,SUP-PBR-SDA-03,1092587,Kursi,Sedang
+SKU-FURN-00285,Hiasan Meja / Karpet Aesthetic 55,Dekorasi,0,,499415,Dekorasi,Ringan
+SKU-FURN-00286,Furnitur Kayu Olahan 583,Kursi Kerja,1,SUP-PBR-SDA-03,874081,Kursi,Sedang
+SKU-FURN-00287,Furnitur Kayu Olahan 327,lmri,1,SUP-PBR-SDA-05,2372150,Lemari,Bulky
+SKU-FURN-00288,Furnitur Kayu Olahan 541,Meja Makan,1,,1887984,Meja,Bulky
+SKU-FURN-00289,Furnitur Kayu Olahan 979,lmri,1,SUP-PRJ-SLO-01,2602937,Lemari,Bulky
+SKU-FURN-00290,Sofa Japandi Minimalis 671,sofabed,0,SUP-PBR-SMG-02,3497969,Sofa,Oversized
+SKU-FURN-00291,Sofa Japandi Minimalis 995,Sofa,0,SUP-PBR-SMG-02,3787624,Sofa,Bulky
+SKU-FURN-00292,Furnitur Kayu Olahan 264,lmri,1,SUP-PRJ-SLO-03,2461449,Lemari,Oversized
+SKU-FURN-00293,Furnitur Kayu Olahan 160,Wardrobe,1,SUP-PRJ-SLO-02,3277196,Lemari,Bulky
+SKU-FURN-00294,Furnitur Kayu Olahan 503,Lemari,1,SUP-PBR-SDA-04,3292285,Lemari,Oversized
+SKU-FURN-00295,Furnitur Kayu Olahan 200,Meja Makan,1,SUP-PRJ-KLT-05,1882437,Meja,Bulky
+SKU-FURN-00296,Furnitur Kayu Olahan 110,Kursi Kerja,1,SUP-PBR-BKS-05,1435435,Kursi,Sedang
+SKU-FURN-00297,Furnitur Kayu Olahan 734,lmri,1,SUP-PRJ-KLT-05,2005730,Lemari,Bulky
+SKU-FURN-00298,Furnitur Kayu Olahan 243,Bed,1,SUP-PRJ-CRB-05,3536223,Bed,Oversized
+SKU-FURN-00299,Furnitur Kayu Olahan 512,Dining Table,1,,1661850,Meja,Sedang
+SKU-FURN-00300,Furnitur Kayu Olahan 735,lmri,1,SUP-PRJ-SLO-01,2979824,Lemari,Oversized
+SKU-FURN-00301,Furnitur Kayu Olahan 217,Wardrobe,1,SUP-PRJ-TGL-01,2422920,Lemari,Oversized
+SKU-FURN-00302,Furnitur Kayu Olahan 166,Kursi Kerja,1,SUP-PBR-BKS-05,1122181,Kursi,Sedang
+SKU-FURN-00303,Furnitur Kayu Olahan 825,lmri,1,SUP-PBR-SDA-04,3327584,Lemari,Oversized
+SKU-FURN-00304,Furnitur Kayu Olahan 241,Dining Table,1,SUP-PRJ-CRB-03,1911414,Meja,Sedang
+SKU-FURN-00305,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-PBR-SMG-01,383046,Dekorasi,Sedang
+SKU-FURN-00306,Furnitur Kayu Olahan 542,Office Chair,1,SUP-PBR-BKS-05,1462301,Kursi,Sedang
+SKU-FURN-00307,Hiasan Meja / Karpet Aesthetic 76,Dekorasi,0,SUP-PBR-SMG-01,487265,Dekorasi,Sedang
+SKU-FURN-00308,Furnitur Kayu Olahan 968,Kursi Kerja,1,SUP-PBR-SDA-02,845491,Kursi,Ringan
+SKU-FURN-00309,Sofa Japandi Minimalis 734,Sofa,1,SUP-PBR-SMG-02,3141678,Sofa,Sedang
+SKU-FURN-00310,Furnitur Kayu Olahan 250,Lemari,1,SUP-PRJ-CRB-02,3094815,Lemari,Bulky
+SKU-FURN-00311,Hiasan Meja / Karpet Aesthetic 88,Dekorasi,0,SUP-IMP-JKT-01,438099,Dekorasi,Sedang
+SKU-FURN-00312,Furnitur Kayu Olahan 838,Meja Makan,1,SUP-PRJ-KLT-05,1896065,Meja,Sedang
+SKU-FURN-00313,Furnitur Kayu Olahan 364,Wardrobe,1,SUP-PRJ-KLT-01,2229714,Lemari,Oversized
+SKU-FURN-00314,Furnitur Kayu Olahan 978,Meja Makan,1,SUP-PRJ-KLT-05,2029376,Meja,Bulky
+SKU-FURN-00315,Furnitur Kayu Olahan 119,Kursi Kerja,1,SUP-PBR-BKS-05,1242727,Kursi,Sedang
+SKU-FURN-00316,Furnitur Kayu Olahan 798,Office Chair,1,SUP-PBR-SDA-03,699645,Kursi,Ringan
+SKU-FURN-00317,Furnitur Kayu Olahan 818,Meja Makan,1,,1745636,Meja,Sedang
+SKU-FURN-00318,Furnitur Kayu Olahan 901,Office Chair,1,SUP-PBR-SDA-03,1133265,Kursi,Ringan
+SKU-FURN-00319,Furnitur Kayu Olahan 533,lmri,1,SUP-PRJ-CRB-02,3021845,Lemari,Oversized
+SKU-FURN-00320,Furnitur Kayu Olahan 728,Meja Makan,1,SUP-PRJ-KLT-03,1803993,Meja,Sedang
+SKU-FURN-00321,Hiasan Meja / Karpet Aesthetic 84,Dekorasi,0,SUP-IMP-SBY-01,439286,Dekorasi,Ringan
+SKU-FURN-00322,Furnitur Kayu Olahan 953,Meja Makan,1,SUP-PRJ-CRB-04,2187222,Meja,Sedang
+SKU-FURN-00323,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-IMP-SBY-01,257152,Dekorasi,Ringan
+SKU-FURN-00324,Furnitur Kayu Olahan 927,Lemari,1,SUP-PRJ-TGL-01,2531276,Lemari,Bulky
+SKU-FURN-00325,Sofa Japandi Minimalis 881,Sofa,0,SUP-PRJ-CRB-04,4196717,Sofa,Bulky
+SKU-FURN-00326,Furnitur Kayu Olahan 936,Dining Table,1,SUP-PRJ-KLT-05,1946926,Meja,Sedang
+SKU-FURN-00327,Sofa Japandi Minimalis 148,Sofa,0,SUP-PBR-SMG-02,3760982,Sofa,Bulky
+SKU-FURN-00328,Hiasan Meja / Karpet Aesthetic 68,Dekorasi,0,SUP-PBR-BKS-03,170510,Dekorasi,Ringan
+SKU-FURN-00329,Furnitur Kayu Olahan 269,Kursi Kerja,1,SUP-PBR-SDA-02,1316357,Kursi,Sedang
+SKU-FURN-00330,Hiasan Meja / Karpet Aesthetic 90,Dekorasi,0,SUP-PBR-SMG-01,289037,Dekorasi,Ringan
+SKU-FURN-00331,Furnitur Kayu Olahan 824,Lemari,1,SUP-PBR-SDA-04,2825843,Lemari,Oversized
+SKU-FURN-00332,Sofa Japandi Minimalis 834,sofabed,1,SUP-PRJ-KLT-02,4356288,Sofa,Bulky
+SKU-FURN-00333,Furnitur Kayu Olahan 728,Bed,1,SUP-PBR-BKS-01,3714492,Bed,Oversized
+SKU-FURN-00334,Furnitur Kayu Olahan 954,Lemari,1,SUP-PBR-TNG-02,2628452,Lemari,Bulky
+SKU-FURN-00335,Hiasan Meja / Karpet Aesthetic 65,Dekorasi,0,SUP-IMP-SBY-01,729191,Dekorasi,Ringan
+SKU-FURN-00336,Furnitur Kayu Olahan 516,Meja Makan,1,SUP-PRJ-KLT-04,2141023,Meja,Sedang
+SKU-FURN-00337,Furnitur Kayu Olahan 409,Office Chair,1,SUP-PBR-BKS-05,1318503,Kursi,Ringan
+SKU-FURN-00338,Furnitur Kayu Olahan 129,Lemari,1,SUP-PRJ-CRB-05,2362761,Lemari,Oversized
+SKU-FURN-00339,Furnitur Kayu Olahan 225,Wardrobe,1,SUP-PRJ-CRB-02,3194836,Lemari,Bulky
+SKU-FURN-00340,Sofa Japandi Minimalis 481,Sofa,0,SUP-PBR-SMG-02,2776697,Sofa,Bulky
+SKU-FURN-00341,Furnitur Kayu Olahan 362,Wardrobe,1,SUP-PRJ-SLO-02,2732698,Lemari,Bulky
+SKU-FURN-00342,Furnitur Kayu Olahan 909,Bed,1,SUP-PRJ-CRB-01,3936293,Bed,Oversized
+SKU-FURN-00343,Hiasan Meja / Karpet Aesthetic 96,Dekorasi,0,SUP-IMP-SBY-01,613657,Dekorasi,Ringan
+SKU-FURN-00344,Sofa Japandi Minimalis 790,sofabed,0,SUP-PBR-SMG-02,4277603,Sofa,Bulky
+SKU-FURN-00345,Furnitur Kayu Olahan 891,Dining Table,1,SUP-PRJ-KLT-04,1846790,Meja,Bulky
+SKU-FURN-00346,Furnitur Kayu Olahan 432,Kursi Kerja,1,,644957,Kursi,Ringan
+SKU-FURN-00347,Furnitur Kayu Olahan 660,Bed,1,SUP-PBR-BKS-01,3810781,Bed,Bulky
+SKU-FURN-00348,Furnitur Kayu Olahan 906,Meja Makan,1,SUP-PBR-SMG-03,1442677,Meja,Bulky
+SKU-FURN-00349,Furnitur Kayu Olahan 142,Kursi Kerja,1,SUP-PBR-SDA-02,619280,Kursi,Ringan
+SKU-FURN-00350,Furnitur Kayu Olahan 640,Office Chair,1,SUP-PBR-SDA-02,726536,Kursi,Bulky
+SKU-FURN-00351,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-IMP-JKT-01,588640,Dekorasi,Ringan
+SKU-FURN-00352,Furnitur Kayu Olahan 940,Office Chair,1,SUP-PBR-SDA-03,1241558,Kursi,Sedang
+SKU-FURN-00353,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-PBR-BKS-03,599825,Dekorasi,Ringan
+SKU-FURN-00354,Furnitur Kayu Olahan 126,Wardrobe,1,SUP-PBR-SDA-04,3038738,Lemari,Bulky
+SKU-FURN-00355,Furnitur Kayu Olahan 864,Wardrobe,1,SUP-PRJ-KLT-01,3250793,Lemari,Bulky
+SKU-FURN-00356,Furnitur Kayu Olahan 658,Office Chair,1,SUP-PBR-SDA-02,1403512,Kursi,Sedang
+SKU-FURN-00357,Furnitur Kayu Olahan 288,Lemari,1,SUP-PBR-SDA-03,2898421,Lemari,Oversized
+SKU-FURN-00358,Furnitur Kayu Olahan 755,Office Chair,1,SUP-PBR-SDA-03,830907,Kursi,Sedang
+SKU-FURN-00359,Hiasan Meja / Karpet Aesthetic 28,Dekorasi,0,SUP-PBR-BKS-03,796257,Dekorasi,Ringan
+SKU-FURN-00360,Furnitur Kayu Olahan 248,Office Chair,1,SUP-PBR-BKS-05,1138024,Kursi,Sedang
+SKU-FURN-00361,Furnitur Kayu Olahan 796,Lemari,1,SUP-PRJ-CRB-03,3196265,Lemari,Bulky
+SKU-FURN-00362,Furnitur Kayu Olahan 896,Office Chair,1,SUP-PBR-SDA-02,1422549,Kursi,Sedang
+SKU-FURN-00363,Sofa Japandi Minimalis 882,sofabed,0,SUP-PBR-SMG-02,3013184,Sofa,Sedang
+SKU-FURN-00364,Furnitur Kayu Olahan 611,Wardrobe,1,SUP-PRJ-SLO-03,3002145,Lemari,Oversized
+SKU-FURN-00365,Furnitur Kayu Olahan 700,Lemari,1,SUP-PRJ-TGL-01,2784054,Lemari,Bulky
+SKU-FURN-00366,Furnitur Kayu Olahan 143,Bed,1,SUP-PRJ-KLT-04,5464615,Bed,Oversized
+SKU-FURN-00367,Furnitur Kayu Olahan 439,Lemari,1,SUP-PBR-SDA-04,3253613,Lemari,Oversized
+SKU-FURN-00368,Furnitur Kayu Olahan 553,Meja Makan,1,SUP-PRJ-KLT-05,1254329,Meja,Bulky
+SKU-FURN-00369,Sofa Japandi Minimalis 601,sofabed,0,SUP-PRJ-CRB-04,2748430,Sofa,Oversized
+SKU-FURN-00370,Furnitur Kayu Olahan 433,Meja Makan,1,SUP-PRJ-KLT-04,2167102,Meja,Sedang
+SKU-FURN-00371,Furnitur Kayu Olahan 505,Lemari,1,SUP-PRJ-KLT-05,3432762,Lemari,Bulky
+SKU-FURN-00372,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-PBR-BKS-03,172665,Dekorasi,Ringan
+SKU-FURN-00373,Furnitur Kayu Olahan 630,Office Chair,1,SUP-PBR-BKS-05,863519,Kursi,Sedang
+SKU-FURN-00374,Furnitur Kayu Olahan 938,Kursi Kerja,1,SUP-PBR-SDA-03,1454002,Kursi,Sedang
+SKU-FURN-00375,Furnitur Kayu Olahan 922,Office Chair,1,SUP-PBR-SDA-03,1340559,Kursi,Ringan
+SKU-FURN-00376,Sofa Japandi Minimalis 817,Sofa,0,SUP-PBR-SMG-02,4335325,Sofa,Bulky
+SKU-FURN-00377,Sofa Japandi Minimalis 204,Sofa,0,SUP-PRJ-KLT-02,4246123,Sofa,Bulky
+SKU-FURN-00378,Furnitur Kayu Olahan 467,Meja Makan,1,SUP-PRJ-KLT-04,1455047,Meja,Sedang
+SKU-FURN-00379,Furnitur Kayu Olahan 790,Wardrobe,1,SUP-PRJ-KLT-05,3411238,Lemari,Bulky
+SKU-FURN-00380,Furnitur Kayu Olahan 740,Office Chair,1,SUP-PBR-SDA-03,1242336,Kursi,Sedang
+SKU-FURN-00381,Furnitur Kayu Olahan 697,Office Chair,1,SUP-PBR-SDA-02,1293000,Kursi,Sedang
+SKU-FURN-00382,Hiasan Meja / Karpet Aesthetic 20,Dekorasi,0,SUP-IMP-JKT-01,800618,Dekorasi,Ringan
+SKU-FURN-00383,Furnitur Kayu Olahan 653,Bed,1,SUP-PBR-BKS-01,4798421,Bed,Bulky
+SKU-FURN-00384,Furnitur Kayu Olahan 112,Lemari,1,SUP-PRJ-KLT-01,3410555,Lemari,Oversized
+SKU-FURN-00385,Furnitur Kayu Olahan 788,Office Chair,1,SUP-PBR-BKS-05,1193329,Kursi,Sedang
+SKU-FURN-00386,Furnitur Kayu Olahan 410,Bed,1,SUP-PRJ-CRB-05,3381755,Bed,Bulky
+SKU-FURN-00387,Furnitur Kayu Olahan 727,Bed,1,SUP-PBR-TNG-02,5136629,Bed,Oversized
+SKU-FURN-00388,Furnitur Kayu Olahan 943,Bed,1,SUP-PRJ-JPR-01,3277671,Bed,Oversized
+SKU-FURN-00389,Furnitur Kayu Olahan 715,Kursi Kerja,1,SUP-PBR-SDA-02,1485558,Kursi,Sedang
+SKU-FURN-00390,Furnitur Kayu Olahan 326,Kursi Kerja,1,SUP-PBR-SDA-02,1338289,Kursi,Sedang
+SKU-FURN-00391,Furnitur Kayu Olahan 389,Office Chair,1,SUP-PBR-BKS-05,704712,Kursi,Sedang
+SKU-FURN-00392,Hiasan Meja / Karpet Aesthetic 82,Dekorasi,0,SUP-PBR-BKS-03,598519,Dekorasi,Ringan
+SKU-FURN-00393,Hiasan Meja / Karpet Aesthetic 18,Dekorasi,0,SUP-IMP-SBY-01,463779,Dekorasi,Sedang
+SKU-FURN-00394,Sofa Japandi Minimalis 560,Sofa,1,SUP-PBR-SMG-02,3061687,Sofa,Bulky
+SKU-FURN-00395,Sofa Japandi Minimalis 145,sofabed,1,SUP-PBR-SMG-02,2972010,Sofa,Bulky
+SKU-FURN-00396,Furnitur Kayu Olahan 281,Lemari,1,SUP-PRJ-CRB-03,2649986,Lemari,Oversized
+SKU-FURN-00397,Furnitur Kayu Olahan 979,Office Chair,1,SUP-PBR-BKS-05,1252930,Kursi,Sedang
+SKU-FURN-00398,Furnitur Kayu Olahan 868,Wardrobe,1,SUP-PRJ-KLT-02,2700750,Lemari,Bulky
+SKU-FURN-00399,Furnitur Kayu Olahan 813,Lemari,1,SUP-PRJ-KLT-05,2799194,Lemari,Bulky
+SKU-FURN-00400,Sofa Japandi Minimalis 291,Sofa,1,SUP-PRJ-CRB-04,4443726,Sofa,Bulky
+SKU-FURN-00401,Furnitur Kayu Olahan 937,Bed,1,SUP-PRJ-KLT-04,4117203,Bed,Oversized
+SKU-FURN-00402,Hiasan Meja / Karpet Aesthetic 48,Dekorasi,0,SUP-PBR-SMG-01,271581,Dekorasi,Sedang
+SKU-FURN-00403,Sofa Japandi Minimalis 320,Sofa,0,SUP-PRJ-CRB-04,3971935,Sofa,Bulky
+SKU-FURN-00404,Furnitur Kayu Olahan 124,Lemari,1,SUP-PRJ-SLO-02,3134941,Lemari,Oversized
+SKU-FURN-00405,Hiasan Meja / Karpet Aesthetic 13,Dekorasi,0,SUP-PBR-BKS-03,581841,Dekorasi,Ringan
+SKU-FURN-00406,Furnitur Kayu Olahan 150,Lemari,1,SUP-PBR-SDA-05,3018633,Lemari,Bulky
+SKU-FURN-00407,Furnitur Kayu Olahan 571,Kursi Kerja,1,SUP-PBR-BKS-05,767272,Kursi,Sedang
+SKU-FURN-00408,Furnitur Kayu Olahan 571,Office Chair,1,SUP-PBR-BKS-05,745873,Kursi,Sedang
+SKU-FURN-00409,Sofa Japandi Minimalis 922,sofabed,1,,3977700,Sofa,Sedang
+SKU-FURN-00410,Sofa Japandi Minimalis 448,sofabed,1,SUP-PRJ-CRB-04,3726152,Sofa,Sedang
+SKU-FURN-00411,Furnitur Kayu Olahan 743,Kursi Kerja,1,SUP-PBR-BKS-05,1069916,Kursi,Ringan
+SKU-FURN-00412,Furnitur Kayu Olahan 104,lmri,1,SUP-PRJ-TGL-01,3101966,Lemari,Bulky
+SKU-FURN-00413,Furnitur Kayu Olahan 975,Wardrobe,1,SUP-PRJ-CRB-02,2726641,Lemari,Bulky
+SKU-FURN-00414,Furnitur Kayu Olahan 185,Office Chair,1,SUP-PBR-SDA-02,1417199,Kursi,Sedang
+SKU-FURN-00415,Hiasan Meja / Karpet Aesthetic 14,Dekorasi,0,SUP-IMP-SBY-01,291325,Dekorasi,Sedang
+SKU-FURN-00416,Sofa Japandi Minimalis 271,sofabed,0,SUP-PBR-SMG-02,4137449,Sofa,Oversized
+SKU-FURN-00417,Furnitur Kayu Olahan 472,Lemari,1,SUP-PRJ-CRB-05,3421411,Lemari,Oversized
+SKU-FURN-00418,Furnitur Kayu Olahan 417,Bed,1,SUP-PRJ-CRB-05,4623680,Bed,Oversized
+SKU-FURN-00419,Furnitur Kayu Olahan 916,Bed,1,SUP-PBR-SMG-03,4447177,Bed,Oversized
+SKU-FURN-00420,Sofa Japandi Minimalis 426,sofabed,0,SUP-PBR-SMG-02,3417235,Sofa,Bulky
+SKU-FURN-00421,Furnitur Kayu Olahan 173,Kursi Kerja,1,SUP-PBR-BKS-05,1256248,Kursi,Bulky
+SKU-FURN-00422,Furnitur Kayu Olahan 741,Lemari,1,SUP-PRJ-KLT-01,2601856,Lemari,Bulky
+SKU-FURN-00423,Furnitur Kayu Olahan 485,Bed,1,SUP-PRJ-CRB-05,3605086,Bed,Bulky
+SKU-FURN-00424,Furnitur Kayu Olahan 180,Wardrobe,1,SUP-PRJ-SLO-01,3472429,Lemari,Oversized
+SKU-FURN-00425,Furnitur Kayu Olahan 880,Office Chair,1,SUP-PBR-BKS-05,1489543,Kursi,Sedang
+SKU-FURN-00426,Sofa Japandi Minimalis 967,Sofa,1,SUP-PRJ-CRB-04,3336545,Sofa,Bulky
+SKU-FURN-00427,Furnitur Kayu Olahan 174,Lemari,1,SUP-PRJ-KLT-01,3431427,Lemari,Oversized
+SKU-FURN-00428,Furnitur Kayu Olahan 261,Dining Table,1,SUP-PRJ-KLT-03,2097964,Meja,Bulky
+SKU-FURN-00429,Furnitur Kayu Olahan 553,Bed,1,SUP-PRJ-CRB-01,3457262,Bed,Oversized
+SKU-FURN-00430,Furnitur Kayu Olahan 900,Meja Makan,1,SUP-PRJ-CRB-03,1347037,Meja,Sedang
+SKU-FURN-00431,Furnitur Kayu Olahan 408,Office Chair,1,SUP-PBR-BKS-05,1057780,Kursi,Sedang
+SKU-FURN-00432,Furnitur Kayu Olahan 560,Meja Makan,1,SUP-PRJ-KLT-05,1950490,Meja,Sedang
+SKU-FURN-00433,Furnitur Kayu Olahan 940,Kursi Kerja,1,SUP-PBR-BKS-05,1172888,Kursi,Sedang
+SKU-FURN-00434,Furnitur Kayu Olahan 933,Wardrobe,1,SUP-PBR-SDA-03,2785877,Lemari,Bulky
+SKU-FURN-00435,Furnitur Kayu Olahan 112,lmri,1,SUP-PRJ-KLT-02,2877658,Lemari,Bulky
+SKU-FURN-00436,Sofa Japandi Minimalis 894,Sofa,0,SUP-PRJ-CRB-04,2801808,Sofa,Oversized
+SKU-FURN-00437,Sofa Japandi Minimalis 414,Sofa,1,SUP-PRJ-KLT-02,3096712,Sofa,Bulky
+SKU-FURN-00438,Furnitur Kayu Olahan 931,Kursi Kerja,1,SUP-PBR-SDA-02,1406466,Kursi,Sedang
+SKU-FURN-00439,Sofa Japandi Minimalis 822,Sofa,0,SUP-PBR-SMG-02,3628508,Sofa,Sedang
+SKU-FURN-00440,Sofa Japandi Minimalis 317,Sofa,0,SUP-PRJ-CRB-04,3459666,Sofa,Sedang
+SKU-FURN-00441,Furnitur Kayu Olahan 389,Wardrobe,1,SUP-PRJ-KLT-01,3201830,Lemari,Bulky
+SKU-FURN-00442,Furnitur Kayu Olahan 122,Wardrobe,1,SUP-PBR-SDA-04,2341012,Lemari,Bulky
+SKU-FURN-00443,Hiasan Meja / Karpet Aesthetic 49,Dekorasi,0,SUP-PBR-BKS-03,466204,Dekorasi,Ringan
+SKU-FURN-00444,Sofa Japandi Minimalis 762,Sofa,1,SUP-PRJ-KLT-02,2733240,Sofa,Bulky
+SKU-FURN-00445,Furnitur Kayu Olahan 407,Wardrobe,1,SUP-PRJ-SLO-02,3152448,Lemari,Bulky
+SKU-FURN-00446,Furnitur Kayu Olahan 349,Lemari,1,SUP-PRJ-KLT-05,2749918,Lemari,Oversized
+SKU-FURN-00447,Furnitur Kayu Olahan 890,Wardrobe,1,SUP-PBR-SDA-05,3199029,Lemari,Bulky
+SKU-FURN-00448,Furnitur Kayu Olahan 916,Lemari,1,SUP-PBR-BKS-02,3477170,Lemari,Bulky
+SKU-FURN-00449,Furnitur Kayu Olahan 188,Wardrobe,1,SUP-PBR-SDA-03,2666242,Lemari,Oversized
+SKU-FURN-00450,Furnitur Kayu Olahan 441,Meja Makan,1,SUP-PRJ-KLT-03,1208667,Meja,Bulky
+SKU-FURN-00451,Furnitur Kayu Olahan 246,Kursi Kerja,1,SUP-PBR-BKS-05,975587,Kursi,Ringan
+SKU-FURN-00452,Furnitur Kayu Olahan 208,Lemari,1,SUP-PRJ-TGL-01,2422439,Lemari,Oversized
+SKU-FURN-00453,Furnitur Kayu Olahan 418,Office Chair,1,SUP-PBR-SDA-03,1163423,Kursi,Sedang
+SKU-FURN-00454,Sofa Japandi Minimalis 250,Sofa,1,SUP-PBR-SMG-02,4338440,Sofa,Bulky
+SKU-FURN-00455,Hiasan Meja / Karpet Aesthetic 92,Dekorasi,0,SUP-IMP-JKT-01,306060,Dekorasi,Ringan
+SKU-FURN-00456,Furnitur Kayu Olahan 757,Wardrobe,1,SUP-PRJ-KLT-05,3039145,Lemari,Bulky
+SKU-FURN-00457,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-PBR-SMG-01,403250,Dekorasi,Ringan
+SKU-FURN-00458,Furnitur Kayu Olahan 831,Wardrobe,1,SUP-PRJ-KLT-01,2696940,Lemari,Oversized
+SKU-FURN-00459,Furnitur Kayu Olahan 689,Meja Makan,1,SUP-PRJ-KLT-03,1706226,Meja,Sedang
+SKU-FURN-00460,Furnitur Kayu Olahan 286,Meja Makan,1,SUP-PRJ-KLT-05,1491981,Meja,Sedang
+SKU-FURN-00461,Furnitur Kayu Olahan 318,Kursi Kerja,1,SUP-PBR-BKS-05,1302479,Kursi,Sedang
+SKU-FURN-00462,Furnitur Kayu Olahan 328,Meja Makan,1,SUP-PRJ-CRB-04,2014348,Meja,Sedang
+SKU-FURN-00463,Furnitur Kayu Olahan 192,Office Chair,1,SUP-PBR-SDA-02,1322804,Kursi,Sedang
+SKU-FURN-00464,Furnitur Kayu Olahan 459,Office Chair,1,SUP-PBR-SDA-03,1092260,Kursi,Sedang
+SKU-FURN-00465,Sofa Japandi Minimalis 271,Sofa,0,SUP-PRJ-KLT-02,3632303,Sofa,Sedang
+SKU-FURN-00466,Hiasan Meja / Karpet Aesthetic 21,Dekorasi,0,SUP-PBR-BKS-03,601221,Dekorasi,Ringan
+SKU-FURN-00467,Furnitur Kayu Olahan 108,Wardrobe,1,SUP-PRJ-CRB-05,3297347,Lemari,Oversized
+SKU-FURN-00468,Furnitur Kayu Olahan 621,Kursi Kerja,1,SUP-PBR-BKS-05,1218223,Kursi,Ringan
+SKU-FURN-00469,Sofa Japandi Minimalis 892,sofabed,1,SUP-PBR-SMG-02,3392451,Sofa,Bulky
+SKU-FURN-00470,Furnitur Kayu Olahan 266,Lemari,1,SUP-PRJ-SLO-02,2640278,Lemari,Oversized
+SKU-FURN-00471,Sofa Japandi Minimalis 236,sofabed,0,SUP-PRJ-CRB-04,2779843,Sofa,Bulky
+SKU-FURN-00472,Furnitur Kayu Olahan 616,Kursi Kerja,1,SUP-PBR-SDA-03,1178427,Kursi,Bulky
+SKU-FURN-00473,Furnitur Kayu Olahan 994,lmri,1,SUP-PRJ-CRB-02,2656691,Lemari,Oversized
+SKU-FURN-00474,Furnitur Kayu Olahan 532,Lemari,1,SUP-PRJ-SLO-02,3460127,Lemari,Oversized
+SKU-FURN-00475,Furnitur Kayu Olahan 775,lmri,1,SUP-PRJ-KLT-01,3217601,Lemari,Bulky
+SKU-FURN-00476,Hiasan Meja / Karpet Aesthetic 36,Dekorasi,0,SUP-PBR-SMG-01,318157,Dekorasi,Ringan
+SKU-FURN-00477,Furnitur Kayu Olahan 155,Lemari,1,SUP-PRJ-KLT-01,2781523,Lemari,Oversized
+SKU-FURN-00478,Sofa Japandi Minimalis 698,Sofa,1,SUP-PBR-SMG-02,3666351,Sofa,Bulky
+SKU-FURN-00479,Furnitur Kayu Olahan 291,Office Chair,1,SUP-PBR-SDA-03,797588,Kursi,Sedang
+SKU-FURN-00480,Sofa Japandi Minimalis 400,Sofa,0,SUP-PBR-SMG-02,3665206,Sofa,Oversized
+SKU-FURN-00481,Sofa Japandi Minimalis 732,sofabed,0,SUP-PBR-SMG-02,3595224,Sofa,Bulky
+SKU-FURN-00482,Sofa Japandi Minimalis 894,sofabed,0,SUP-PRJ-CRB-04,3327602,Sofa,Bulky
+SKU-FURN-00483,Furnitur Kayu Olahan 276,Wardrobe,1,SUP-PRJ-CRB-03,2780905,Lemari,Bulky
+SKU-FURN-00484,Furnitur Kayu Olahan 219,Lemari,1,SUP-PRJ-SLO-03,2775801,Lemari,Bulky
+SKU-FURN-00485,Furnitur Kayu Olahan 988,Office Chair,1,SUP-PBR-SDA-02,1100026,Kursi,Sedang
+SKU-FURN-00486,Furnitur Kayu Olahan 251,Office Chair,1,SUP-PBR-BKS-05,1217395,Kursi,Ringan
+SKU-FURN-00487,Furnitur Kayu Olahan 996,Office Chair,1,SUP-PBR-SDA-02,1097025,Kursi,Sedang
+SKU-FURN-00488,Hiasan Meja / Karpet Aesthetic 40,Dekorasi,0,SUP-IMP-JKT-01,384572,Dekorasi,Ringan
+SKU-FURN-00489,Furnitur Kayu Olahan 317,Kursi Kerja,1,SUP-PBR-BKS-05,1334792,Kursi,Sedang
+SKU-FURN-00490,Furnitur Kayu Olahan 941,Lemari,1,SUP-PBR-SDA-04,2701191,Lemari,Oversized
+SKU-FURN-00491,Sofa Japandi Minimalis 598,Sofa,0,SUP-PRJ-CRB-04,3403940,Sofa,Bulky
+SKU-FURN-00492,Sofa Japandi Minimalis 198,sofabed,1,SUP-PBR-SMG-02,3529780,Sofa,Oversized
+SKU-FURN-00493,Sofa Japandi Minimalis 727,Sofa,0,SUP-PBR-SMG-02,3513232,Sofa,Bulky
+SKU-FURN-00494,Furnitur Kayu Olahan 685,Meja Makan,1,SUP-PBR-TNG-01,1508948,Meja,Bulky
+SKU-FURN-00495,Hiasan Meja / Karpet Aesthetic 76,Dekorasi,0,SUP-PBR-SMG-01,239970,Dekorasi,Sedang
+SKU-FURN-00496,Furnitur Kayu Olahan 918,Lemari,1,SUP-PRJ-TGL-01,2784281,Lemari,Bulky
+SKU-FURN-00497,Sofa Japandi Minimalis 154,sofabed,1,SUP-PRJ-KLT-02,3301180,Sofa,Sedang
+SKU-FURN-00498,Sofa Japandi Minimalis 825,Sofa,0,SUP-PRJ-CRB-04,3371515,Sofa,Bulky
+SKU-FURN-00499,Sofa Japandi Minimalis 706,Sofa,1,SUP-PRJ-KLT-02,3169158,Sofa,Bulky
+SKU-FURN-00500,Sofa Japandi Minimalis 772,Sofa,0,SUP-PBR-SMG-02,3245199,Sofa,Oversized
+SKU-FURN-00501,Furnitur Kayu Olahan 356,Office Chair,1,SUP-PBR-BKS-05,1456727,Kursi,Sedang
+SKU-FURN-00502,Furnitur Kayu Olahan 250,lmri,1,SUP-PRJ-SLO-01,2919448,Lemari,Bulky
+SKU-FURN-00503,Furnitur Kayu Olahan 749,Meja Makan,1,SUP-PRJ-KLT-04,1753452,Meja,Bulky
+SKU-FURN-00504,Sofa Japandi Minimalis 591,sofabed,1,SUP-PBR-SMG-02,3196363,Sofa,Oversized
+SKU-FURN-00505,Furnitur Kayu Olahan 382,Wardrobe,1,SUP-PRJ-CRB-05,2785854,Lemari,Bulky
+SKU-FURN-00506,Furnitur Kayu Olahan 618,Office Chair,1,SUP-PBR-BKS-05,1181007,Kursi,Sedang
+SKU-FURN-00507,Sofa Japandi Minimalis 697,Sofa,0,SUP-PRJ-CRB-04,2899446,Sofa,Bulky
+SKU-FURN-00508,Furnitur Kayu Olahan 250,Lemari,1,SUP-PRJ-KLT-05,2088842,Lemari,Oversized
+SKU-FURN-00509,Sofa Japandi Minimalis 700,Sofa,0,SUP-PRJ-CRB-04,3794121,Sofa,Bulky
+SKU-FURN-00510,Furnitur Kayu Olahan 337,Office Chair,1,SUP-PBR-SDA-02,837001,Kursi,Sedang
+SKU-FURN-00511,Furnitur Kayu Olahan 745,Wardrobe,1,SUP-PRJ-SLO-03,2314592,Lemari,Bulky
+SKU-FURN-00512,Hiasan Meja / Karpet Aesthetic 29,Dekorasi,0,SUP-PBR-SMG-01,749427,Dekorasi,Sedang
+SKU-FURN-00513,Furnitur Kayu Olahan 781,Kursi Kerja,1,SUP-PBR-SDA-03,789197,Kursi,Sedang
+SKU-FURN-00514,Furnitur Kayu Olahan 370,Office Chair,1,SUP-PBR-BKS-05,1254302,Kursi,Sedang
+SKU-FURN-00515,Sofa Japandi Minimalis 963,Sofa,0,SUP-PBR-SMG-02,3856145,Sofa,Bulky
+SKU-FURN-00516,Furnitur Kayu Olahan 704,Bed,1,SUP-PRJ-CRB-05,3683666,Bed,Bulky
+SKU-FURN-00517,Furnitur Kayu Olahan 746,Kursi Kerja,1,SUP-PBR-SDA-02,1003173,Kursi,Bulky
+SKU-FURN-00518,Furnitur Kayu Olahan 810,Dining Table,1,SUP-PBR-BKS-05,1313515,Meja,Sedang
+SKU-FURN-00519,Furnitur Kayu Olahan 655,Lemari,1,SUP-PRJ-CRB-02,2097387,Lemari,Oversized
+SKU-FURN-00520,Hiasan Meja / Karpet Aesthetic 92,Dekorasi,0,SUP-PBR-SMG-01,580009,Dekorasi,Ringan
+SKU-FURN-00521,Furnitur Kayu Olahan 554,Lemari,1,SUP-PBR-BKS-02,2671910,Lemari,Oversized
+SKU-FURN-00522,Sofa Japandi Minimalis 670,Sofa,0,SUP-PRJ-KLT-02,3917178,Sofa,Oversized
+SKU-FURN-00523,Sofa Japandi Minimalis 739,Sofa,1,SUP-PBR-SMG-02,3128671,Sofa,Bulky
+SKU-FURN-00524,Furnitur Kayu Olahan 714,Office Chair,1,SUP-PBR-SDA-03,988564,Kursi,Sedang
+SKU-FURN-00525,Hiasan Meja / Karpet Aesthetic 56,Dekorasi,0,SUP-IMP-JKT-01,359848,Dekorasi,Sedang
+SKU-FURN-00526,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-PBR-SMG-01,411679,Dekorasi,Ringan
+SKU-FURN-00527,Furnitur Kayu Olahan 768,lmri,1,SUP-PRJ-CRB-02,2928392,Lemari,Bulky
+SKU-FURN-00528,Furnitur Kayu Olahan 665,Office Chair,1,SUP-PBR-SDA-03,1433212,Kursi,Sedang
+SKU-FURN-00529,Furnitur Kayu Olahan 876,Kursi Kerja,1,SUP-PBR-SDA-02,874348,Kursi,Sedang
+SKU-FURN-00530,Hiasan Meja / Karpet Aesthetic 26,Dekorasi,0,SUP-PBR-BKS-03,601821,Dekorasi,Ringan
+SKU-FURN-00531,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-PBR-SMG-01,663725,Dekorasi,Ringan
+SKU-FURN-00532,Hiasan Meja / Karpet Aesthetic 71,Dekorasi,0,SUP-IMP-JKT-01,484478,Dekorasi,Sedang
+SKU-FURN-00533,Furnitur Kayu Olahan 333,Bed,1,SUP-PBR-TNG-02,5356446,Bed,Oversized
+SKU-FURN-00534,Furnitur Kayu Olahan 816,Meja Makan,1,SUP-PRJ-KLT-04,1725320,Meja,Bulky
+SKU-FURN-00535,Hiasan Meja / Karpet Aesthetic 31,Dekorasi,0,SUP-PBR-SMG-01,462283,Dekorasi,Ringan
+SKU-FURN-00536,Furnitur Kayu Olahan 537,Kursi Kerja,1,SUP-PBR-SDA-02,945208,Kursi,Sedang
+SKU-FURN-00537,Hiasan Meja / Karpet Aesthetic 79,Dekorasi,0,SUP-IMP-SBY-01,558921,Dekorasi,Sedang
+SKU-FURN-00538,Hiasan Meja / Karpet Aesthetic 26,Dekorasi,0,SUP-PBR-SMG-01,627899,Dekorasi,Sedang
+SKU-FURN-00539,Hiasan Meja / Karpet Aesthetic 56,Dekorasi,0,SUP-PBR-BKS-03,605629,Dekorasi,Ringan
+SKU-FURN-00540,Furnitur Kayu Olahan 178,Kursi Kerja,1,SUP-PBR-SDA-03,1171455,Kursi,Sedang
+SKU-FURN-00541,Hiasan Meja / Karpet Aesthetic 61,Dekorasi,0,SUP-IMP-JKT-01,517591,Dekorasi,Ringan
+SKU-FURN-00542,Furnitur Kayu Olahan 333,Lemari,1,SUP-PRJ-SLO-02,2507183,Lemari,Oversized
+SKU-FURN-00543,Furnitur Kayu Olahan 132,Bed,1,SUP-PRJ-KLT-04,3823312,Bed,Oversized
+SKU-FURN-00544,Furnitur Kayu Olahan 484,Meja Makan,1,SUP-PRJ-KLT-05,1445826,Meja,Sedang
+SKU-FURN-00545,Furnitur Kayu Olahan 726,Office Chair,1,SUP-PBR-SDA-02,1372188,Kursi,Sedang
+SKU-FURN-00546,Furnitur Kayu Olahan 997,Wardrobe,1,SUP-PRJ-TGL-01,2874588,Lemari,Oversized
+SKU-FURN-00547,Furnitur Kayu Olahan 290,Wardrobe,1,SUP-PBR-BKS-02,2117403,Lemari,Bulky
+SKU-FURN-00548,Furnitur Kayu Olahan 818,Dining Table,1,SUP-PRJ-KLT-04,1331159,Meja,Sedang
+SKU-FURN-00549,Hiasan Meja / Karpet Aesthetic 19,Dekorasi,0,SUP-PBR-BKS-03,595850,Dekorasi,Sedang
+SKU-FURN-00550,Sofa Japandi Minimalis 119,Sofa,0,SUP-PRJ-KLT-02,3855293,Sofa,Sedang
+SKU-FURN-00551,Sofa Japandi Minimalis 789,sofabed,1,SUP-PRJ-KLT-02,3343019,Sofa,Sedang
+SKU-FURN-00552,Furnitur Kayu Olahan 857,Lemari,1,SUP-PRJ-KLT-05,2607753,Lemari,Oversized
+SKU-FURN-00553,Hiasan Meja / Karpet Aesthetic 69,Dekorasi,0,SUP-PBR-SMG-01,794396,Dekorasi,Ringan
+SKU-FURN-00554,Sofa Japandi Minimalis 135,Sofa,0,SUP-PBR-SMG-02,3144384,Sofa,Oversized
+SKU-FURN-00555,Furnitur Kayu Olahan 374,lmri,1,SUP-PBR-SDA-05,2955227,Lemari,Oversized
+SKU-FURN-00556,Furnitur Kayu Olahan 316,Office Chair,1,SUP-PBR-SDA-02,1122816,Kursi,Sedang
+SKU-FURN-00557,Sofa Japandi Minimalis 827,sofabed,1,SUP-PRJ-KLT-02,4028514,Sofa,Sedang
+SKU-FURN-00558,Furnitur Kayu Olahan 320,Kursi Kerja,1,SUP-PBR-SDA-02,1286097,Kursi,Sedang
+SKU-FURN-00559,Furnitur Kayu Olahan 688,Wardrobe,1,SUP-PRJ-KLT-05,3014505,Lemari,Oversized
+SKU-FURN-00560,Hiasan Meja / Karpet Aesthetic 74,Dekorasi,0,SUP-PBR-SMG-01,204518,Dekorasi,Sedang
+SKU-FURN-00561,Furnitur Kayu Olahan 203,Wardrobe,1,SUP-PBR-BKS-02,2573262,Lemari,Bulky
+SKU-FURN-00562,Hiasan Meja / Karpet Aesthetic 84,Dekorasi,0,SUP-PBR-SMG-01,199459,Dekorasi,Sedang
+SKU-FURN-00563,Sofa Japandi Minimalis 240,Sofa,1,SUP-PRJ-KLT-02,3092234,Sofa,Bulky
+SKU-FURN-00564,Hiasan Meja / Karpet Aesthetic 79,Dekorasi,0,SUP-PBR-BKS-03,695382,Dekorasi,Ringan
+SKU-FURN-00565,Furnitur Kayu Olahan 628,Meja Makan,1,SUP-PBR-SDA-01,1782195,Meja,Sedang
+SKU-FURN-00566,Furnitur Kayu Olahan 933,Kursi Kerja,1,SUP-PBR-SDA-03,1153704,Kursi,Sedang
+SKU-FURN-00567,Sofa Japandi Minimalis 225,Sofa,0,SUP-PBR-SMG-02,2837609,Sofa,Oversized
+SKU-FURN-00568,Furnitur Kayu Olahan 990,Meja Makan,1,SUP-PBR-SMG-03,1643986,Meja,Sedang
+SKU-FURN-00569,Furnitur Kayu Olahan 465,Kursi Kerja,1,SUP-PBR-SDA-02,824382,Kursi,Sedang
+SKU-FURN-00570,Furnitur Kayu Olahan 949,Lemari,1,SUP-PBR-SDA-03,3196200,Lemari,Oversized
+SKU-FURN-00571,Sofa Japandi Minimalis 952,Sofa,0,SUP-PBR-SMG-02,4319346,Sofa,Bulky
+SKU-FURN-00572,Furnitur Kayu Olahan 917,Dining Table,1,SUP-PRJ-SLO-01,1816977,Meja,Bulky
+SKU-FURN-00573,Hiasan Meja / Karpet Aesthetic 27,Dekorasi,0,SUP-IMP-SBY-01,396430,Dekorasi,Ringan
+SKU-FURN-00574,Furnitur Kayu Olahan 482,Lemari,1,SUP-PBR-SDA-03,2956376,Lemari,Bulky
+SKU-FURN-00575,Sofa Japandi Minimalis 883,sofabed,1,SUP-PRJ-KLT-02,4104352,Sofa,Bulky
+SKU-FURN-00576,Sofa Japandi Minimalis 232,Sofa,0,SUP-PRJ-CRB-04,2619367,Sofa,Bulky
+SKU-FURN-00577,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-IMP-JKT-01,172407,Dekorasi,Ringan
+SKU-FURN-00578,Furnitur Kayu Olahan 992,Dining Table,1,SUP-PBR-BKS-04,1686135,Meja,Sedang
+SKU-FURN-00579,Hiasan Meja / Karpet Aesthetic 65,Dekorasi,0,SUP-IMP-SBY-01,696807,Dekorasi,Ringan
+SKU-FURN-00580,Furnitur Kayu Olahan 580,Wardrobe,1,SUP-PRJ-SLO-02,3226006,Lemari,Bulky
+SKU-FURN-00581,Furnitur Kayu Olahan 614,Meja Makan,1,SUP-PRJ-KLT-05,1383527,Meja,Sedang
+SKU-FURN-00582,Sofa Japandi Minimalis 204,sofabed,0,SUP-PRJ-KLT-02,2956701,Sofa,Bulky
+SKU-FURN-00583,Furnitur Kayu Olahan 735,Meja Makan,1,SUP-PRJ-KLT-05,1646141,Meja,Bulky
+SKU-FURN-00584,Furnitur Kayu Olahan 489,Lemari,1,SUP-PRJ-SLO-03,2924049,Lemari,Bulky
+SKU-FURN-00585,Furnitur Kayu Olahan 471,Lemari,1,SUP-PBR-BKS-02,2370659,Lemari,Bulky
+SKU-FURN-00586,Furnitur Kayu Olahan 719,Wardrobe,1,SUP-PRJ-SLO-02,3273205,Lemari,Bulky
+SKU-FURN-00587,Hiasan Meja / Karpet Aesthetic 96,Dekorasi,0,SUP-IMP-JKT-01,574258,Dekorasi,Ringan
+SKU-FURN-00588,Furnitur Kayu Olahan 274,Kursi Kerja,1,SUP-PBR-SDA-02,842280,Kursi,Sedang
+SKU-FURN-00589,Furnitur Kayu Olahan 505,Office Chair,1,SUP-PBR-SDA-02,1166116,Kursi,Sedang
+SKU-FURN-00590,Furnitur Kayu Olahan 418,Meja Makan,1,SUP-PRJ-KLT-03,1786683,Meja,Bulky
+SKU-FURN-00591,Furnitur Kayu Olahan 145,Kursi Kerja,1,SUP-PBR-SDA-02,678764,Kursi,Bulky
+SKU-FURN-00592,Furnitur Kayu Olahan 257,Meja Makan,1,SUP-PRJ-SLO-01,1444461,Meja,Bulky
+SKU-FURN-00593,Furnitur Kayu Olahan 110,Bed,1,,4194061,Bed,Oversized
+SKU-FURN-00594,Furnitur Kayu Olahan 225,Dining Table,1,SUP-PRJ-KLT-05,2050785,Meja,Sedang
+SKU-FURN-00595,Furnitur Kayu Olahan 304,Wardrobe,1,SUP-PRJ-KLT-02,3148379,Lemari,Oversized
+SKU-FURN-00596,Furnitur Kayu Olahan 140,Lemari,1,SUP-PRJ-TGL-01,2486936,Lemari,Oversized
+SKU-FURN-00597,Sofa Japandi Minimalis 700,sofabed,0,SUP-PRJ-CRB-04,3545753,Sofa,Bulky
+SKU-FURN-00598,Hiasan Meja / Karpet Aesthetic 70,Dekorasi,0,SUP-PBR-BKS-03,678475,Dekorasi,Ringan
+SKU-FURN-00599,Furnitur Kayu Olahan 123,Lemari,1,SUP-PRJ-CRB-02,2818949,Lemari,Bulky
+SKU-FURN-00600,Furnitur Kayu Olahan 889,Lemari,1,SUP-PRJ-CRB-02,2662120,Lemari,Bulky
+SKU-FURN-00601,Hiasan Meja / Karpet Aesthetic 60,Dekorasi,0,SUP-PBR-BKS-03,636164,Dekorasi,Ringan
+SKU-FURN-00602,Furnitur Kayu Olahan 474,Wardrobe,1,SUP-PRJ-CRB-02,2325068,Lemari,Oversized
+SKU-FURN-00603,Furnitur Kayu Olahan 205,Meja Makan,1,SUP-PRJ-KLT-04,1646359,Meja,Sedang
+SKU-FURN-00604,Hiasan Meja / Karpet Aesthetic 43,Dekorasi,0,SUP-IMP-SBY-01,190286,Dekorasi,Sedang
+SKU-FURN-00605,Furnitur Kayu Olahan 172,Kursi Kerja,1,SUP-PBR-SDA-02,1212924,Kursi,Sedang
+SKU-FURN-00606,Furnitur Kayu Olahan 954,Lemari,1,SUP-PRJ-KLT-01,3463083,Lemari,Oversized
+SKU-FURN-00607,Furnitur Kayu Olahan 512,Office Chair,1,SUP-PBR-BKS-05,1224076,Kursi,Sedang
+SKU-FURN-00608,Sofa Japandi Minimalis 865,Sofa,0,SUP-PBR-SMG-02,4346347,Sofa,Sedang
+SKU-FURN-00609,Hiasan Meja / Karpet Aesthetic 20,Dekorasi,0,SUP-PBR-SMG-01,308902,Dekorasi,Ringan
+SKU-FURN-00610,Furnitur Kayu Olahan 956,Office Chair,1,SUP-PBR-BKS-05,1420451,Kursi,Bulky
+SKU-FURN-00611,Sofa Japandi Minimalis 962,Sofa,1,SUP-PRJ-CRB-04,3849970,Sofa,Bulky
+SKU-FURN-00612,Hiasan Meja / Karpet Aesthetic 59,Dekorasi,0,SUP-PBR-BKS-03,357553,Dekorasi,Ringan
+SKU-FURN-00613,Furnitur Kayu Olahan 687,Lemari,1,SUP-PRJ-SLO-03,2838515,Lemari,Bulky
+SKU-FURN-00614,Furnitur Kayu Olahan 538,Wardrobe,1,SUP-PRJ-TGL-01,3422966,Lemari,Bulky
+SKU-FURN-00615,Hiasan Meja / Karpet Aesthetic 42,Dekorasi,0,SUP-PBR-SMG-01,471593,Dekorasi,Ringan
+SKU-FURN-00616,Furnitur Kayu Olahan 977,Dining Table,1,SUP-PBR-BKS-04,1735137,Meja,Sedang
+SKU-FURN-00617,Hiasan Meja / Karpet Aesthetic 78,Dekorasi,0,SUP-IMP-JKT-01,774635,Dekorasi,Sedang
+SKU-FURN-00618,Furnitur Kayu Olahan 875,Bed,1,SUP-PRJ-TGL-01,5042830,Bed,Bulky
+SKU-FURN-00619,Furnitur Kayu Olahan 588,Meja Makan,1,SUP-PRJ-KLT-05,1320309,Meja,Oversized
+SKU-FURN-00620,Sofa Japandi Minimalis 332,Sofa,1,SUP-PRJ-KLT-02,3221433,Sofa,Bulky
+SKU-FURN-00621,Furnitur Kayu Olahan 875,Lemari,1,SUP-PRJ-SLO-03,2685068,Lemari,Oversized
+SKU-FURN-00622,Furnitur Kayu Olahan 168,Meja Makan,1,SUP-PBR-SDA-01,1593278,Meja,Oversized
+SKU-FURN-00623,Sofa Japandi Minimalis 169,Sofa,1,SUP-PRJ-CRB-04,4413228,Sofa,Bulky
+SKU-FURN-00624,Furnitur Kayu Olahan 549,Bed,1,SUP-PBR-BKS-01,3856369,Bed,Oversized
+SKU-FURN-00625,Furnitur Kayu Olahan 696,lmri,1,SUP-PRJ-SLO-03,3113037,Lemari,Oversized
+SKU-FURN-00626,Furnitur Kayu Olahan 775,Office Chair,1,SUP-PBR-SDA-03,791848,Kursi,Ringan
+SKU-FURN-00627,Furnitur Kayu Olahan 990,Meja Makan,1,SUP-PRJ-KLT-04,1726364,Meja,Bulky
+SKU-FURN-00628,Furnitur Kayu Olahan 718,Office Chair,1,SUP-PBR-BKS-05,1209193,Kursi,Sedang
+SKU-FURN-00629,Furnitur Kayu Olahan 116,Bed,1,SUP-PRJ-KLT-03,3745787,Bed,Oversized
+SKU-FURN-00630,Furnitur Kayu Olahan 103,lmri,1,SUP-PRJ-SLO-03,3290805,Lemari,Bulky
+SKU-FURN-00631,Furnitur Kayu Olahan 690,Office Chair,1,SUP-PBR-BKS-05,1086791,Kursi,Sedang
+SKU-FURN-00632,Hiasan Meja / Karpet Aesthetic 25,Dekorasi,0,SUP-IMP-SBY-01,413892,Dekorasi,Ringan
+SKU-FURN-00633,Furnitur Kayu Olahan 531,Wardrobe,1,SUP-PRJ-SLO-02,2333727,Lemari,Oversized
+SKU-FURN-00634,Furnitur Kayu Olahan 976,Kursi Kerja,1,SUP-PBR-SDA-03,886860,Kursi,Sedang
+SKU-FURN-00635,Hiasan Meja / Karpet Aesthetic 10,Dekorasi,0,SUP-PBR-SMG-01,625557,Dekorasi,Sedang
+SKU-FURN-00636,Furnitur Kayu Olahan 553,Bed,1,SUP-PRJ-KLT-04,5369546,Bed,Oversized
+SKU-FURN-00637,Furnitur Kayu Olahan 539,Meja Makan,1,SUP-PRJ-KLT-04,1754947,Meja,Sedang
+SKU-FURN-00638,Furnitur Kayu Olahan 915,Office Chair,1,SUP-PBR-SDA-03,1167679,Kursi,Sedang
+SKU-FURN-00639,Furnitur Kayu Olahan 254,Bed,1,SUP-PRJ-CRB-01,5218961,Bed,Bulky
+SKU-FURN-00640,Sofa Japandi Minimalis 488,Sofa,1,SUP-PRJ-CRB-04,3159352,Sofa,Sedang
+SKU-FURN-00641,Furnitur Kayu Olahan 813,Meja Makan,1,SUP-PRJ-KLT-04,1794449,Meja,Bulky
+SKU-FURN-00642,Hiasan Meja / Karpet Aesthetic 32,Dekorasi,0,SUP-PBR-BKS-03,691789,Dekorasi,Ringan
+SKU-FURN-00643,Furnitur Kayu Olahan 382,Kursi Kerja,1,SUP-PBR-SDA-02,1071099,Kursi,Ringan
+SKU-FURN-00644,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-IMP-SBY-01,513017,Dekorasi,Ringan
+SKU-FURN-00645,Furnitur Kayu Olahan 533,Dining Table,1,SUP-PRJ-SLO-01,1758850,Meja,Sedang
+SKU-FURN-00646,Furnitur Kayu Olahan 474,Kursi Kerja,1,SUP-PBR-SDA-02,1328802,Kursi,Ringan
+SKU-FURN-00647,Furnitur Kayu Olahan 983,Office Chair,1,SUP-PBR-BKS-05,1161871,Kursi,Sedang
+SKU-FURN-00648,Furnitur Kayu Olahan 250,lmri,1,SUP-PRJ-KLT-05,3015104,Lemari,Bulky
+SKU-FURN-00649,Furnitur Kayu Olahan 709,lmri,1,SUP-PBR-BKS-02,2064147,Lemari,Oversized
+SKU-FURN-00650,Furnitur Kayu Olahan 660,Meja Makan,1,SUP-PRJ-KLT-04,1737559,Meja,Sedang
+SKU-FURN-00651,Furnitur Kayu Olahan 887,Meja Makan,1,SUP-PRJ-KLT-05,1489243,Meja,Sedang
+SKU-FURN-00652,Furnitur Kayu Olahan 770,Office Chair,1,SUP-PBR-BKS-05,1210997,Kursi,Sedang
+SKU-FURN-00653,Furnitur Kayu Olahan 240,Office Chair,1,SUP-PBR-SDA-03,711460,Kursi,Ringan
+SKU-FURN-00654,Furnitur Kayu Olahan 482,Kursi Kerja,1,SUP-PBR-SDA-03,1450984,Kursi,Sedang
+SKU-FURN-00655,Sofa Japandi Minimalis 857,Sofa,1,SUP-PRJ-CRB-04,3615811,Sofa,Bulky
+SKU-FURN-00656,Furnitur Kayu Olahan 111,Lemari,1,SUP-PRJ-KLT-02,3186168,Lemari,Bulky
+SKU-FURN-00657,Furnitur Kayu Olahan 564,Wardrobe,1,SUP-PRJ-SLO-01,3335956,Lemari,Oversized
+SKU-FURN-00658,Sofa Japandi Minimalis 952,Sofa,0,SUP-PBR-SMG-02,3055303,Sofa,Bulky
+SKU-FURN-00659,Sofa Japandi Minimalis 216,Sofa,0,SUP-PRJ-KLT-02,2743617,Sofa,Bulky
+SKU-FURN-00660,Furnitur Kayu Olahan 527,Dining Table,1,SUP-PBR-SMG-03,1883460,Meja,Sedang
+SKU-FURN-00661,Furnitur Kayu Olahan 206,Lemari,1,SUP-PBR-SDA-03,2404214,Lemari,Bulky
+SKU-FURN-00662,Furnitur Kayu Olahan 182,Lemari,1,SUP-PRJ-SLO-01,3428969,Lemari,Oversized
+SKU-FURN-00663,Furnitur Kayu Olahan 213,Lemari,1,SUP-PRJ-CRB-02,3090609,Lemari,Oversized
+SKU-FURN-00664,Furnitur Kayu Olahan 535,Wardrobe,1,SUP-PBR-BKS-02,3126472,Lemari,Bulky
+SKU-FURN-00665,Furnitur Kayu Olahan 965,Lemari,1,SUP-PRJ-KLT-02,2550811,Lemari,Bulky
+SKU-FURN-00666,Sofa Japandi Minimalis 639,Sofa,0,SUP-PRJ-KLT-02,3982245,Sofa,Sedang
+SKU-FURN-00667,Sofa Japandi Minimalis 836,Sofa,0,SUP-PRJ-CRB-04,2769920,Sofa,Sedang
+SKU-FURN-00668,Furnitur Kayu Olahan 822,Dining Table,1,SUP-PRJ-KLT-03,1735133,Meja,Sedang
+SKU-FURN-00669,Hiasan Meja / Karpet Aesthetic 54,Dekorasi,0,SUP-PBR-BKS-03,769166,Dekorasi,Ringan
+SKU-FURN-00670,Hiasan Meja / Karpet Aesthetic 26,Dekorasi,0,SUP-IMP-SBY-01,425600,Dekorasi,Ringan
+SKU-FURN-00671,Furnitur Kayu Olahan 655,Kursi Kerja,1,SUP-PBR-SDA-03,1415551,Kursi,Sedang
+SKU-FURN-00672,Furnitur Kayu Olahan 945,Meja Makan,1,SUP-PBR-TNG-01,1787730,Meja,Sedang
+SKU-FURN-00673,Hiasan Meja / Karpet Aesthetic 39,Dekorasi,0,SUP-PBR-BKS-03,354296,Dekorasi,Ringan
+SKU-FURN-00674,Furnitur Kayu Olahan 733,Lemari,1,SUP-PRJ-SLO-03,3499989,Lemari,Bulky
+SKU-FURN-00675,Furnitur Kayu Olahan 359,Kursi Kerja,1,SUP-PBR-SDA-03,1447021,Kursi,Bulky
+SKU-FURN-00676,Furnitur Kayu Olahan 211,Office Chair,1,SUP-PBR-SDA-03,1391749,Kursi,Ringan
+SKU-FURN-00677,Furnitur Kayu Olahan 624,lmri,1,SUP-PRJ-KLT-05,3047329,Lemari,Bulky
+SKU-FURN-00678,Sofa Japandi Minimalis 553,Sofa,0,,3544928,Sofa,Oversized
+SKU-FURN-00679,Furnitur Kayu Olahan 713,Dining Table,1,SUP-PBR-SDA-01,1582746,Meja,Sedang
+SKU-FURN-00680,Furnitur Kayu Olahan 242,Meja Makan,1,SUP-PRJ-KLT-03,2161786,Meja,Bulky
+SKU-FURN-00681,Hiasan Meja / Karpet Aesthetic 12,Dekorasi,0,SUP-IMP-JKT-01,592930,Dekorasi,Ringan
+SKU-FURN-00682,Furnitur Kayu Olahan 211,Kursi Kerja,1,SUP-PBR-SDA-02,1071117,Kursi,Sedang
+SKU-FURN-00683,Furnitur Kayu Olahan 552,Dining Table,1,SUP-PRJ-SLO-01,1291224,Meja,Bulky
+SKU-FURN-00684,Furnitur Kayu Olahan 486,Office Chair,1,SUP-PBR-BKS-05,760119,Kursi,Sedang
+SKU-FURN-00685,Hiasan Meja / Karpet Aesthetic 41,Dekorasi,0,SUP-IMP-JKT-01,739628,Dekorasi,Sedang
+SKU-FURN-00686,Sofa Japandi Minimalis 401,sofabed,1,SUP-PRJ-CRB-04,3520544,Sofa,Oversized
+SKU-FURN-00687,Furnitur Kayu Olahan 506,Kursi Kerja,1,SUP-PBR-SDA-02,772488,Kursi,Sedang
+SKU-FURN-00688,Furnitur Kayu Olahan 367,Kursi Kerja,1,,786185,Kursi,Ringan
+SKU-FURN-00689,Furnitur Kayu Olahan 881,Kursi Kerja,1,SUP-PBR-BKS-05,1087486,Kursi,Ringan
+SKU-FURN-00690,Sofa Japandi Minimalis 776,Sofa,0,SUP-PRJ-CRB-04,3085070,Sofa,Bulky
+SKU-FURN-00691,Furnitur Kayu Olahan 769,Meja Makan,1,SUP-PBR-TNG-01,1593367,Meja,Sedang
+SKU-FURN-00692,Hiasan Meja / Karpet Aesthetic 91,Dekorasi,0,SUP-PBR-SMG-01,493550,Dekorasi,Ringan
+SKU-FURN-00693,Sofa Japandi Minimalis 317,sofabed,0,SUP-PRJ-KLT-02,3258193,Sofa,Bulky
+SKU-FURN-00694,Sofa Japandi Minimalis 413,Sofa,1,SUP-PBR-SMG-02,3928612,Sofa,Bulky
+SKU-FURN-00695,Sofa Japandi Minimalis 140,sofabed,0,SUP-PBR-SMG-02,3016037,Sofa,Bulky
+SKU-FURN-00696,Furnitur Kayu Olahan 459,Meja Makan,1,SUP-PBR-SDA-01,1707238,Meja,Sedang
+SKU-FURN-00697,Sofa Japandi Minimalis 525,sofabed,0,SUP-PRJ-KLT-02,3636724,Sofa,Sedang
+SKU-FURN-00698,Furnitur Kayu Olahan 674,Lemari,1,SUP-PBR-SDA-04,3025020,Lemari,Bulky
+SKU-FURN-00699,Furnitur Kayu Olahan 576,Dining Table,1,SUP-PBR-BKS-05,2141575,Meja,Sedang
+SKU-FURN-00700,Furnitur Kayu Olahan 322,Wardrobe,1,SUP-PBR-SDA-05,3469775,Lemari,Oversized
+SKU-FURN-00701,Furnitur Kayu Olahan 860,Meja Makan,1,SUP-PRJ-KLT-04,1229586,Meja,Sedang
+SKU-FURN-00702,Furnitur Kayu Olahan 241,Lemari,1,SUP-PRJ-CRB-02,3205639,Lemari,Oversized
+SKU-FURN-00703,Furnitur Kayu Olahan 514,Office Chair,1,SUP-PBR-SDA-02,1225599,Kursi,Bulky
+SKU-FURN-00704,Furnitur Kayu Olahan 443,Bed,1,SUP-PBR-TNG-02,3952152,Bed,Oversized
+SKU-FURN-00705,Sofa Japandi Minimalis 410,Sofa,1,SUP-PRJ-CRB-04,3898510,Sofa,Oversized
+SKU-FURN-00706,Furnitur Kayu Olahan 877,Meja Makan,1,SUP-PBR-SMG-03,1925777,Meja,Sedang
+SKU-FURN-00707,Furnitur Kayu Olahan 661,Office Chair,1,SUP-PBR-BKS-05,1399642,Kursi,Sedang
+SKU-FURN-00708,Sofa Japandi Minimalis 810,Sofa,0,SUP-PRJ-CRB-04,4199597,Sofa,Bulky
+SKU-FURN-00709,Furnitur Kayu Olahan 994,Wardrobe,1,SUP-PRJ-CRB-05,2019459,Lemari,Bulky
+SKU-FURN-00710,Hiasan Meja / Karpet Aesthetic 84,Dekorasi,0,SUP-IMP-SBY-01,526789,Dekorasi,Ringan
+SKU-FURN-00711,Furnitur Kayu Olahan 763,lmri,1,SUP-PRJ-KLT-01,2132766,Lemari,Oversized
+SKU-FURN-00712,Furnitur Kayu Olahan 519,Kursi Kerja,1,SUP-PBR-SDA-02,1437434,Kursi,Bulky
+SKU-FURN-00713,Furnitur Kayu Olahan 934,Dining Table,1,SUP-PBR-TNG-01,2165744,Meja,Sedang
+SKU-FURN-00714,Hiasan Meja / Karpet Aesthetic 66,Dekorasi,0,SUP-PBR-BKS-03,436317,Dekorasi,Sedang
+SKU-FURN-00715,Furnitur Kayu Olahan 351,Lemari,1,SUP-PRJ-CRB-02,3320009,Lemari,Bulky
+SKU-FURN-00716,Furnitur Kayu Olahan 507,Office Chair,1,SUP-PBR-BKS-05,793235,Kursi,Ringan
+SKU-FURN-00717,Sofa Japandi Minimalis 949,Sofa,1,SUP-PBR-SMG-02,3095917,Sofa,Sedang
+SKU-FURN-00718,Furnitur Kayu Olahan 864,Office Chair,1,SUP-PBR-SDA-03,749115,Kursi,Sedang
+SKU-FURN-00719,Furnitur Kayu Olahan 371,Bed,1,SUP-PBR-BKS-01,3561229,Bed,Oversized
+SKU-FURN-00720,Furnitur Kayu Olahan 353,Kursi Kerja,1,SUP-PBR-SDA-02,733137,Kursi,Sedang
+SKU-FURN-00721,Furnitur Kayu Olahan 508,Lemari,1,SUP-PRJ-CRB-02,2287000,Lemari,Bulky
+SKU-FURN-00722,Hiasan Meja / Karpet Aesthetic 98,Dekorasi,0,SUP-IMP-SBY-01,596574,Dekorasi,Ringan
+SKU-FURN-00723,Furnitur Kayu Olahan 163,Wardrobe,1,SUP-PRJ-SLO-03,3338312,Lemari,Oversized
+SKU-FURN-00724,Furnitur Kayu Olahan 735,Meja Makan,1,SUP-PRJ-KLT-05,1225939,Meja,Sedang
+SKU-FURN-00725,Hiasan Meja / Karpet Aesthetic 61,Dekorasi,0,SUP-IMP-JKT-01,640883,Dekorasi,Ringan
+SKU-FURN-00726,Furnitur Kayu Olahan 699,Kursi Kerja,1,SUP-PBR-SDA-03,1285014,Kursi,Sedang
+SKU-FURN-00727,Furnitur Kayu Olahan 691,Kursi Kerja,1,SUP-PBR-SDA-03,1493009,Kursi,Sedang
+SKU-FURN-00728,Furnitur Kayu Olahan 614,lmri,1,SUP-PRJ-CRB-03,2136192,Lemari,Oversized
+SKU-FURN-00729,Hiasan Meja / Karpet Aesthetic 96,Dekorasi,0,SUP-IMP-SBY-01,219715,Dekorasi,Ringan
+SKU-FURN-00730,Furnitur Kayu Olahan 400,Bed,1,SUP-PBR-BKS-01,4828332,Bed,Oversized
+SKU-FURN-00731,Furnitur Kayu Olahan 844,Meja Makan,1,SUP-PBR-BKS-02,1526043,Meja,Oversized
+SKU-FURN-00732,Furnitur Kayu Olahan 194,Dining Table,1,SUP-PRJ-CRB-03,1779644,Meja,Bulky
+SKU-FURN-00733,Furnitur Kayu Olahan 810,Kursi Kerja,1,SUP-PBR-BKS-05,1129803,Kursi,Bulky
+SKU-FURN-00734,Furnitur Kayu Olahan 470,lmri,1,SUP-PRJ-CRB-02,3429296,Lemari,Oversized
+SKU-FURN-00735,Furnitur Kayu Olahan 856,Office Chair,1,SUP-PBR-SDA-02,1013987,Kursi,Sedang
+SKU-FURN-00736,Sofa Japandi Minimalis 512,Sofa,0,SUP-PRJ-CRB-04,3868603,Sofa,Bulky
+SKU-FURN-00737,Furnitur Kayu Olahan 881,Meja Makan,1,SUP-PRJ-SLO-01,1444196,Meja,Sedang
+SKU-FURN-00738,Furnitur Kayu Olahan 735,Kursi Kerja,1,SUP-PBR-SDA-03,1023701,Kursi,Sedang
+SKU-FURN-00739,Furnitur Kayu Olahan 424,Meja Makan,1,SUP-PRJ-KLT-04,1214397,Meja,Sedang
+SKU-FURN-00740,Sofa Japandi Minimalis 123,sofabed,1,SUP-PRJ-KLT-02,3555998,Sofa,Bulky
+SKU-FURN-00741,Hiasan Meja / Karpet Aesthetic 73,Dekorasi,0,SUP-PBR-BKS-03,280513,Dekorasi,Ringan
+SKU-FURN-00742,Sofa Japandi Minimalis 276,Sofa,1,SUP-PRJ-CRB-04,3718924,Sofa,Oversized
+SKU-FURN-00743,Furnitur Kayu Olahan 421,lmri,1,SUP-PRJ-KLT-05,2685063,Lemari,Oversized
+SKU-FURN-00744,Hiasan Meja / Karpet Aesthetic 23,Dekorasi,0,SUP-IMP-JKT-01,196476,Dekorasi,Ringan
+SKU-FURN-00745,Furnitur Kayu Olahan 372,Meja Makan,1,SUP-PRJ-KLT-04,1629161,Meja,Bulky
+SKU-FURN-00746,Sofa Japandi Minimalis 912,Sofa,1,SUP-PRJ-KLT-02,4445151,Sofa,Bulky
+SKU-FURN-00747,Furnitur Kayu Olahan 646,Kursi Kerja,1,SUP-PBR-SDA-02,1351852,Kursi,Sedang
+SKU-FURN-00748,Furnitur Kayu Olahan 327,Kursi Kerja,1,SUP-PBR-SDA-02,653975,Kursi,Sedang
+SKU-FURN-00749,Furnitur Kayu Olahan 665,Bed,1,SUP-PRJ-SLO-03,3298116,Bed,Oversized
+SKU-FURN-00750,Sofa Japandi Minimalis 213,Sofa,0,SUP-PRJ-CRB-04,3260400,Sofa,Sedang
+SKU-FURN-00751,Furnitur Kayu Olahan 144,Office Chair,1,SUP-PBR-BKS-05,650322,Kursi,Sedang
+SKU-FURN-00752,Sofa Japandi Minimalis 212,Sofa,1,SUP-PBR-SMG-02,3756850,Sofa,Oversized
+SKU-FURN-00753,Furnitur Kayu Olahan 774,Lemari,1,SUP-PBR-SDA-04,3217828,Lemari,Oversized
+SKU-FURN-00754,Furnitur Kayu Olahan 712,Kursi Kerja,1,SUP-PBR-SDA-03,1374727,Kursi,Bulky
+SKU-FURN-00755,Furnitur Kayu Olahan 928,Office Chair,1,SUP-PBR-SDA-03,1411076,Kursi,Sedang
+SKU-FURN-00756,Hiasan Meja / Karpet Aesthetic 64,Dekorasi,0,SUP-IMP-JKT-01,721601,Dekorasi,Sedang
+SKU-FURN-00757,Furnitur Kayu Olahan 441,Meja Makan,1,SUP-PRJ-SLO-01,1882114,Meja,Sedang
+SKU-FURN-00758,Furnitur Kayu Olahan 516,Lemari,1,SUP-PRJ-CRB-02,3349107,Lemari,Oversized
+SKU-FURN-00759,Furnitur Kayu Olahan 402,Office Chair,1,SUP-PBR-BKS-05,1195015,Kursi,Ringan
+SKU-FURN-00760,Furnitur Kayu Olahan 402,Wardrobe,1,SUP-PBR-SDA-04,3110180,Lemari,Bulky
+SKU-FURN-00761,Sofa Japandi Minimalis 387,Sofa,1,SUP-PRJ-CRB-04,4321424,Sofa,Bulky
+SKU-FURN-00762,Sofa Japandi Minimalis 203,Sofa,0,SUP-PRJ-KLT-02,4301202,Sofa,Bulky
+SKU-FURN-00763,Sofa Japandi Minimalis 923,Sofa,1,SUP-PBR-SMG-02,2811427,Sofa,Oversized
+SKU-FURN-00764,Furnitur Kayu Olahan 178,Wardrobe,1,SUP-PBR-BKS-02,2637931,Lemari,Bulky
+SKU-FURN-00765,Furnitur Kayu Olahan 556,Dining Table,1,SUP-PBR-SDA-01,1661258,Meja,Bulky
+SKU-FURN-00766,Sofa Japandi Minimalis 817,Sofa,0,SUP-PRJ-KLT-02,4229316,Sofa,Bulky
+SKU-FURN-00767,Furnitur Kayu Olahan 392,Office Chair,1,SUP-PBR-SDA-02,1034899,Kursi,Sedang
+SKU-FURN-00768,Furnitur Kayu Olahan 621,Meja Makan,1,SUP-PRJ-CRB-01,1801448,Meja,Sedang
+SKU-FURN-00769,Furnitur Kayu Olahan 316,Wardrobe,1,SUP-PRJ-TGL-01,2784199,Lemari,Oversized
+SKU-FURN-00770,Furnitur Kayu Olahan 156,Meja Makan,1,SUP-PBR-BKS-04,1631449,Meja,Bulky
+SKU-FURN-00771,Furnitur Kayu Olahan 606,Office Chair,1,SUP-PBR-SDA-03,632129,Kursi,Sedang
+SKU-FURN-00772,Furnitur Kayu Olahan 352,Wardrobe,1,SUP-PRJ-SLO-02,2680927,Lemari,Bulky
+SKU-FURN-00773,Furnitur Kayu Olahan 806,Kursi Kerja,1,SUP-PBR-SDA-03,1385156,Kursi,Ringan
+SKU-FURN-00774,Sofa Japandi Minimalis 420,sofabed,0,SUP-PRJ-KLT-02,3898671,Sofa,Bulky
+SKU-FURN-00775,Furnitur Kayu Olahan 643,Kursi Kerja,1,SUP-PBR-BKS-05,1445381,Kursi,Sedang
+SKU-FURN-00776,Furnitur Kayu Olahan 975,Kursi Kerja,1,SUP-PBR-BKS-05,776567,Kursi,Ringan
+SKU-FURN-00777,Furnitur Kayu Olahan 551,Office Chair,1,SUP-PBR-BKS-05,1374448,Kursi,Sedang
+SKU-FURN-00778,Furnitur Kayu Olahan 176,Lemari,1,SUP-PBR-SDA-04,2068405,Lemari,Bulky
+SKU-FURN-00779,Furnitur Kayu Olahan 304,Office Chair,1,SUP-PBR-SDA-02,1149741,Kursi,Sedang
+SKU-FURN-00780,Sofa Japandi Minimalis 201,Sofa,0,SUP-PRJ-CRB-04,2841819,Sofa,Bulky
+SKU-FURN-00781,Furnitur Kayu Olahan 349,Wardrobe,1,SUP-PRJ-TGL-01,3446834,Lemari,Bulky
+SKU-FURN-00782,Furnitur Kayu Olahan 594,Lemari,1,SUP-PRJ-KLT-01,3275138,Lemari,Oversized
+SKU-FURN-00783,Furnitur Kayu Olahan 685,lmri,1,SUP-PRJ-TGL-01,2590925,Lemari,Bulky
+SKU-FURN-00784,Furnitur Kayu Olahan 480,Kursi Kerja,1,SUP-PBR-BKS-05,1289797,Kursi,Sedang
+SKU-FURN-00785,Furnitur Kayu Olahan 615,Office Chair,1,SUP-PBR-SDA-03,1134108,Kursi,Sedang
+SKU-FURN-00786,Furnitur Kayu Olahan 731,Meja Makan,1,SUP-PRJ-KLT-05,1406705,Meja,Bulky
+SKU-FURN-00787,Sofa Japandi Minimalis 724,Sofa,1,SUP-PRJ-CRB-04,3124439,Sofa,Sedang
+SKU-FURN-00788,Furnitur Kayu Olahan 703,Bed,1,SUP-PBR-BKS-01,5357581,Bed,Oversized
+SKU-FURN-00789,Furnitur Kayu Olahan 840,Lemari,1,SUP-PRJ-KLT-05,2213991,Lemari,Oversized
+SKU-FURN-00790,Furnitur Kayu Olahan 179,lmri,1,SUP-PRJ-SLO-02,3411681,Lemari,Oversized
+SKU-FURN-00791,Furnitur Kayu Olahan 928,Kursi Kerja,1,SUP-PBR-SDA-03,683142,Kursi,Bulky
+SKU-FURN-00792,Hiasan Meja / Karpet Aesthetic 35,Dekorasi,0,SUP-PBR-SMG-01,375229,Dekorasi,Ringan
+SKU-FURN-00793,Furnitur Kayu Olahan 273,Dining Table,1,SUP-PRJ-CRB-04,1557115,Meja,Sedang
+SKU-FURN-00794,Furnitur Kayu Olahan 744,Lemari,1,SUP-PRJ-TGL-01,2437371,Lemari,Bulky
+SKU-FURN-00795,Furnitur Kayu Olahan 870,Bed,1,SUP-PRJ-CRB-01,5359298,Bed,Oversized
+SKU-FURN-00796,Hiasan Meja / Karpet Aesthetic 52,Dekorasi,0,SUP-IMP-JKT-01,771235,Dekorasi,Ringan
+SKU-FURN-00797,Sofa Japandi Minimalis 753,Sofa,0,SUP-PRJ-KLT-02,3157742,Sofa,Sedang
+SKU-FURN-00798,Sofa Japandi Minimalis 539,Sofa,1,SUP-PRJ-KLT-02,3819717,Sofa,Bulky
+SKU-FURN-00799,Sofa Japandi Minimalis 127,Sofa,1,SUP-PBR-SMG-02,3174119,Sofa,Oversized
+SKU-FURN-00800,Sofa Japandi Minimalis 114,Sofa,0,SUP-PBR-SMG-02,3651158,Sofa,Bulky
+SKU-FURN-00801,Sofa Japandi Minimalis 741,sofabed,1,SUP-PRJ-CRB-04,3289579,Sofa,Oversized
+SKU-FURN-00802,Sofa Japandi Minimalis 449,Sofa,1,SUP-PRJ-KLT-02,4022463,Sofa,Oversized
+SKU-FURN-00803,Hiasan Meja / Karpet Aesthetic 30,Dekorasi,0,SUP-PBR-BKS-03,653554,Dekorasi,Ringan
+SKU-FURN-00804,Sofa Japandi Minimalis 495,Sofa,1,SUP-PBR-SMG-02,2627335,Sofa,Bulky
+SKU-FURN-00805,Furnitur Kayu Olahan 164,Kursi Kerja,1,SUP-PBR-SDA-03,865606,Kursi,Sedang
+SKU-FURN-00806,Furnitur Kayu Olahan 748,Office Chair,1,SUP-PBR-SDA-03,1106643,Kursi,Sedang
+SKU-FURN-00807,Furnitur Kayu Olahan 163,Meja Makan,1,SUP-PRJ-KLT-04,1308714,Meja,Bulky
+SKU-FURN-00808,Sofa Japandi Minimalis 600,Sofa,1,SUP-PRJ-CRB-04,4374784,Sofa,Oversized
+SKU-FURN-00809,Furnitur Kayu Olahan 789,Meja Makan,1,SUP-PRJ-KLT-03,1706669,Meja,Bulky
+SKU-FURN-00810,Furnitur Kayu Olahan 985,Lemari,1,SUP-PRJ-CRB-02,2553611,Lemari,Bulky
+SKU-FURN-00811,Furnitur Kayu Olahan 723,Kursi Kerja,1,SUP-PBR-BKS-05,1434448,Kursi,Sedang
+SKU-FURN-00812,Furnitur Kayu Olahan 321,Meja Makan,1,SUP-PBR-SMG-03,1440711,Meja,Sedang
+SKU-FURN-00813,Furnitur Kayu Olahan 470,Office Chair,1,SUP-PBR-SDA-02,1327077,Kursi,Sedang
+SKU-FURN-00814,Furnitur Kayu Olahan 555,Kursi Kerja,1,SUP-PBR-SDA-03,1197796,Kursi,Sedang
+SKU-FURN-00815,Furnitur Kayu Olahan 653,Lemari,1,SUP-PRJ-KLT-05,2516090,Lemari,Oversized
+SKU-FURN-00816,Hiasan Meja / Karpet Aesthetic 28,Dekorasi,0,SUP-PBR-BKS-03,565927,Dekorasi,Ringan
+SKU-FURN-00817,Furnitur Kayu Olahan 695,Lemari,1,SUP-PRJ-CRB-05,3034733,Lemari,Bulky
+SKU-FURN-00818,Hiasan Meja / Karpet Aesthetic 49,Dekorasi,0,SUP-PBR-BKS-03,578537,Dekorasi,Ringan
+SKU-FURN-00819,Furnitur Kayu Olahan 192,Kursi Kerja,1,SUP-PBR-SDA-03,1202625,Kursi,Sedang
+SKU-FURN-00820,Furnitur Kayu Olahan 211,Dining Table,1,SUP-PBR-TNG-01,1436046,Meja,Bulky
+SKU-FURN-00821,Hiasan Meja / Karpet Aesthetic 35,Dekorasi,0,SUP-IMP-SBY-01,755933,Dekorasi,Ringan
+SKU-FURN-00822,Furnitur Kayu Olahan 787,Kursi Kerja,1,SUP-PBR-SDA-03,1168132,Kursi,Bulky
+SKU-FURN-00823,Sofa Japandi Minimalis 494,Sofa,0,SUP-PRJ-CRB-04,2698076,Sofa,Sedang
+SKU-FURN-00824,Hiasan Meja / Karpet Aesthetic 25,Dekorasi,0,SUP-IMP-JKT-01,695995,Dekorasi,Ringan
+SKU-FURN-00825,Hiasan Meja / Karpet Aesthetic 52,Dekorasi,0,SUP-PBR-BKS-03,673613,Dekorasi,Ringan
+SKU-FURN-00826,Furnitur Kayu Olahan 662,Kursi Kerja,1,SUP-PBR-BKS-05,899298,Kursi,Sedang
+SKU-FURN-00827,Furnitur Kayu Olahan 705,Kursi Kerja,1,SUP-PBR-SDA-03,1456249,Kursi,Sedang
+SKU-FURN-00828,Furnitur Kayu Olahan 175,Kursi Kerja,1,,1424202,Kursi,Ringan
+SKU-FURN-00829,Furnitur Kayu Olahan 976,Kursi Kerja,1,SUP-PBR-SDA-03,1126990,Kursi,Sedang
+SKU-FURN-00830,Furnitur Kayu Olahan 378,Kursi Kerja,1,SUP-PBR-SDA-03,1288505,Kursi,Ringan
+SKU-FURN-00831,Furnitur Kayu Olahan 829,Bed,1,SUP-PBR-TNG-02,4896406,Bed,Oversized
+SKU-FURN-00832,Furnitur Kayu Olahan 698,Bed,1,SUP-PBR-TNG-02,3504603,Bed,Oversized
+SKU-FURN-00833,Furnitur Kayu Olahan 697,Kursi Kerja,1,,746355,Kursi,Sedang
+SKU-FURN-00834,Sofa Japandi Minimalis 610,Sofa,1,SUP-PRJ-KLT-02,2577180,Sofa,Bulky
+SKU-FURN-00835,Sofa Japandi Minimalis 845,Sofa,0,SUP-PRJ-KLT-02,2904200,Sofa,Bulky
+SKU-FURN-00836,Sofa Japandi Minimalis 525,Sofa,1,SUP-PRJ-CRB-04,2638614,Sofa,Bulky
+SKU-FURN-00837,Furnitur Kayu Olahan 627,Wardrobe,1,SUP-PBR-SDA-05,2507876,Lemari,Bulky
+SKU-FURN-00838,Furnitur Kayu Olahan 274,Lemari,1,SUP-PBR-SDA-05,2650192,Lemari,Bulky
+SKU-FURN-00839,Furnitur Kayu Olahan 334,Office Chair,1,SUP-PBR-SDA-02,1207860,Kursi,Sedang
+SKU-FURN-00840,Sofa Japandi Minimalis 169,sofabed,0,SUP-PRJ-KLT-02,2955868,Sofa,Bulky
+SKU-FURN-00841,Hiasan Meja / Karpet Aesthetic 24,Dekorasi,0,SUP-PBR-SMG-01,459157,Dekorasi,Ringan
+SKU-FURN-00842,Furnitur Kayu Olahan 855,Dining Table,1,SUP-PRJ-KLT-05,1472001,Meja,Bulky
+SKU-FURN-00843,Hiasan Meja / Karpet Aesthetic 97,Dekorasi,0,SUP-IMP-SBY-01,634667,Dekorasi,Ringan
+SKU-FURN-00844,Furnitur Kayu Olahan 217,Meja Makan,1,SUP-PBR-SDA-01,1653814,Meja,Sedang
+SKU-FURN-00845,Hiasan Meja / Karpet Aesthetic 67,Dekorasi,0,SUP-PBR-BKS-03,507208,Dekorasi,Ringan
+SKU-FURN-00846,Furnitur Kayu Olahan 284,Meja Makan,1,SUP-PRJ-CRB-03,1759531,Meja,Sedang
+SKU-FURN-00847,Hiasan Meja / Karpet Aesthetic 57,Dekorasi,0,SUP-IMP-JKT-01,160737,Dekorasi,Ringan
+SKU-FURN-00848,Furnitur Kayu Olahan 981,Wardrobe,1,SUP-PRJ-CRB-02,2923753,Lemari,Bulky
+SKU-FURN-00849,Hiasan Meja / Karpet Aesthetic 31,Dekorasi,0,SUP-IMP-JKT-01,366781,Dekorasi,Ringan
+SKU-FURN-00850,Furnitur Kayu Olahan 551,Meja Makan,1,SUP-PRJ-KLT-05,1493491,Meja,Sedang
+SKU-FURN-00851,Furnitur Kayu Olahan 357,Kursi Kerja,1,SUP-PBR-BKS-05,800277,Kursi,Sedang
+SKU-FURN-00852,Hiasan Meja / Karpet Aesthetic 42,Dekorasi,0,SUP-PBR-SMG-01,523874,Dekorasi,Ringan
+SKU-FURN-00853,Hiasan Meja / Karpet Aesthetic 38,Dekorasi,0,SUP-PBR-BKS-03,664059,Dekorasi,Ringan
+SKU-FURN-00854,Sofa Japandi Minimalis 411,Sofa,0,SUP-PRJ-CRB-04,3518238,Sofa,Bulky
+SKU-FURN-00855,Furnitur Kayu Olahan 570,Meja Makan,1,SUP-PBR-BKS-02,1804517,Meja,Bulky
+SKU-FURN-00856,Sofa Japandi Minimalis 647,sofabed,1,SUP-PBR-SMG-02,3471656,Sofa,Bulky
+SKU-FURN-00857,Furnitur Kayu Olahan 786,Wardrobe,1,SUP-PBR-BKS-02,2161046,Lemari,Bulky
+SKU-FURN-00858,Sofa Japandi Minimalis 255,Sofa,1,SUP-PBR-SMG-02,4151159,Sofa,Bulky
+SKU-FURN-00859,Sofa Japandi Minimalis 425,sofabed,1,SUP-PRJ-KLT-02,4177145,Sofa,Bulky
+SKU-FURN-00860,Hiasan Meja / Karpet Aesthetic 44,Dekorasi,0,SUP-IMP-SBY-01,551400,Dekorasi,Ringan
+SKU-FURN-00861,Sofa Japandi Minimalis 763,Sofa,0,SUP-PBR-SMG-02,3337264,Sofa,Oversized
+SKU-FURN-00862,Furnitur Kayu Olahan 687,Office Chair,1,SUP-PBR-BKS-05,1002220,Kursi,Sedang
+SKU-FURN-00863,Furnitur Kayu Olahan 215,Office Chair,1,SUP-PBR-SDA-02,922773,Kursi,Sedang
+SKU-FURN-00864,Furnitur Kayu Olahan 169,Office Chair,1,SUP-PBR-SDA-03,1154896,Kursi,Ringan
+SKU-FURN-00865,Sofa Japandi Minimalis 675,Sofa,1,,3385168,Sofa,Bulky
+SKU-FURN-00866,Furnitur Kayu Olahan 635,lmri,1,SUP-PRJ-SLO-03,2781836,Lemari,Oversized
+SKU-FURN-00867,Sofa Japandi Minimalis 898,Sofa,1,SUP-PBR-SMG-02,3046569,Sofa,Bulky
+SKU-FURN-00868,Furnitur Kayu Olahan 187,Meja Makan,1,SUP-PBR-BKS-02,1643349,Meja,Bulky
+SKU-FURN-00869,Furnitur Kayu Olahan 723,Kursi Kerja,1,SUP-PBR-BKS-05,1221456,Kursi,Sedang
+SKU-FURN-00870,Sofa Japandi Minimalis 852,Sofa,1,SUP-PRJ-KLT-02,4115246,Sofa,Bulky
+SKU-FURN-00871,Sofa Japandi Minimalis 236,Sofa,0,SUP-PBR-SMG-02,3717672,Sofa,Sedang
+SKU-FURN-00872,Furnitur Kayu Olahan 115,Dining Table,1,SUP-PRJ-KLT-04,2074399,Meja,Sedang
+SKU-FURN-00873,Furnitur Kayu Olahan 311,lmri,1,SUP-PBR-SDA-05,2636664,Lemari,Oversized
+SKU-FURN-00874,Furnitur Kayu Olahan 860,Dining Table,1,SUP-PRJ-KLT-03,1469838,Meja,Sedang
+SKU-FURN-00875,Furnitur Kayu Olahan 755,Kursi Kerja,1,SUP-PBR-SDA-02,969087,Kursi,Bulky
+SKU-FURN-00876,Sofa Japandi Minimalis 863,Sofa,0,SUP-PRJ-CRB-04,4004823,Sofa,Bulky
+SKU-FURN-00877,Furnitur Kayu Olahan 289,Dining Table,1,SUP-PRJ-CRB-01,2131061,Meja,Sedang
+SKU-FURN-00878,Hiasan Meja / Karpet Aesthetic 57,Dekorasi,0,SUP-IMP-SBY-01,588694,Dekorasi,Ringan
+SKU-FURN-00879,Hiasan Meja / Karpet Aesthetic 21,Dekorasi,0,,553310,Dekorasi,Ringan
+SKU-FURN-00880,Furnitur Kayu Olahan 697,Lemari,1,SUP-PRJ-KLT-02,2142611,Lemari,Oversized
+SKU-FURN-00881,Furnitur Kayu Olahan 185,Bed,1,SUP-PRJ-KLT-04,4189845,Bed,Bulky
+SKU-FURN-00882,Furnitur Kayu Olahan 790,Kursi Kerja,1,SUP-PBR-BKS-05,1387452,Kursi,Sedang
+SKU-FURN-00883,Furnitur Kayu Olahan 311,Meja Makan,1,SUP-PRJ-KLT-04,1695198,Meja,Sedang
+SKU-FURN-00884,Sofa Japandi Minimalis 729,Sofa,1,SUP-PBR-SMG-02,2562385,Sofa,Oversized
+SKU-FURN-00885,Sofa Japandi Minimalis 175,Sofa,1,SUP-PRJ-KLT-02,3891900,Sofa,Oversized
+SKU-FURN-00886,Furnitur Kayu Olahan 358,Bed,1,SUP-PBR-BKS-03,5403954,Bed,Bulky
+SKU-FURN-00887,Furnitur Kayu Olahan 278,Bed,1,SUP-PBR-TNG-02,3329294,Bed,Oversized
+SKU-FURN-00888,Furnitur Kayu Olahan 831,Kursi Kerja,1,SUP-PBR-SDA-02,862072,Kursi,Ringan
+SKU-FURN-00889,Furnitur Kayu Olahan 317,Office Chair,1,SUP-PBR-SDA-03,1239797,Kursi,Sedang
+SKU-FURN-00890,Furnitur Kayu Olahan 222,Wardrobe,1,SUP-PRJ-SLO-02,3349351,Lemari,Oversized
+SKU-FURN-00891,Sofa Japandi Minimalis 198,Sofa,0,SUP-PRJ-KLT-02,4374570,Sofa,Bulky
+SKU-FURN-00892,Furnitur Kayu Olahan 402,Lemari,1,SUP-PBR-TNG-02,3130147,Lemari,Oversized
+SKU-FURN-00893,Furnitur Kayu Olahan 416,Meja Makan,1,SUP-PBR-SMG-03,1905765,Meja,Sedang
+SKU-FURN-00894,Hiasan Meja / Karpet Aesthetic 47,Dekorasi,0,SUP-PBR-SMG-01,771993,Dekorasi,Ringan
+SKU-FURN-00895,Hiasan Meja / Karpet Aesthetic 97,Dekorasi,0,SUP-PBR-SMG-01,564538,Dekorasi,Ringan
+SKU-FURN-00896,Furnitur Kayu Olahan 802,Lemari,1,SUP-PRJ-TGL-01,2771875,Lemari,Oversized
+SKU-FURN-00897,Furnitur Kayu Olahan 107,Wardrobe,1,SUP-PRJ-SLO-01,3322830,Lemari,Bulky
+SKU-FURN-00898,Furnitur Kayu Olahan 189,Wardrobe,1,SUP-PBR-TNG-02,3443700,Lemari,Bulky
+SKU-FURN-00899,Furnitur Kayu Olahan 596,Bed,1,SUP-PRJ-CRB-01,4675425,Bed,Bulky
+SKU-FURN-00900,Furnitur Kayu Olahan 753,Office Chair,1,SUP-PBR-BKS-05,1321393,Kursi,Sedang
+SKU-FURN-00901,Furnitur Kayu Olahan 263,Bed,1,SUP-PRJ-CRB-01,3999285,Bed,Oversized
+SKU-FURN-00902,Furnitur Kayu Olahan 485,Lemari,1,SUP-PRJ-SLO-02,2581461,Lemari,Oversized
+SKU-FURN-00903,Furnitur Kayu Olahan 913,Lemari,1,SUP-PRJ-CRB-05,2541876,Lemari,Bulky
+SKU-FURN-00904,Furnitur Kayu Olahan 230,lmri,1,SUP-PBR-BKS-02,3101458,Lemari,Bulky
+SKU-FURN-00905,Furnitur Kayu Olahan 250,Bed,1,SUP-PBR-BKS-01,4619757,Bed,Oversized
+SKU-FURN-00906,Sofa Japandi Minimalis 601,sofabed,0,SUP-PBR-SMG-02,3123271,Sofa,Bulky
+SKU-FURN-00907,Furnitur Kayu Olahan 380,Meja Makan,1,SUP-PBR-BKS-04,1281786,Meja,Bulky
+SKU-FURN-00908,Furnitur Kayu Olahan 676,Wardrobe,1,SUP-PRJ-KLT-05,2579570,Lemari,Bulky
+SKU-FURN-00909,Sofa Japandi Minimalis 782,Sofa,0,SUP-PRJ-CRB-04,4446338,Sofa,Bulky
+SKU-FURN-00910,Furnitur Kayu Olahan 375,lmri,1,SUP-PRJ-KLT-01,2770289,Lemari,Bulky
+SKU-FURN-00911,Furnitur Kayu Olahan 806,Office Chair,1,SUP-PBR-SDA-02,1256778,Kursi,Sedang
+SKU-FURN-00912,Furnitur Kayu Olahan 258,Lemari,1,SUP-PRJ-SLO-01,3382035,Lemari,Oversized
+SKU-FURN-00913,Sofa Japandi Minimalis 573,sofabed,1,SUP-PRJ-KLT-02,4400290,Sofa,Sedang
+SKU-FURN-00914,Sofa Japandi Minimalis 616,Sofa,0,SUP-PRJ-CRB-04,3630845,Sofa,Bulky
+SKU-FURN-00915,Furnitur Kayu Olahan 926,lmri,1,SUP-PBR-SDA-05,2279996,Lemari,Oversized
+SKU-FURN-00916,Hiasan Meja / Karpet Aesthetic 63,Dekorasi,0,SUP-PBR-SMG-01,771334,Dekorasi,Ringan
+SKU-FURN-00917,Furnitur Kayu Olahan 118,Kursi Kerja,1,SUP-PBR-BKS-05,1384399,Kursi,Sedang
+SKU-FURN-00918,Furnitur Kayu Olahan 283,Wardrobe,1,SUP-PRJ-CRB-02,2456408,Lemari,Oversized
+SKU-FURN-00919,Furnitur Kayu Olahan 859,Wardrobe,1,SUP-PRJ-SLO-02,3238477,Lemari,Bulky
+SKU-FURN-00920,Furnitur Kayu Olahan 131,Meja Makan,1,SUP-PRJ-KLT-04,2141390,Meja,Sedang
+SKU-FURN-00921,Furnitur Kayu Olahan 983,Bed,1,SUP-PRJ-CRB-05,5487445,Bed,Bulky
+SKU-FURN-00922,Hiasan Meja / Karpet Aesthetic 27,Dekorasi,0,SUP-PBR-BKS-03,656889,Dekorasi,Sedang
+SKU-FURN-00923,Furnitur Kayu Olahan 711,Lemari,1,SUP-PBR-SDA-05,2972782,Lemari,Oversized
+SKU-FURN-00924,Furnitur Kayu Olahan 509,Meja Makan,1,SUP-PRJ-CRB-04,1518372,Meja,Bulky
+SKU-FURN-00925,Furnitur Kayu Olahan 539,Dining Table,1,SUP-PRJ-CRB-04,2057127,Meja,Sedang
+SKU-FURN-00926,Furnitur Kayu Olahan 685,Meja Makan,1,SUP-PRJ-KLT-04,1450337,Meja,Bulky
+SKU-FURN-00927,Furnitur Kayu Olahan 733,Bed,1,SUP-PRJ-CRB-01,3165867,Bed,Oversized
+SKU-FURN-00928,Furnitur Kayu Olahan 192,Lemari,1,SUP-PRJ-KLT-02,2507431,Lemari,Bulky
+SKU-FURN-00929,Furnitur Kayu Olahan 819,Kursi Kerja,1,SUP-PBR-BKS-05,1341732,Kursi,Sedang
+SKU-FURN-00930,Furnitur Kayu Olahan 125,Lemari,1,SUP-PRJ-TGL-01,2540537,Lemari,Bulky
+SKU-FURN-00931,Furnitur Kayu Olahan 587,Lemari,1,SUP-PBR-SDA-04,3405842,Lemari,Bulky
+SKU-FURN-00932,Furnitur Kayu Olahan 412,Lemari,1,SUP-PRJ-SLO-02,2629998,Lemari,Bulky
+SKU-FURN-00933,Furnitur Kayu Olahan 135,Lemari,1,SUP-PRJ-KLT-01,3460256,Lemari,Bulky
+SKU-FURN-00934,Furnitur Kayu Olahan 818,Office Chair,1,SUP-PBR-BKS-05,1450200,Kursi,Ringan
+SKU-FURN-00935,Furnitur Kayu Olahan 481,Kursi Kerja,1,SUP-PBR-SDA-03,1200612,Kursi,Sedang
+SKU-FURN-00936,Sofa Japandi Minimalis 171,Sofa,0,SUP-PRJ-CRB-04,3746811,Sofa,Oversized
+SKU-FURN-00937,Furnitur Kayu Olahan 712,Bed,1,SUP-PRJ-KLT-04,3822140,Bed,Oversized
+SKU-FURN-00938,Furnitur Kayu Olahan 784,Lemari,1,SUP-PBR-TNG-02,3317788,Lemari,Oversized
+SKU-FURN-00939,Furnitur Kayu Olahan 237,Office Chair,1,SUP-PBR-SDA-03,1326897,Kursi,Ringan
+SKU-FURN-00940,Hiasan Meja / Karpet Aesthetic 48,Dekorasi,0,SUP-IMP-JKT-01,717776,Dekorasi,Ringan
+SKU-FURN-00941,Hiasan Meja / Karpet Aesthetic 15,Dekorasi,0,SUP-PBR-BKS-03,317207,Dekorasi,Ringan
+SKU-FURN-00942,Sofa Japandi Minimalis 877,sofabed,1,SUP-PRJ-CRB-04,4145274,Sofa,Bulky
+SKU-FURN-00943,Furnitur Kayu Olahan 825,Office Chair,1,SUP-PBR-SDA-03,707252,Kursi,Sedang
+SKU-FURN-00944,Sofa Japandi Minimalis 582,sofabed,0,SUP-PRJ-CRB-04,2840590,Sofa,Sedang
+SKU-FURN-00945,Sofa Japandi Minimalis 972,sofabed,1,SUP-PRJ-KLT-02,4168793,Sofa,Bulky
+SKU-FURN-00946,Furnitur Kayu Olahan 767,Lemari,1,SUP-PRJ-KLT-05,3231379,Lemari,Bulky
+SKU-FURN-00947,Sofa Japandi Minimalis 296,Sofa,0,SUP-PRJ-KLT-02,2630347,Sofa,Bulky
+SKU-FURN-00948,Furnitur Kayu Olahan 986,Office Chair,1,SUP-PBR-SDA-02,1215536,Kursi,Bulky
+SKU-FURN-00949,Furnitur Kayu Olahan 253,Dining Table,1,SUP-PRJ-KLT-04,2003766,Meja,Bulky
+SKU-FURN-00950,Furnitur Kayu Olahan 573,Meja Makan,1,SUP-PRJ-CRB-03,1651564,Meja,Bulky
+SKU-FURN-00951,Furnitur Kayu Olahan 426,Office Chair,1,SUP-PBR-SDA-02,967369,Kursi,Sedang
+SKU-FURN-00952,Furnitur Kayu Olahan 327,Dining Table,1,SUP-PRJ-JPR-01,2001545,Meja,Bulky
+SKU-FURN-00953,Sofa Japandi Minimalis 525,sofabed,0,SUP-PBR-SMG-02,4194929,Sofa,Bulky
+SKU-FURN-00954,Furnitur Kayu Olahan 578,Meja Makan,1,SUP-PRJ-KLT-05,1282511,Meja,Bulky
+SKU-FURN-00955,Sofa Japandi Minimalis 148,Sofa,0,SUP-PRJ-KLT-02,3360614,Sofa,Sedang
+SKU-FURN-00956,Furnitur Kayu Olahan 161,Lemari,1,SUP-PBR-SDA-05,3108206,Lemari,Oversized
+SKU-FURN-00957,Furnitur Kayu Olahan 832,Kursi Kerja,1,SUP-PBR-BKS-05,714884,Kursi,Sedang
+SKU-FURN-00958,Hiasan Meja / Karpet Aesthetic 94,Dekorasi,0,SUP-PBR-SMG-01,791441,Dekorasi,Ringan
+SKU-FURN-00959,Furnitur Kayu Olahan 927,Dining Table,1,SUP-PRJ-SLO-01,1526651,Meja,Bulky
+SKU-FURN-00960,Furnitur Kayu Olahan 844,Kursi Kerja,1,SUP-PBR-BKS-05,1170761,Kursi,Sedang
+SKU-FURN-00961,Sofa Japandi Minimalis 810,sofabed,0,SUP-PRJ-CRB-04,4150905,Sofa,Bulky
+SKU-FURN-00962,Furnitur Kayu Olahan 416,Dining Table,1,SUP-PRJ-KLT-04,1954112,Meja,Sedang
+SKU-FURN-00963,Furnitur Kayu Olahan 178,Lemari,1,SUP-PBR-TNG-02,3332732,Lemari,Bulky
+SKU-FURN-00964,Furnitur Kayu Olahan 206,Dining Table,1,SUP-PRJ-CRB-03,1972034,Meja,Oversized
+SKU-FURN-00965,Hiasan Meja / Karpet Aesthetic 57,Dekorasi,0,SUP-IMP-JKT-01,608751,Dekorasi,Ringan
+SKU-FURN-00966,Furnitur Kayu Olahan 258,Meja Makan,1,SUP-PRJ-KLT-05,2054378,Meja,Sedang
+SKU-FURN-00967,Furnitur Kayu Olahan 492,Meja Makan,1,SUP-PBR-SDA-01,1953355,Meja,Sedang
+SKU-FURN-00968,Furnitur Kayu Olahan 749,Kursi Kerja,1,SUP-PBR-BKS-05,863435,Kursi,Ringan
+SKU-FURN-00969,Furnitur Kayu Olahan 789,Lemari,1,SUP-PBR-SDA-04,2443506,Lemari,Bulky
+SKU-FURN-00970,Furnitur Kayu Olahan 216,Lemari,1,SUP-PRJ-CRB-03,2825002,Lemari,Bulky
+SKU-FURN-00971,Furnitur Kayu Olahan 454,Office Chair,1,SUP-PBR-SDA-03,755305,Kursi,Sedang
+SKU-FURN-00972,Hiasan Meja / Karpet Aesthetic 29,Dekorasi,0,SUP-IMP-JKT-01,730365,Dekorasi,Ringan
+SKU-FURN-00973,Furnitur Kayu Olahan 327,Lemari,1,SUP-PBR-BKS-02,2360726,Lemari,Bulky
+SKU-FURN-00974,Hiasan Meja / Karpet Aesthetic 23,Dekorasi,0,SUP-PBR-SMG-01,524200,Dekorasi,Ringan
+SKU-FURN-00975,Sofa Japandi Minimalis 742,Sofa,0,SUP-PRJ-CRB-04,3288868,Sofa,Bulky
+SKU-FURN-00976,Sofa Japandi Minimalis 646,Sofa,0,SUP-PRJ-KLT-02,4347256,Sofa,Bulky
+SKU-FURN-00977,Hiasan Meja / Karpet Aesthetic 27,Dekorasi,0,SUP-PBR-SMG-01,797862,Dekorasi,Ringan
+SKU-FURN-00978,Furnitur Kayu Olahan 329,Kursi Kerja,1,SUP-PBR-SDA-02,838296,Kursi,Bulky
+SKU-FURN-00979,Furnitur Kayu Olahan 767,Meja Makan,1,SUP-PRJ-SLO-01,1391316,Meja,Sedang
+SKU-FURN-00980,Furnitur Kayu Olahan 225,Dining Table,1,SUP-PRJ-KLT-05,2103691,Meja,Bulky
+SKU-FURN-00981,Furnitur Kayu Olahan 416,Meja Makan,1,SUP-PRJ-KLT-04,2199347,Meja,Bulky
+SKU-FURN-00982,Furnitur Kayu Olahan 132,Office Chair,1,SUP-PBR-BKS-05,888298,Kursi,Bulky
+SKU-FURN-00983,Furnitur Kayu Olahan 482,lmri,1,SUP-PRJ-CRB-02,3326363,Lemari,Oversized
+SKU-FURN-00984,Furnitur Kayu Olahan 191,Office Chair,1,SUP-PBR-SDA-03,1247862,Kursi,Bulky
+SKU-FURN-00985,Furnitur Kayu Olahan 991,Kursi Kerja,1,SUP-PBR-SDA-03,995566,Kursi,Sedang
+SKU-FURN-00986,Furnitur Kayu Olahan 508,Meja Makan,1,SUP-PRJ-KLT-04,1624280,Meja,Bulky
+SKU-FURN-00987,Sofa Japandi Minimalis 514,Sofa,1,SUP-PRJ-CRB-04,4361328,Sofa,Sedang
+SKU-FURN-00988,Furnitur Kayu Olahan 163,Lemari,1,SUP-PRJ-CRB-05,2232987,Lemari,Oversized
+SKU-FURN-00989,Furnitur Kayu Olahan 107,Office Chair,1,SUP-PBR-BKS-05,1026417,Kursi,Sedang
+SKU-FURN-00990,Sofa Japandi Minimalis 426,Sofa,1,SUP-PRJ-KLT-02,3851381,Sofa,Oversized
+SKU-FURN-00991,Sofa Japandi Minimalis 948,Sofa,0,SUP-PRJ-KLT-02,3379311,Sofa,Sedang
+SKU-FURN-00992,Furnitur Kayu Olahan 894,Meja Makan,1,SUP-PRJ-KLT-05,1945945,Meja,Bulky
+SKU-FURN-00993,Furnitur Kayu Olahan 443,Dining Table,1,SUP-PBR-TNG-01,1705726,Meja,Sedang
+SKU-FURN-00994,Sofa Japandi Minimalis 950,Sofa,0,SUP-PRJ-CRB-04,4177558,Sofa,Bulky
+SKU-FURN-00995,Furnitur Kayu Olahan 589,Dining Table,1,SUP-PRJ-KLT-04,1599925,Meja,Oversized
+SKU-FURN-00996,Hiasan Meja / Karpet Aesthetic 48,Dekorasi,0,SUP-PBR-BKS-03,296532,Dekorasi,Sedang
+SKU-FURN-00997,Furnitur Kayu Olahan 495,Bed,1,SUP-PRJ-KLT-04,5397821,Bed,Oversized
+SKU-FURN-00998,Furnitur Kayu Olahan 217,lmri,1,SUP-PBR-SDA-05,2411593,Lemari,Oversized
+SKU-FURN-00999,Hiasan Meja / Karpet Aesthetic 50,Dekorasi,0,SUP-PBR-SMG-01,425866,Dekorasi,Ringan
+SKU-FURN-01000,Furnitur Kayu Olahan 861,Meja Makan,1,SUP-PRJ-JPR-01,2190142,Meja,Oversized
+SKU-FURN-01001,Furnitur Kayu Olahan 588,Meja Makan,1,SUP-PBR-BKS-04,1218973,Meja,Sedang
+SKU-FURN-01002,Sofa Japandi Minimalis 345,Sofa,1,SUP-PBR-SMG-02,3123217,Sofa,Bulky
+SKU-FURN-01003,Furnitur Kayu Olahan 431,Bed,1,SUP-PBR-BKS-01,4082919,Bed,Bulky
+SKU-FURN-01004,Hiasan Meja / Karpet Aesthetic 48,Dekorasi,0,SUP-IMP-JKT-01,549223,Dekorasi,Ringan
+SKU-FURN-01005,Furnitur Kayu Olahan 549,Wardrobe,1,SUP-PRJ-CRB-03,2993130,Lemari,Bulky
+SKU-FURN-01006,Sofa Japandi Minimalis 735,Sofa,1,SUP-PRJ-CRB-04,2525615,Sofa,Bulky
+SKU-FURN-01007,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-PBR-BKS-03,425027,Dekorasi,Ringan
+SKU-FURN-01008,Hiasan Meja / Karpet Aesthetic 83,Dekorasi,0,SUP-IMP-JKT-01,538718,Dekorasi,Sedang
+SKU-FURN-01009,Furnitur Kayu Olahan 336,Dining Table,1,SUP-PBR-TNG-01,1860466,Meja,Sedang
+SKU-FURN-01010,Hiasan Meja / Karpet Aesthetic 87,Dekorasi,0,SUP-PBR-BKS-03,686769,Dekorasi,Ringan
+SKU-FURN-01011,Furnitur Kayu Olahan 443,Lemari,1,SUP-PRJ-TGL-01,3081352,Lemari,Bulky
+SKU-FURN-01012,Furnitur Kayu Olahan 519,Wardrobe,1,SUP-PRJ-SLO-03,2367677,Lemari,Oversized
+SKU-FURN-01013,Hiasan Meja / Karpet Aesthetic 45,Dekorasi,0,,654682,Dekorasi,Sedang
+SKU-FURN-01014,Furnitur Kayu Olahan 776,Dining Table,1,SUP-PRJ-CRB-03,1761747,Meja,Bulky
+SKU-FURN-01015,Furnitur Kayu Olahan 323,Office Chair,1,SUP-PBR-SDA-02,640711,Kursi,Sedang
+SKU-FURN-01016,Furnitur Kayu Olahan 908,Kursi Kerja,1,SUP-PBR-SDA-02,1392124,Kursi,Sedang
+SKU-FURN-01017,Furnitur Kayu Olahan 104,Kursi Kerja,1,SUP-PBR-BKS-05,980028,Kursi,Ringan
+SKU-FURN-01018,Furnitur Kayu Olahan 958,Office Chair,1,SUP-PBR-SDA-03,1345557,Kursi,Ringan
+SKU-FURN-01019,Furnitur Kayu Olahan 515,Lemari,1,SUP-PRJ-CRB-02,3307506,Lemari,Oversized
+SKU-FURN-01020,Furnitur Kayu Olahan 956,Kursi Kerja,1,SUP-PBR-BKS-05,1302640,Kursi,Sedang
+SKU-FURN-01021,Furnitur Kayu Olahan 320,Office Chair,1,SUP-PBR-SDA-03,1161199,Kursi,Sedang
+SKU-FURN-01022,Furnitur Kayu Olahan 636,Kursi Kerja,1,SUP-PBR-SDA-03,820209,Kursi,Ringan
+SKU-FURN-01023,Furnitur Kayu Olahan 698,Kursi Kerja,1,SUP-PBR-BKS-05,1305103,Kursi,Sedang
+SKU-FURN-01024,Furnitur Kayu Olahan 645,Meja Makan,1,SUP-PRJ-JPR-01,2065677,Meja,Sedang
+SKU-FURN-01025,Furnitur Kayu Olahan 452,Dining Table,1,,1337377,Meja,Sedang
+SKU-FURN-01026,Furnitur Kayu Olahan 282,lmri,1,SUP-PRJ-SLO-03,2570704,Lemari,Oversized
+SKU-FURN-01027,Furnitur Kayu Olahan 102,Office Chair,1,SUP-PBR-SDA-02,1345485,Kursi,Ringan
+SKU-FURN-01028,Furnitur Kayu Olahan 902,Wardrobe,1,SUP-PBR-SDA-05,3388787,Lemari,Oversized
+SKU-FURN-01029,Sofa Japandi Minimalis 978,Sofa,0,SUP-PRJ-KLT-02,3582954,Sofa,Bulky
+SKU-FURN-01030,Furnitur Kayu Olahan 334,Kursi Kerja,1,SUP-PBR-SDA-02,611007,Kursi,Sedang
+SKU-FURN-01031,Furnitur Kayu Olahan 335,Bed,1,SUP-PBR-BKS-01,5297291,Bed,Bulky
+SKU-FURN-01032,Furnitur Kayu Olahan 468,Dining Table,1,SUP-PRJ-KLT-04,1826325,Meja,Sedang
+SKU-FURN-01033,Furnitur Kayu Olahan 185,Kursi Kerja,1,SUP-PBR-SDA-02,902152,Kursi,Bulky
+SKU-FURN-01034,Furnitur Kayu Olahan 253,lmri,1,SUP-PRJ-CRB-02,3369689,Lemari,Bulky
+SKU-FURN-01035,Furnitur Kayu Olahan 872,Kursi Kerja,1,SUP-PBR-BKS-05,891606,Kursi,Ringan
+SKU-FURN-01036,Furnitur Kayu Olahan 319,Meja Makan,1,SUP-PBR-TNG-01,1269413,Meja,Bulky
+SKU-FURN-01037,Furnitur Kayu Olahan 648,Meja Makan,1,SUP-PRJ-KLT-03,1787836,Meja,Bulky
+SKU-FURN-01038,Furnitur Kayu Olahan 904,Wardrobe,1,SUP-PRJ-KLT-01,3258896,Lemari,Bulky
+SKU-FURN-01039,Hiasan Meja / Karpet Aesthetic 14,Dekorasi,0,SUP-IMP-JKT-01,632020,Dekorasi,Ringan
+SKU-FURN-01040,Furnitur Kayu Olahan 222,Dining Table,1,SUP-PBR-TNG-01,1747256,Meja,Sedang
+SKU-FURN-01041,Sofa Japandi Minimalis 838,Sofa,0,SUP-PBR-SMG-02,3970581,Sofa,Bulky
+SKU-FURN-01042,Furnitur Kayu Olahan 671,Lemari,1,SUP-PBR-BKS-02,2278185,Lemari,Oversized
+SKU-FURN-01043,Furnitur Kayu Olahan 801,Meja Makan,1,SUP-PBR-SMG-03,1540901,Meja,Sedang
+SKU-FURN-01044,Furnitur Kayu Olahan 579,Office Chair,1,SUP-PBR-BKS-05,777497,Kursi,Bulky
+SKU-FURN-01045,Hiasan Meja / Karpet Aesthetic 75,Dekorasi,0,SUP-PBR-SMG-01,273131,Dekorasi,Sedang
+SKU-FURN-01046,Sofa Japandi Minimalis 197,Sofa,0,SUP-PRJ-KLT-02,3541196,Sofa,Sedang
+SKU-FURN-01047,Furnitur Kayu Olahan 486,Wardrobe,1,SUP-PRJ-CRB-02,2362228,Lemari,Bulky
+SKU-FURN-01048,Furnitur Kayu Olahan 292,Meja Makan,1,SUP-PBR-BKS-04,1935623,Meja,Bulky
+SKU-FURN-01049,Furnitur Kayu Olahan 305,Kursi Kerja,1,SUP-PBR-SDA-02,1183215,Kursi,Ringan
+SKU-FURN-01050,Hiasan Meja / Karpet Aesthetic 76,Dekorasi,0,SUP-IMP-SBY-01,611589,Dekorasi,Sedang
+SKU-FURN-01051,Sofa Japandi Minimalis 315,Sofa,0,SUP-PRJ-CRB-04,3937855,Sofa,Oversized
+SKU-FURN-01052,Furnitur Kayu Olahan 350,Lemari,1,SUP-PBR-TNG-02,2654401,Lemari,Bulky
+SKU-FURN-01053,Furnitur Kayu Olahan 973,Wardrobe,1,SUP-PBR-SDA-04,2306247,Lemari,Bulky
+SKU-FURN-01054,Furnitur Kayu Olahan 262,Office Chair,1,SUP-PBR-BKS-05,1286928,Kursi,Ringan
+SKU-FURN-01055,Furnitur Kayu Olahan 865,Office Chair,1,SUP-PBR-SDA-02,1049164,Kursi,Sedang
+SKU-FURN-01056,Sofa Japandi Minimalis 614,sofabed,0,SUP-PBR-SMG-02,4335321,Sofa,Bulky
+SKU-FURN-01057,Hiasan Meja / Karpet Aesthetic 98,Dekorasi,0,SUP-IMP-JKT-01,708270,Dekorasi,Ringan
+SKU-FURN-01058,Furnitur Kayu Olahan 906,Wardrobe,1,SUP-PRJ-KLT-05,3147134,Lemari,Oversized
+SKU-FURN-01059,Furnitur Kayu Olahan 753,Kursi Kerja,1,SUP-PBR-SDA-03,1057018,Kursi,Ringan
+SKU-FURN-01060,Furnitur Kayu Olahan 522,Bed,1,SUP-PRJ-KLT-04,4800910,Bed,Oversized
+SKU-FURN-01061,Furnitur Kayu Olahan 954,Meja Makan,1,SUP-PRJ-SLO-01,1954978,Meja,Bulky
+SKU-FURN-01062,Furnitur Kayu Olahan 756,lmri,1,SUP-PRJ-CRB-05,2638151,Lemari,Oversized
+SKU-FURN-01063,Furnitur Kayu Olahan 121,Bed,1,SUP-PRJ-CRB-05,5435003,Bed,Oversized
+SKU-FURN-01064,Hiasan Meja / Karpet Aesthetic 77,Dekorasi,0,SUP-IMP-JKT-01,285294,Dekorasi,Ringan
+SKU-FURN-01065,Sofa Japandi Minimalis 176,Sofa,0,SUP-PRJ-CRB-04,3115798,Sofa,Bulky
+SKU-FURN-01066,Furnitur Kayu Olahan 230,Dining Table,1,SUP-PRJ-KLT-03,2164928,Meja,Oversized
+SKU-FURN-01067,Hiasan Meja / Karpet Aesthetic 85,Dekorasi,0,SUP-IMP-JKT-01,220653,Dekorasi,Ringan
+SKU-FURN-01068,Furnitur Kayu Olahan 179,Wardrobe,1,SUP-PRJ-SLO-03,3340866,Lemari,Bulky
+SKU-FURN-01069,Furnitur Kayu Olahan 728,Kursi Kerja,1,SUP-PBR-SDA-02,1256227,Kursi,Sedang
+SKU-FURN-01070,Furnitur Kayu Olahan 317,Dining Table,1,SUP-PBR-TNG-01,1771329,Meja,Bulky
+SKU-FURN-01071,Sofa Japandi Minimalis 110,sofabed,1,SUP-PRJ-KLT-02,3422503,Sofa,Bulky
+SKU-FURN-01072,Furnitur Kayu Olahan 184,Office Chair,1,SUP-PBR-SDA-02,1170251,Kursi,Ringan
+SKU-FURN-01073,Furnitur Kayu Olahan 123,Office Chair,1,SUP-PBR-BKS-05,1367422,Kursi,Sedang
+SKU-FURN-01074,Furnitur Kayu Olahan 507,Lemari,1,SUP-PRJ-SLO-03,2262171,Lemari,Oversized
+SKU-FURN-01075,Furnitur Kayu Olahan 728,Bed,1,SUP-PBR-TNG-02,5384920,Bed,Oversized
+SKU-FURN-01076,Furnitur Kayu Olahan 125,lmri,1,SUP-PRJ-SLO-02,2521693,Lemari,Oversized
+SKU-FURN-01077,Hiasan Meja / Karpet Aesthetic 22,Dekorasi,0,SUP-IMP-JKT-01,449244,Dekorasi,Ringan
+SKU-FURN-01078,Furnitur Kayu Olahan 934,Kursi Kerja,1,SUP-PBR-SDA-03,1356059,Kursi,Sedang
+SKU-FURN-01079,Furnitur Kayu Olahan 925,Kursi Kerja,1,SUP-PBR-BKS-05,1486638,Kursi,Ringan
+SKU-FURN-01080,Furnitur Kayu Olahan 947,Meja Makan,1,SUP-PBR-BKS-02,2098480,Meja,Bulky
+SKU-FURN-01081,Furnitur Kayu Olahan 293,Meja Makan,1,SUP-PRJ-KLT-04,1499545,Meja,Sedang
+SKU-FURN-01082,Furnitur Kayu Olahan 783,Lemari,1,SUP-PRJ-TGL-01,2715068,Lemari,Oversized
+SKU-FURN-01083,Furnitur Kayu Olahan 730,Meja Makan,1,SUP-PRJ-KLT-04,1445798,Meja,Sedang
+SKU-FURN-01084,Furnitur Kayu Olahan 324,Office Chair,1,SUP-PBR-SDA-03,1047776,Kursi,Sedang
+SKU-FURN-01085,Furnitur Kayu Olahan 476,Meja Makan,1,SUP-PRJ-KLT-04,1939557,Meja,Sedang
+SKU-FURN-01086,Sofa Japandi Minimalis 193,Sofa,0,SUP-PBR-SMG-02,3855198,Sofa,Bulky
+SKU-FURN-01087,Furnitur Kayu Olahan 754,Bed,1,SUP-PRJ-CRB-05,3621308,Bed,Bulky
+SKU-FURN-01088,Furnitur Kayu Olahan 149,Meja Makan,1,SUP-PBR-TNG-01,1816507,Meja,Sedang
+SKU-FURN-01089,Furnitur Kayu Olahan 439,lmri,1,SUP-PRJ-TGL-01,3273511,Lemari,Bulky
+SKU-FURN-01090,Furnitur Kayu Olahan 540,Dining Table,1,SUP-PRJ-KLT-03,1271538,Meja,Bulky
+SKU-FURN-01091,Furnitur Kayu Olahan 135,Dining Table,1,SUP-PRJ-CRB-03,2185584,Meja,Bulky
+SKU-FURN-01092,Sofa Japandi Minimalis 459,Sofa,0,SUP-PRJ-KLT-02,3743444,Sofa,Bulky
+SKU-FURN-01093,Furnitur Kayu Olahan 849,Wardrobe,1,SUP-PRJ-KLT-02,2211315,Lemari,Bulky
+SKU-FURN-01094,Furnitur Kayu Olahan 628,Wardrobe,1,SUP-PRJ-SLO-02,3039001,Lemari,Bulky
+SKU-FURN-01095,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-PBR-SMG-01,689026,Dekorasi,Ringan
+SKU-FURN-01096,Furnitur Kayu Olahan 933,Meja Makan,1,SUP-PRJ-KLT-04,1419770,Meja,Sedang
+SKU-FURN-01097,Furnitur Kayu Olahan 902,Dining Table,1,SUP-PRJ-KLT-05,2001545,Meja,Sedang
+SKU-FURN-01098,Furnitur Kayu Olahan 320,Lemari,1,SUP-PBR-BKS-02,2979915,Lemari,Oversized
+SKU-FURN-01099,Furnitur Kayu Olahan 518,Meja Makan,1,SUP-PRJ-KLT-05,1839950,Meja,Bulky
+SKU-FURN-01100,Furnitur Kayu Olahan 920,Dining Table,1,SUP-PRJ-CRB-01,1220151,Meja,Sedang
+SKU-FURN-01101,Hiasan Meja / Karpet Aesthetic 24,Dekorasi,0,SUP-PBR-BKS-03,637390,Dekorasi,Ringan
+SKU-FURN-01102,Furnitur Kayu Olahan 658,Kursi Kerja,1,SUP-PBR-BKS-05,704352,Kursi,Sedang
+SKU-FURN-01103,Furnitur Kayu Olahan 788,Lemari,1,SUP-PRJ-KLT-01,3392245,Lemari,Oversized
+SKU-FURN-01104,Furnitur Kayu Olahan 514,Kursi Kerja,1,SUP-PBR-BKS-05,671942,Kursi,Sedang
+SKU-FURN-01105,Sofa Japandi Minimalis 905,Sofa,1,SUP-PBR-SMG-02,3006406,Sofa,Bulky
+SKU-FURN-01106,Furnitur Kayu Olahan 799,Office Chair,1,SUP-PBR-BKS-05,661663,Kursi,Sedang
+SKU-FURN-01107,Furnitur Kayu Olahan 871,Lemari,1,SUP-PRJ-SLO-03,3421235,Lemari,Oversized
+SKU-FURN-01108,Furnitur Kayu Olahan 288,Kursi Kerja,1,SUP-PBR-SDA-02,1264739,Kursi,Ringan
+SKU-FURN-01109,Sofa Japandi Minimalis 926,Sofa,1,SUP-PRJ-KLT-02,3421750,Sofa,Bulky
+SKU-FURN-01110,Furnitur Kayu Olahan 890,Kursi Kerja,1,SUP-PBR-BKS-05,815305,Kursi,Ringan
+SKU-FURN-01111,Furnitur Kayu Olahan 204,Lemari,1,SUP-PRJ-SLO-03,3060983,Lemari,Bulky
+SKU-FURN-01112,Furnitur Kayu Olahan 616,Wardrobe,1,SUP-PRJ-KLT-01,3367203,Lemari,Bulky
+SKU-FURN-01113,Furnitur Kayu Olahan 478,Office Chair,1,SUP-PBR-BKS-05,1224088,Kursi,Sedang
+SKU-FURN-01114,Sofa Japandi Minimalis 476,sofabed,1,SUP-PRJ-CRB-04,4230018,Sofa,Bulky
+SKU-FURN-01115,Hiasan Meja / Karpet Aesthetic 93,Dekorasi,0,SUP-IMP-JKT-01,572371,Dekorasi,Ringan
+SKU-FURN-01116,Furnitur Kayu Olahan 308,Office Chair,1,SUP-PBR-SDA-03,1260145,Kursi,Ringan
+SKU-FURN-01117,Furnitur Kayu Olahan 181,lmri,1,SUP-PRJ-KLT-01,2600260,Lemari,Oversized
+SKU-FURN-01118,Sofa Japandi Minimalis 983,sofabed,1,SUP-PRJ-CRB-04,3887184,Sofa,Bulky
+SKU-FURN-01119,Furnitur Kayu Olahan 984,Lemari,1,SUP-PRJ-TGL-01,2875302,Lemari,Oversized
+SKU-FURN-01120,Sofa Japandi Minimalis 256,Sofa,0,SUP-PRJ-CRB-04,3354104,Sofa,Bulky
+SKU-FURN-01121,Furnitur Kayu Olahan 578,Kursi Kerja,1,SUP-PBR-SDA-03,819543,Kursi,Sedang
+SKU-FURN-01122,Furnitur Kayu Olahan 449,Lemari,1,SUP-PRJ-SLO-03,2671040,Lemari,Oversized
+SKU-FURN-01123,Sofa Japandi Minimalis 461,Sofa,1,SUP-PRJ-KLT-02,4216256,Sofa,Bulky
+SKU-FURN-01124,Furnitur Kayu Olahan 243,lmri,1,SUP-PRJ-CRB-02,3193569,Lemari,Bulky
+SKU-FURN-01125,Furnitur Kayu Olahan 300,Kursi Kerja,1,SUP-PBR-BKS-05,1392237,Kursi,Sedang
+SKU-FURN-01126,Sofa Japandi Minimalis 786,Sofa,1,SUP-PBR-SMG-02,3801899,Sofa,Oversized
+SKU-FURN-01127,Furnitur Kayu Olahan 585,Lemari,1,SUP-PBR-SDA-04,2590766,Lemari,Oversized
+SKU-FURN-01128,Sofa Japandi Minimalis 396,sofabed,1,SUP-PRJ-CRB-04,4046339,Sofa,Bulky
+SKU-FURN-01129,Furnitur Kayu Olahan 153,Lemari,1,SUP-PRJ-KLT-05,3239739,Lemari,Oversized
+SKU-FURN-01130,Furnitur Kayu Olahan 155,Office Chair,1,SUP-PBR-BKS-05,1034718,Kursi,Sedang
+SKU-FURN-01131,Furnitur Kayu Olahan 622,Office Chair,1,SUP-PBR-SDA-02,1034993,Kursi,Sedang
+SKU-FURN-01132,Furnitur Kayu Olahan 225,Lemari,1,SUP-PRJ-SLO-03,2910140,Lemari,Bulky
+SKU-FURN-01133,Furnitur Kayu Olahan 449,Dining Table,1,SUP-PBR-SMG-03,1501181,Meja,Sedang
+SKU-FURN-01134,Furnitur Kayu Olahan 669,Wardrobe,1,SUP-PRJ-SLO-02,2976777,Lemari,Oversized
+SKU-FURN-01135,Furnitur Kayu Olahan 447,Office Chair,1,SUP-PBR-SDA-02,962370,Kursi,Sedang
+SKU-FURN-01136,Furnitur Kayu Olahan 150,Lemari,1,SUP-PRJ-SLO-01,3019317,Lemari,Bulky
+SKU-FURN-01137,Sofa Japandi Minimalis 712,Sofa,1,SUP-PBR-SMG-02,3133469,Sofa,Bulky
+SKU-FURN-01138,Furnitur Kayu Olahan 287,Meja Makan,1,SUP-PRJ-KLT-04,1679711,Meja,Bulky
+SKU-FURN-01139,Hiasan Meja / Karpet Aesthetic 93,Dekorasi,0,SUP-IMP-SBY-01,198584,Dekorasi,Ringan
+SKU-FURN-01140,Sofa Japandi Minimalis 887,sofabed,1,SUP-PBR-SMG-02,3554351,Sofa,Bulky
+SKU-FURN-01141,Furnitur Kayu Olahan 235,Dining Table,1,SUP-PRJ-KLT-04,1919384,Meja,Bulky
+SKU-FURN-01142,Sofa Japandi Minimalis 194,Sofa,0,SUP-PBR-SMG-02,3849112,Sofa,Oversized
+SKU-FURN-01143,Sofa Japandi Minimalis 784,sofabed,0,SUP-PBR-SMG-02,2910202,Sofa,Sedang
+SKU-FURN-01144,Sofa Japandi Minimalis 762,Sofa,0,SUP-PRJ-KLT-02,3504373,Sofa,Sedang
+SKU-FURN-01145,Sofa Japandi Minimalis 992,Sofa,0,SUP-PRJ-CRB-04,3795989,Sofa,Sedang
+SKU-FURN-01146,Furnitur Kayu Olahan 286,Wardrobe,1,SUP-PBR-TNG-02,2635016,Lemari,Bulky
+SKU-FURN-01147,Furnitur Kayu Olahan 824,Lemari,1,SUP-PRJ-TGL-01,2475545,Lemari,Bulky
+SKU-FURN-01148,Furnitur Kayu Olahan 927,Office Chair,1,SUP-PBR-SDA-02,1047928,Kursi,Sedang
+SKU-FURN-01149,Furnitur Kayu Olahan 769,Office Chair,1,SUP-PBR-BKS-05,1200842,Kursi,Ringan
+SKU-FURN-01150,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-PBR-SMG-01,550260,Dekorasi,Ringan
+SKU-FURN-01151,Furnitur Kayu Olahan 327,Bed,1,SUP-PRJ-CRB-05,5018393,Bed,Bulky
+SKU-FURN-01152,Furnitur Kayu Olahan 173,lmri,1,SUP-PBR-SDA-04,3306971,Lemari,Bulky
+SKU-FURN-01153,Furnitur Kayu Olahan 326,Meja Makan,1,SUP-PRJ-KLT-05,1499077,Meja,Bulky
+SKU-FURN-01154,Furnitur Kayu Olahan 261,Office Chair,1,SUP-PBR-SDA-02,619151,Kursi,Sedang
+SKU-FURN-01155,Furnitur Kayu Olahan 659,Lemari,1,SUP-PBR-SDA-05,2935376,Lemari,Bulky
+SKU-FURN-01156,Furnitur Kayu Olahan 882,Wardrobe,1,SUP-PRJ-SLO-02,2336976,Lemari,Oversized
+SKU-FURN-01157,Furnitur Kayu Olahan 573,Wardrobe,1,SUP-PRJ-SLO-03,3062774,Lemari,Bulky
+SKU-FURN-01158,Hiasan Meja / Karpet Aesthetic 30,Dekorasi,0,SUP-PBR-SMG-01,673218,Dekorasi,Ringan
+SKU-FURN-01159,Furnitur Kayu Olahan 891,Kursi Kerja,1,SUP-PBR-SDA-03,894797,Kursi,Sedang
+SKU-FURN-01160,Hiasan Meja / Karpet Aesthetic 14,Dekorasi,0,SUP-PBR-BKS-03,439096,Dekorasi,Sedang
+SKU-FURN-01161,Furnitur Kayu Olahan 579,Meja Makan,1,SUP-PBR-SDA-01,2037345,Meja,Bulky
+SKU-FURN-01162,Furnitur Kayu Olahan 870,Office Chair,1,SUP-PBR-SDA-02,1429660,Kursi,Ringan
+SKU-FURN-01163,Hiasan Meja / Karpet Aesthetic 60,Dekorasi,0,SUP-PBR-SMG-01,347038,Dekorasi,Ringan
+SKU-FURN-01164,Furnitur Kayu Olahan 650,Dining Table,1,SUP-PRJ-KLT-03,1308005,Meja,Sedang
+SKU-FURN-01165,Furnitur Kayu Olahan 234,Meja Makan,1,SUP-PRJ-CRB-03,1266086,Meja,Bulky
+SKU-FURN-01166,Hiasan Meja / Karpet Aesthetic 33,Dekorasi,0,SUP-IMP-SBY-01,284762,Dekorasi,Ringan
+SKU-FURN-01167,Sofa Japandi Minimalis 374,Sofa,1,SUP-PBR-SMG-02,3286252,Sofa,Bulky
+SKU-FURN-01168,Sofa Japandi Minimalis 340,Sofa,0,SUP-PRJ-CRB-04,3573742,Sofa,Bulky
+SKU-FURN-01169,Furnitur Kayu Olahan 982,Lemari,1,SUP-PRJ-CRB-05,2644878,Lemari,Oversized
+SKU-FURN-01170,Hiasan Meja / Karpet Aesthetic 52,Dekorasi,0,SUP-PBR-SMG-01,439469,Dekorasi,Ringan
+SKU-FURN-01171,Hiasan Meja / Karpet Aesthetic 50,Dekorasi,0,SUP-PBR-BKS-03,742280,Dekorasi,Ringan
+SKU-FURN-01172,Furnitur Kayu Olahan 795,Wardrobe,1,SUP-PBR-SDA-03,2490378,Lemari,Bulky
+SKU-FURN-01173,Furnitur Kayu Olahan 535,Bed,1,SUP-PBR-BKS-03,4791227,Bed,Bulky
+SKU-FURN-01174,Furnitur Kayu Olahan 306,Meja Makan,1,,1660104,Meja,Sedang
+SKU-FURN-01175,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-IMP-JKT-01,395204,Dekorasi,Ringan
+SKU-FURN-01176,Furnitur Kayu Olahan 934,Office Chair,1,SUP-PBR-SDA-02,1178413,Kursi,Sedang
+SKU-FURN-01177,Furnitur Kayu Olahan 436,Wardrobe,1,SUP-PBR-SDA-04,2930621,Lemari,Oversized
+SKU-FURN-01178,Furnitur Kayu Olahan 809,Meja Makan,1,SUP-PRJ-CRB-04,1671624,Meja,Sedang
+SKU-FURN-01179,Furnitur Kayu Olahan 514,Dining Table,1,SUP-PBR-BKS-05,1711921,Meja,Sedang
+SKU-FURN-01180,Furnitur Kayu Olahan 360,Wardrobe,1,SUP-PRJ-KLT-01,3482472,Lemari,Oversized
+SKU-FURN-01181,Sofa Japandi Minimalis 961,Sofa,0,SUP-PRJ-CRB-04,3983093,Sofa,Oversized
+SKU-FURN-01182,Furnitur Kayu Olahan 287,Lemari,1,SUP-PRJ-TGL-01,2630639,Lemari,Bulky
+SKU-FURN-01183,Furnitur Kayu Olahan 361,Wardrobe,1,SUP-PRJ-KLT-05,2121218,Lemari,Oversized
+SKU-FURN-01184,Furnitur Kayu Olahan 361,Meja Makan,1,SUP-PRJ-JPR-01,1488610,Meja,Bulky
+SKU-FURN-01185,Hiasan Meja / Karpet Aesthetic 43,Dekorasi,0,SUP-IMP-SBY-01,484486,Dekorasi,Sedang
+SKU-FURN-01186,Sofa Japandi Minimalis 359,Sofa,0,SUP-PRJ-CRB-04,3234266,Sofa,Oversized
+SKU-FURN-01187,Furnitur Kayu Olahan 578,Wardrobe,1,SUP-PRJ-CRB-02,3429015,Lemari,Oversized
+SKU-FURN-01188,Sofa Japandi Minimalis 983,Sofa,1,SUP-PRJ-KLT-02,2884511,Sofa,Oversized
+SKU-FURN-01189,Furnitur Kayu Olahan 407,Dining Table,1,SUP-PRJ-KLT-05,1894237,Meja,Bulky
+SKU-FURN-01190,Hiasan Meja / Karpet Aesthetic 20,Dekorasi,0,SUP-PBR-SMG-01,340870,Dekorasi,Ringan
+SKU-FURN-01191,Hiasan Meja / Karpet Aesthetic 81,Dekorasi,0,SUP-PBR-BKS-03,173594,Dekorasi,Sedang
+SKU-FURN-01192,Furnitur Kayu Olahan 118,Lemari,1,SUP-PRJ-KLT-05,3409590,Lemari,Oversized
+SKU-FURN-01193,Sofa Japandi Minimalis 680,Sofa,0,SUP-PBR-SMG-02,3781274,Sofa,Bulky
+SKU-FURN-01194,Furnitur Kayu Olahan 194,Kursi Kerja,1,SUP-PBR-SDA-03,1459823,Kursi,Sedang
+SKU-FURN-01195,Hiasan Meja / Karpet Aesthetic 11,Dekorasi,0,SUP-IMP-JKT-01,715417,Dekorasi,Ringan
+SKU-FURN-01196,Furnitur Kayu Olahan 276,Kursi Kerja,1,SUP-PBR-SDA-02,1355870,Kursi,Sedang
+SKU-FURN-01197,Hiasan Meja / Karpet Aesthetic 68,Dekorasi,0,SUP-IMP-SBY-01,769591,Dekorasi,Ringan
+SKU-FURN-01198,Sofa Japandi Minimalis 111,Sofa,0,SUP-PRJ-KLT-02,2807677,Sofa,Bulky
+SKU-FURN-01199,Sofa Japandi Minimalis 741,Sofa,0,SUP-PRJ-KLT-02,3972835,Sofa,Oversized
+SKU-FURN-01200,Furnitur Kayu Olahan 890,Kursi Kerja,1,SUP-PBR-SDA-02,673481,Kursi,Sedang
+SKU-FURN-01201,Furnitur Kayu Olahan 910,Kursi Kerja,1,SUP-PBR-BKS-05,1169232,Kursi,Sedang
+SKU-FURN-01202,Hiasan Meja / Karpet Aesthetic 40,Dekorasi,0,SUP-PBR-SMG-01,282837,Dekorasi,Ringan
+SKU-FURN-01203,Hiasan Meja / Karpet Aesthetic 77,Dekorasi,0,SUP-IMP-SBY-01,433895,Dekorasi,Ringan
+SKU-FURN-01204,Furnitur Kayu Olahan 886,Meja Makan,1,SUP-PRJ-KLT-05,1793233,Meja,Sedang
+SKU-FURN-01205,Furnitur Kayu Olahan 868,Kursi Kerja,1,SUP-PBR-BKS-05,965456,Kursi,Sedang
+SKU-FURN-01206,Furnitur Kayu Olahan 409,Office Chair,1,SUP-PBR-BKS-05,861547,Kursi,Sedang
+SKU-FURN-01207,Furnitur Kayu Olahan 430,Dining Table,1,SUP-PRJ-KLT-05,1558472,Meja,Sedang
+SKU-FURN-01208,Furnitur Kayu Olahan 717,Lemari,1,SUP-PRJ-KLT-05,2453733,Lemari,Bulky
+SKU-FURN-01209,Hiasan Meja / Karpet Aesthetic 64,Dekorasi,0,SUP-PBR-SMG-01,706469,Dekorasi,Ringan
+SKU-FURN-01210,Furnitur Kayu Olahan 737,Wardrobe,1,SUP-PRJ-SLO-01,3356893,Lemari,Bulky
+SKU-FURN-01211,Sofa Japandi Minimalis 207,Sofa,1,SUP-PBR-SMG-02,3334676,Sofa,Bulky
+SKU-FURN-01212,Furnitur Kayu Olahan 851,Meja Makan,1,SUP-PRJ-KLT-04,2132660,Meja,Sedang
+SKU-FURN-01213,Sofa Japandi Minimalis 533,Sofa,0,SUP-PRJ-CRB-04,3559478,Sofa,Bulky
+SKU-FURN-01214,Furnitur Kayu Olahan 132,Bed,1,SUP-PBR-SMG-03,5417136,Bed,Bulky
+SKU-FURN-01215,Furnitur Kayu Olahan 371,Kursi Kerja,1,SUP-PBR-BKS-05,1354033,Kursi,Ringan
+SKU-FURN-01216,Hiasan Meja / Karpet Aesthetic 86,Dekorasi,0,,546525,Dekorasi,Sedang
+SKU-FURN-01217,Furnitur Kayu Olahan 460,Lemari,1,SUP-PBR-SDA-04,2379119,Lemari,Bulky
+SKU-FURN-01218,Furnitur Kayu Olahan 258,lmri,1,SUP-PRJ-SLO-02,2748664,Lemari,Oversized
+SKU-FURN-01219,Furnitur Kayu Olahan 612,Kursi Kerja,1,SUP-PBR-SDA-03,1127342,Kursi,Sedang
+SKU-FURN-01220,Furnitur Kayu Olahan 992,Wardrobe,1,SUP-PRJ-SLO-02,3263726,Lemari,Oversized
+SKU-FURN-01221,Furnitur Kayu Olahan 765,Office Chair,1,SUP-PBR-SDA-02,885505,Kursi,Ringan
+SKU-FURN-01222,Furnitur Kayu Olahan 411,Meja Makan,1,SUP-PRJ-CRB-03,1355514,Meja,Sedang
+SKU-FURN-01223,Furnitur Kayu Olahan 219,Wardrobe,1,SUP-PRJ-CRB-03,3143697,Lemari,Oversized
+SKU-FURN-01224,Sofa Japandi Minimalis 207,Sofa,1,SUP-PBR-SMG-02,2857572,Sofa,Oversized
+SKU-FURN-01225,Furnitur Kayu Olahan 704,Meja Makan,1,SUP-PRJ-CRB-01,1693624,Meja,Sedang
+SKU-FURN-01226,Hiasan Meja / Karpet Aesthetic 18,Dekorasi,0,SUP-PBR-BKS-03,201285,Dekorasi,Ringan
+SKU-FURN-01227,Furnitur Kayu Olahan 669,Wardrobe,1,SUP-PRJ-KLT-01,3076534,Lemari,Bulky
+SKU-FURN-01228,Hiasan Meja / Karpet Aesthetic 37,Dekorasi,0,SUP-PBR-SMG-01,703600,Dekorasi,Ringan
+SKU-FURN-01229,Sofa Japandi Minimalis 614,Sofa,0,SUP-PRJ-KLT-02,3824904,Sofa,Bulky
+SKU-FURN-01230,Furnitur Kayu Olahan 895,Lemari,1,SUP-PRJ-CRB-05,2141657,Lemari,Oversized
+SKU-FURN-01231,Sofa Japandi Minimalis 350,Sofa,0,SUP-PRJ-KLT-02,3955600,Sofa,Bulky
+SKU-FURN-01232,Furnitur Kayu Olahan 465,Dining Table,1,SUP-PRJ-KLT-04,1710128,Meja,Sedang
+SKU-FURN-01233,Furnitur Kayu Olahan 821,Lemari,1,SUP-PRJ-KLT-05,2279603,Lemari,Bulky
+SKU-FURN-01234,Sofa Japandi Minimalis 560,Sofa,1,,3973985,Sofa,Bulky
+SKU-FURN-01235,Sofa Japandi Minimalis 145,Sofa,0,SUP-PRJ-KLT-02,3198006,Sofa,Bulky
+SKU-FURN-01236,Sofa Japandi Minimalis 777,sofabed,0,SUP-PRJ-KLT-02,4086549,Sofa,Bulky
+SKU-FURN-01237,Furnitur Kayu Olahan 555,lmri,1,SUP-PRJ-CRB-02,3224234,Lemari,Bulky
+SKU-FURN-01238,Furnitur Kayu Olahan 675,Dining Table,1,SUP-PRJ-JPR-01,1262177,Meja,Sedang
+SKU-FURN-01239,Furnitur Kayu Olahan 876,Dining Table,1,SUP-PBR-SDA-01,1525547,Meja,Sedang
+SKU-FURN-01240,Furnitur Kayu Olahan 381,Wardrobe,1,SUP-PRJ-SLO-03,3416711,Lemari,Oversized
+SKU-FURN-01241,Sofa Japandi Minimalis 383,sofabed,0,SUP-PRJ-CRB-04,3840077,Sofa,Bulky
+SKU-FURN-01242,Hiasan Meja / Karpet Aesthetic 26,Dekorasi,0,SUP-PBR-BKS-03,678420,Dekorasi,Ringan
+SKU-FURN-01243,Furnitur Kayu Olahan 503,Wardrobe,1,SUP-PRJ-SLO-03,2306222,Lemari,Bulky
+SKU-FURN-01244,Sofa Japandi Minimalis 393,sofabed,1,SUP-PRJ-KLT-02,4238128,Sofa,Bulky
+SKU-FURN-01245,Sofa Japandi Minimalis 447,sofabed,0,SUP-PRJ-CRB-04,3023065,Sofa,Bulky
+SKU-FURN-01246,Hiasan Meja / Karpet Aesthetic 86,Dekorasi,0,SUP-PBR-BKS-03,704610,Dekorasi,Ringan
+SKU-FURN-01247,Furnitur Kayu Olahan 627,Meja Makan,1,SUP-PBR-SMG-03,1336753,Meja,Bulky
+SKU-FURN-01248,Sofa Japandi Minimalis 935,sofabed,1,SUP-PRJ-CRB-04,2840330,Sofa,Bulky
+SKU-FURN-01249,Furnitur Kayu Olahan 876,Meja Makan,1,SUP-PRJ-KLT-03,1929401,Meja,Bulky
+SKU-FURN-01250,Furnitur Kayu Olahan 923,Office Chair,1,SUP-PBR-SDA-02,965591,Kursi,Ringan
+SKU-FURN-01251,Furnitur Kayu Olahan 339,Office Chair,1,SUP-PBR-SDA-02,1203081,Kursi,Bulky
+SKU-FURN-01252,Furnitur Kayu Olahan 899,Kursi Kerja,1,,975816,Kursi,Sedang
+SKU-FURN-01253,Furnitur Kayu Olahan 634,Office Chair,1,SUP-PBR-BKS-05,802333,Kursi,Sedang
+SKU-FURN-01254,Furnitur Kayu Olahan 993,Lemari,1,SUP-PRJ-SLO-02,2448608,Lemari,Bulky
+SKU-FURN-01255,Furnitur Kayu Olahan 495,Lemari,1,SUP-PRJ-CRB-03,2251895,Lemari,Oversized
+SKU-FURN-01256,Furnitur Kayu Olahan 615,lmri,1,SUP-PRJ-SLO-03,3033733,Lemari,Oversized
+SKU-FURN-01257,Furnitur Kayu Olahan 734,Office Chair,1,SUP-PBR-SDA-02,1396784,Kursi,Sedang
+SKU-FURN-01258,Hiasan Meja / Karpet Aesthetic 41,Dekorasi,0,SUP-IMP-JKT-01,778481,Dekorasi,Sedang
+SKU-FURN-01259,Hiasan Meja / Karpet Aesthetic 54,Dekorasi,0,SUP-PBR-BKS-03,293156,Dekorasi,Ringan
+SKU-FURN-01260,Sofa Japandi Minimalis 994,Sofa,0,SUP-PRJ-CRB-04,4281288,Sofa,Bulky
+SKU-FURN-01261,Furnitur Kayu Olahan 698,Meja Makan,1,SUP-PRJ-KLT-04,1289007,Meja,Sedang
+SKU-FURN-01262,Hiasan Meja / Karpet Aesthetic 55,Dekorasi,0,SUP-PBR-SMG-01,664131,Dekorasi,Ringan
+SKU-FURN-01263,Sofa Japandi Minimalis 914,Sofa,0,SUP-PRJ-CRB-04,3937329,Sofa,Bulky
+SKU-FURN-01264,Sofa Japandi Minimalis 961,Sofa,0,SUP-PRJ-KLT-02,4247203,Sofa,Bulky
+SKU-FURN-01265,Furnitur Kayu Olahan 829,Meja Makan,1,SUP-PBR-BKS-02,2124218,Meja,Sedang
+SKU-FURN-01266,Furnitur Kayu Olahan 425,Office Chair,1,SUP-PBR-SDA-02,1337032,Kursi,Sedang
+SKU-FURN-01267,Furnitur Kayu Olahan 554,Bed,1,SUP-PRJ-CRB-01,5494205,Bed,Bulky
+SKU-FURN-01268,Sofa Japandi Minimalis 369,Sofa,0,SUP-PBR-SMG-02,2844171,Sofa,Oversized
+SKU-FURN-01269,Furnitur Kayu Olahan 433,Wardrobe,1,SUP-PBR-SDA-04,2835285,Lemari,Oversized
+SKU-FURN-01270,Furnitur Kayu Olahan 392,lmri,1,SUP-PBR-SDA-04,3490574,Lemari,Bulky
+SKU-FURN-01271,Furnitur Kayu Olahan 235,Meja Makan,1,SUP-PRJ-KLT-04,1388472,Meja,Oversized
+SKU-FURN-01272,Furnitur Kayu Olahan 169,Office Chair,1,SUP-PBR-BKS-05,1159954,Kursi,Sedang
+SKU-FURN-01273,Furnitur Kayu Olahan 157,Bed,1,SUP-PRJ-CRB-05,3612143,Bed,Oversized
+SKU-FURN-01274,Furnitur Kayu Olahan 376,Lemari,1,SUP-PBR-SDA-04,3027005,Lemari,Oversized
+SKU-FURN-01275,Sofa Japandi Minimalis 615,Sofa,1,SUP-PBR-SMG-02,2820041,Sofa,Oversized
+SKU-FURN-01276,Sofa Japandi Minimalis 809,sofabed,1,SUP-PRJ-KLT-02,4209035,Sofa,Bulky
+SKU-FURN-01277,Furnitur Kayu Olahan 972,Bed,1,SUP-PRJ-JPR-01,4969987,Bed,Bulky
+SKU-FURN-01278,Furnitur Kayu Olahan 731,Lemari,1,SUP-PBR-BKS-02,2856526,Lemari,Oversized
+SKU-FURN-01279,Sofa Japandi Minimalis 876,Sofa,0,SUP-PBR-SMG-02,3623013,Sofa,Oversized
+SKU-FURN-01280,Furnitur Kayu Olahan 135,Kursi Kerja,1,SUP-PBR-SDA-02,1422049,Kursi,Sedang
+SKU-FURN-01281,Furnitur Kayu Olahan 178,Lemari,1,SUP-PRJ-CRB-05,3329735,Lemari,Oversized
+SKU-FURN-01282,Furnitur Kayu Olahan 497,Bed,1,SUP-PRJ-CRB-05,3360899,Bed,Oversized
+SKU-FURN-01283,Furnitur Kayu Olahan 306,Meja Makan,1,SUP-PBR-SMG-03,2177472,Meja,Bulky
+SKU-FURN-01284,Sofa Japandi Minimalis 100,Sofa,0,SUP-PBR-SMG-02,3762481,Sofa,Bulky
+SKU-FURN-01285,Furnitur Kayu Olahan 921,Kursi Kerja,1,SUP-PBR-SDA-02,1313897,Kursi,Bulky
+SKU-FURN-01286,Furnitur Kayu Olahan 361,Meja Makan,1,SUP-PRJ-KLT-05,1991108,Meja,Sedang
+SKU-FURN-01287,Furnitur Kayu Olahan 496,Meja Makan,1,SUP-PBR-BKS-04,2186470,Meja,Sedang
+SKU-FURN-01288,Sofa Japandi Minimalis 420,Sofa,0,SUP-PRJ-CRB-04,3867297,Sofa,Bulky
+SKU-FURN-01289,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-IMP-JKT-01,595889,Dekorasi,Ringan
+SKU-FURN-01290,Furnitur Kayu Olahan 962,Office Chair,1,SUP-PBR-SDA-03,1410497,Kursi,Sedang
+SKU-FURN-01291,Sofa Japandi Minimalis 110,Sofa,0,SUP-PRJ-CRB-04,4271679,Sofa,Oversized
+SKU-FURN-01292,Furnitur Kayu Olahan 881,Wardrobe,1,SUP-PBR-SDA-05,3250410,Lemari,Bulky
+SKU-FURN-01293,Hiasan Meja / Karpet Aesthetic 61,Dekorasi,0,SUP-IMP-JKT-01,265169,Dekorasi,Ringan
+SKU-FURN-01294,Sofa Japandi Minimalis 957,Sofa,0,SUP-PBR-SMG-02,4064974,Sofa,Bulky
+SKU-FURN-01295,Furnitur Kayu Olahan 706,Wardrobe,1,SUP-PBR-SDA-05,2573474,Lemari,Bulky
+SKU-FURN-01296,Furnitur Kayu Olahan 820,Meja Makan,1,SUP-PBR-BKS-05,1870108,Meja,Sedang
+SKU-FURN-01297,Hiasan Meja / Karpet Aesthetic 32,Dekorasi,0,SUP-IMP-JKT-01,445166,Dekorasi,Sedang
+SKU-FURN-01298,Furnitur Kayu Olahan 663,Dining Table,1,SUP-PRJ-KLT-04,1617459,Meja,Sedang
+SKU-FURN-01299,Furnitur Kayu Olahan 222,Bed,1,SUP-PRJ-KLT-04,3528982,Bed,Oversized
+SKU-FURN-01300,Furnitur Kayu Olahan 781,Kursi Kerja,1,SUP-PBR-SDA-03,1470744,Kursi,Bulky
+SKU-FURN-01301,Furnitur Kayu Olahan 101,Wardrobe,1,SUP-PRJ-KLT-02,2543861,Lemari,Bulky
+SKU-FURN-01302,Furnitur Kayu Olahan 194,Kursi Kerja,1,SUP-PBR-SDA-03,884826,Kursi,Sedang
+SKU-FURN-01303,Furnitur Kayu Olahan 605,Lemari,1,SUP-PBR-BKS-02,2180807,Lemari,Bulky
+SKU-FURN-01304,Furnitur Kayu Olahan 365,Bed,1,SUP-PRJ-KLT-03,5248173,Bed,Oversized
+SKU-FURN-01305,Hiasan Meja / Karpet Aesthetic 40,Dekorasi,0,SUP-PBR-SMG-01,572270,Dekorasi,Ringan
+SKU-FURN-01306,Furnitur Kayu Olahan 700,Kursi Kerja,1,SUP-PBR-SDA-02,789389,Kursi,Sedang
+SKU-FURN-01307,Sofa Japandi Minimalis 464,sofabed,0,SUP-PBR-SMG-02,3368068,Sofa,Bulky
+SKU-FURN-01308,Hiasan Meja / Karpet Aesthetic 50,Dekorasi,0,SUP-PBR-BKS-03,321560,Dekorasi,Ringan
+SKU-FURN-01309,Furnitur Kayu Olahan 980,Office Chair,1,SUP-PBR-BKS-05,1155760,Kursi,Sedang
+SKU-FURN-01310,Furnitur Kayu Olahan 791,Lemari,1,SUP-PRJ-TGL-01,3413412,Lemari,Bulky
+SKU-FURN-01311,Sofa Japandi Minimalis 692,Sofa,0,SUP-PRJ-KLT-02,4035144,Sofa,Bulky
+SKU-FURN-01312,Hiasan Meja / Karpet Aesthetic 89,Dekorasi,0,SUP-IMP-SBY-01,238014,Dekorasi,Sedang
+SKU-FURN-01313,Hiasan Meja / Karpet Aesthetic 17,Dekorasi,0,SUP-PBR-SMG-01,487804,Dekorasi,Ringan
+SKU-FURN-01314,Furnitur Kayu Olahan 961,Kursi Kerja,1,SUP-PBR-SDA-02,1159258,Kursi,Sedang
+SKU-FURN-01315,Furnitur Kayu Olahan 915,Lemari,1,SUP-PRJ-TGL-01,2581450,Lemari,Oversized
+SKU-FURN-01316,Sofa Japandi Minimalis 547,Sofa,1,SUP-PBR-SMG-02,2922091,Sofa,Bulky
+SKU-FURN-01317,Furnitur Kayu Olahan 388,Office Chair,1,SUP-PBR-BKS-05,1353812,Kursi,Sedang
+SKU-FURN-01318,Furnitur Kayu Olahan 270,Dining Table,1,SUP-PRJ-KLT-05,2130845,Meja,Bulky
+SKU-FURN-01319,Furnitur Kayu Olahan 484,lmri,1,SUP-PBR-SDA-05,2282042,Lemari,Bulky
+SKU-FURN-01320,Sofa Japandi Minimalis 781,Sofa,0,SUP-PRJ-KLT-02,3568856,Sofa,Sedang
+SKU-FURN-01321,Sofa Japandi Minimalis 525,sofabed,0,SUP-PBR-SMG-02,3449212,Sofa,Bulky
+SKU-FURN-01322,Hiasan Meja / Karpet Aesthetic 36,Dekorasi,0,SUP-IMP-JKT-01,223654,Dekorasi,Ringan
+SKU-FURN-01323,Hiasan Meja / Karpet Aesthetic 41,Dekorasi,0,SUP-PBR-SMG-01,541839,Dekorasi,Ringan
+SKU-FURN-01324,Sofa Japandi Minimalis 519,Sofa,1,SUP-PRJ-KLT-02,4245737,Sofa,Oversized
+SKU-FURN-01325,Furnitur Kayu Olahan 636,Bed,1,SUP-PBR-TNG-02,4852037,Bed,Bulky
+SKU-FURN-01326,Furnitur Kayu Olahan 953,Bed,1,SUP-PRJ-CRB-01,3486706,Bed,Bulky
+SKU-FURN-01327,Furnitur Kayu Olahan 984,Lemari,1,SUP-PRJ-SLO-03,3344199,Lemari,Oversized
+SKU-FURN-01328,Sofa Japandi Minimalis 559,sofabed,0,SUP-PRJ-CRB-04,3130140,Sofa,Bulky
+SKU-FURN-01329,Furnitur Kayu Olahan 888,Dining Table,1,SUP-PRJ-CRB-03,1380354,Meja,Bulky
+SKU-FURN-01330,Sofa Japandi Minimalis 787,Sofa,0,SUP-PBR-SMG-02,3423698,Sofa,Bulky
+SKU-FURN-01331,Sofa Japandi Minimalis 959,Sofa,1,SUP-PRJ-CRB-04,3531617,Sofa,Bulky
+SKU-FURN-01332,Sofa Japandi Minimalis 148,Sofa,0,,3443829,Sofa,Bulky
+SKU-FURN-01333,Furnitur Kayu Olahan 243,Office Chair,1,SUP-PBR-BKS-05,1407023,Kursi,Sedang
+SKU-FURN-01334,Sofa Japandi Minimalis 542,sofabed,0,SUP-PBR-SMG-02,2949569,Sofa,Bulky
+SKU-FURN-01335,Furnitur Kayu Olahan 985,Lemari,1,SUP-PBR-TNG-02,2499327,Lemari,Bulky
+SKU-FURN-01336,Furnitur Kayu Olahan 992,Kursi Kerja,1,SUP-PBR-SDA-02,1402971,Kursi,Ringan
+SKU-FURN-01337,Furnitur Kayu Olahan 714,Dining Table,1,SUP-PRJ-KLT-03,1349572,Meja,Bulky
+SKU-FURN-01338,Furnitur Kayu Olahan 582,Dining Table,1,SUP-PRJ-SLO-01,1598944,Meja,Bulky
+SKU-FURN-01339,Furnitur Kayu Olahan 269,Bed,1,SUP-PRJ-CRB-05,4153227,Bed,Oversized
+SKU-FURN-01340,Furnitur Kayu Olahan 699,Meja Makan,1,SUP-PRJ-KLT-04,1426608,Meja,Sedang
+SKU-FURN-01341,Furnitur Kayu Olahan 367,lmri,1,SUP-PBR-BKS-02,2224487,Lemari,Oversized
+SKU-FURN-01342,Furnitur Kayu Olahan 643,Dining Table,1,SUP-PRJ-KLT-05,1706891,Meja,Sedang
+SKU-FURN-01343,Sofa Japandi Minimalis 840,Sofa,0,SUP-PRJ-KLT-02,3651124,Sofa,Oversized
+SKU-FURN-01344,Furnitur Kayu Olahan 758,lmri,1,SUP-PRJ-TGL-01,2294791,Lemari,Bulky
+SKU-FURN-01345,Furnitur Kayu Olahan 538,Wardrobe,1,SUP-PRJ-CRB-02,2969805,Lemari,Oversized
+SKU-FURN-01346,Furnitur Kayu Olahan 865,Office Chair,1,SUP-PBR-SDA-03,1445539,Kursi,Bulky
+SKU-FURN-01347,Furnitur Kayu Olahan 443,Wardrobe,1,SUP-PRJ-TGL-01,2132119,Lemari,Oversized
+SKU-FURN-01348,Sofa Japandi Minimalis 676,Sofa,0,SUP-PBR-SMG-02,2576457,Sofa,Sedang
+SKU-FURN-01349,Furnitur Kayu Olahan 459,Kursi Kerja,1,SUP-PBR-SDA-02,863811,Kursi,Bulky
+SKU-FURN-01350,Furnitur Kayu Olahan 830,Kursi Kerja,1,SUP-PBR-BKS-05,1394113,Kursi,Sedang
+SKU-FURN-01351,Furnitur Kayu Olahan 359,Wardrobe,1,SUP-PRJ-KLT-05,2063549,Lemari,Bulky
+SKU-FURN-01352,Furnitur Kayu Olahan 689,Dining Table,1,SUP-PRJ-KLT-04,1640248,Meja,Oversized
+SKU-FURN-01353,Hiasan Meja / Karpet Aesthetic 50,Dekorasi,0,SUP-PBR-BKS-03,657808,Dekorasi,Ringan
+SKU-FURN-01354,Furnitur Kayu Olahan 847,Office Chair,1,SUP-PBR-BKS-05,1053918,Kursi,Sedang
+SKU-FURN-01355,Sofa Japandi Minimalis 902,Sofa,0,SUP-PRJ-CRB-04,3048941,Sofa,Sedang
+SKU-FURN-01356,Furnitur Kayu Olahan 414,Kursi Kerja,1,SUP-PBR-SDA-03,1289708,Kursi,Sedang
+SKU-FURN-01357,Furnitur Kayu Olahan 219,Office Chair,1,SUP-PBR-BKS-05,654202,Kursi,Bulky
+SKU-FURN-01358,Hiasan Meja / Karpet Aesthetic 26,Dekorasi,0,SUP-IMP-SBY-01,244452,Dekorasi,Ringan
+SKU-FURN-01359,Furnitur Kayu Olahan 760,Wardrobe,1,SUP-PRJ-SLO-01,3429986,Lemari,Oversized
+SKU-FURN-01360,Furnitur Kayu Olahan 144,Kursi Kerja,1,SUP-PBR-SDA-03,1333340,Kursi,Sedang
+SKU-FURN-01361,Hiasan Meja / Karpet Aesthetic 80,Dekorasi,0,SUP-PBR-SMG-01,319251,Dekorasi,Ringan
+SKU-FURN-01362,Furnitur Kayu Olahan 478,Meja Makan,1,SUP-PRJ-JPR-01,1560319,Meja,Bulky
+SKU-FURN-01363,Hiasan Meja / Karpet Aesthetic 77,Dekorasi,0,SUP-IMP-JKT-01,674072,Dekorasi,Ringan
+SKU-FURN-01364,Furnitur Kayu Olahan 842,Wardrobe,1,SUP-PBR-SDA-04,2467113,Lemari,Oversized
+SKU-FURN-01365,Furnitur Kayu Olahan 512,Kursi Kerja,1,,712125,Kursi,Bulky
+SKU-FURN-01366,Furnitur Kayu Olahan 611,Dining Table,1,SUP-PRJ-KLT-04,1867360,Meja,Sedang
+SKU-FURN-01367,Furnitur Kayu Olahan 102,lmri,1,SUP-PRJ-SLO-03,2245866,Lemari,Oversized
+SKU-FURN-01368,Hiasan Meja / Karpet Aesthetic 72,Dekorasi,0,SUP-IMP-SBY-01,538183,Dekorasi,Ringan
+SKU-FURN-01369,Sofa Japandi Minimalis 470,Sofa,1,SUP-PRJ-KLT-02,2985914,Sofa,Oversized
+SKU-FURN-01370,Sofa Japandi Minimalis 201,Sofa,0,SUP-PRJ-KLT-02,4031285,Sofa,Sedang
+SKU-FURN-01371,Furnitur Kayu Olahan 540,Lemari,1,SUP-PRJ-SLO-01,2162852,Lemari,Oversized
+SKU-FURN-01372,Sofa Japandi Minimalis 855,sofabed,0,SUP-PRJ-CRB-04,3164505,Sofa,Bulky
+SKU-FURN-01373,Furnitur Kayu Olahan 206,Kursi Kerja,1,SUP-PBR-BKS-05,920396,Kursi,Bulky
+SKU-FURN-01374,Furnitur Kayu Olahan 175,Wardrobe,1,SUP-PBR-SDA-03,3302548,Lemari,Bulky
+SKU-FURN-01375,Sofa Japandi Minimalis 446,Sofa,1,SUP-PRJ-CRB-04,4158079,Sofa,Bulky
+SKU-FURN-01376,Furnitur Kayu Olahan 595,Wardrobe,1,SUP-PRJ-TGL-01,2599646,Lemari,Oversized
+SKU-FURN-01377,Furnitur Kayu Olahan 317,Lemari,1,SUP-PRJ-SLO-02,2455611,Lemari,Bulky
+SKU-FURN-01378,Furnitur Kayu Olahan 439,Dining Table,1,SUP-PBR-TNG-01,1300221,Meja,Sedang
+SKU-FURN-01379,Hiasan Meja / Karpet Aesthetic 97,Dekorasi,0,SUP-PBR-BKS-03,285138,Dekorasi,Sedang
+SKU-FURN-01380,Furnitur Kayu Olahan 695,Office Chair,1,SUP-PBR-BKS-05,1404203,Kursi,Sedang
+SKU-FURN-01381,Furnitur Kayu Olahan 117,Wardrobe,1,SUP-PRJ-TGL-01,2842889,Lemari,Oversized
+SKU-FURN-01382,Furnitur Kayu Olahan 443,lmri,1,SUP-PRJ-SLO-03,2236577,Lemari,Bulky
+SKU-FURN-01383,Furnitur Kayu Olahan 969,Wardrobe,1,SUP-PRJ-TGL-01,2828848,Lemari,Bulky
+SKU-FURN-01384,Sofa Japandi Minimalis 787,Sofa,0,SUP-PRJ-KLT-02,4122886,Sofa,Bulky
+SKU-FURN-01385,Sofa Japandi Minimalis 846,sofabed,0,SUP-PRJ-KLT-02,2999728,Sofa,Oversized
+SKU-FURN-01386,Furnitur Kayu Olahan 677,Wardrobe,1,SUP-PRJ-KLT-01,2814824,Lemari,Bulky
+SKU-FURN-01387,Furnitur Kayu Olahan 380,lmri,1,SUP-PRJ-KLT-05,3424849,Lemari,Bulky
+SKU-FURN-01388,Furnitur Kayu Olahan 175,Kursi Kerja,1,SUP-PBR-SDA-03,884148,Kursi,Ringan
+SKU-FURN-01389,Furnitur Kayu Olahan 192,Wardrobe,1,SUP-PBR-TNG-02,2483933,Lemari,Bulky
+SKU-FURN-01390,Furnitur Kayu Olahan 588,Lemari,1,SUP-PBR-SDA-05,3388023,Lemari,Oversized
+SKU-FURN-01391,Furnitur Kayu Olahan 250,Meja Makan,1,SUP-PRJ-SLO-01,1882307,Meja,Oversized
+SKU-FURN-01392,Furnitur Kayu Olahan 361,Office Chair,1,SUP-PBR-SDA-02,1193996,Kursi,Ringan
+SKU-FURN-01393,Furnitur Kayu Olahan 438,Lemari,1,SUP-PBR-TNG-02,2071406,Lemari,Oversized
+SKU-FURN-01394,Furnitur Kayu Olahan 602,Bed,1,SUP-PBR-BKS-01,5183901,Bed,Bulky
+SKU-FURN-01395,Furnitur Kayu Olahan 771,Meja Makan,1,SUP-PRJ-CRB-01,1858551,Meja,Sedang
+SKU-FURN-01396,Furnitur Kayu Olahan 774,Meja Makan,1,SUP-PRJ-SLO-01,1977369,Meja,Bulky
+SKU-FURN-01397,Furnitur Kayu Olahan 754,Wardrobe,1,SUP-PBR-SDA-05,3490841,Lemari,Bulky
+SKU-FURN-01398,Sofa Japandi Minimalis 747,Sofa,1,SUP-PRJ-CRB-04,3186224,Sofa,Bulky
+SKU-FURN-01399,Furnitur Kayu Olahan 482,Kursi Kerja,1,SUP-PBR-SDA-02,745139,Kursi,Sedang
+SKU-FURN-01400,Furnitur Kayu Olahan 776,lmri,1,SUP-PRJ-TGL-01,2880033,Lemari,Bulky
+SKU-FURN-01401,Furnitur Kayu Olahan 152,Office Chair,1,SUP-PBR-BKS-05,1478649,Kursi,Sedang
+SKU-FURN-01402,Furnitur Kayu Olahan 997,Dining Table,1,SUP-PBR-TNG-01,1269802,Meja,Bulky
+SKU-FURN-01403,Furnitur Kayu Olahan 694,Kursi Kerja,1,SUP-PBR-SDA-03,1018692,Kursi,Sedang
+SKU-FURN-01404,Furnitur Kayu Olahan 713,Kursi Kerja,1,SUP-PBR-SDA-03,647084,Kursi,Sedang
+SKU-FURN-01405,Furnitur Kayu Olahan 840,Lemari,1,SUP-PBR-BKS-02,2277741,Lemari,Oversized
+SKU-FURN-01406,Furnitur Kayu Olahan 762,Office Chair,1,SUP-PBR-BKS-05,1233949,Kursi,Sedang
+SKU-FURN-01407,Furnitur Kayu Olahan 703,Lemari,1,SUP-PRJ-CRB-03,3059736,Lemari,Bulky
+SKU-FURN-01408,Furnitur Kayu Olahan 812,Office Chair,1,SUP-PBR-SDA-03,1236125,Kursi,Sedang
+SKU-FURN-01409,Sofa Japandi Minimalis 566,Sofa,1,SUP-PRJ-CRB-04,2665508,Sofa,Oversized
+SKU-FURN-01410,Sofa Japandi Minimalis 211,Sofa,1,SUP-PRJ-KLT-02,3533895,Sofa,Bulky
+SKU-FURN-01411,Furnitur Kayu Olahan 649,Dining Table,1,SUP-PRJ-JPR-01,2086247,Meja,Bulky
+SKU-FURN-01412,Furnitur Kayu Olahan 201,Office Chair,1,SUP-PBR-SDA-03,1141688,Kursi,Sedang
+SKU-FURN-01413,Furnitur Kayu Olahan 798,lmri,1,SUP-PRJ-CRB-05,2754699,Lemari,Oversized
+SKU-FURN-01414,Furnitur Kayu Olahan 113,Dining Table,1,SUP-PRJ-JPR-01,1244481,Meja,Sedang
+SKU-FURN-01415,Furnitur Kayu Olahan 562,Bed,1,SUP-PBR-BKS-01,4246687,Bed,Oversized
+SKU-FURN-01416,Sofa Japandi Minimalis 522,Sofa,1,SUP-PBR-SMG-02,4276500,Sofa,Bulky
+SKU-FURN-01417,Sofa Japandi Minimalis 335,sofabed,1,SUP-PRJ-CRB-04,3517663,Sofa,Bulky
+SKU-FURN-01418,Sofa Japandi Minimalis 545,Sofa,0,SUP-PRJ-KLT-02,3000480,Sofa,Oversized
+SKU-FURN-01419,Furnitur Kayu Olahan 402,Kursi Kerja,1,SUP-PBR-SDA-03,969034,Kursi,Sedang
+SKU-FURN-01420,Furnitur Kayu Olahan 721,Office Chair,1,SUP-PBR-BKS-05,1344294,Kursi,Sedang
+SKU-FURN-01421,Sofa Japandi Minimalis 760,Sofa,0,SUP-PBR-SMG-02,3790864,Sofa,Bulky
+SKU-FURN-01422,Sofa Japandi Minimalis 419,Sofa,1,SUP-PRJ-KLT-02,2662350,Sofa,Bulky
+SKU-FURN-01423,Sofa Japandi Minimalis 437,sofabed,0,SUP-PRJ-KLT-02,4024760,Sofa,Bulky
+SKU-FURN-01424,Hiasan Meja / Karpet Aesthetic 63,Dekorasi,0,SUP-IMP-JKT-01,638894,Dekorasi,Ringan
+SKU-FURN-01425,Furnitur Kayu Olahan 121,Office Chair,1,SUP-PBR-SDA-03,1127302,Kursi,Sedang
+SKU-FURN-01426,Furnitur Kayu Olahan 957,Dining Table,1,SUP-PBR-SMG-03,2071433,Meja,Bulky
+SKU-FURN-01427,Sofa Japandi Minimalis 520,Sofa,1,SUP-PBR-SMG-02,4458375,Sofa,Sedang
+SKU-FURN-01428,Furnitur Kayu Olahan 582,Kursi Kerja,1,SUP-PBR-BKS-05,1299446,Kursi,Sedang
+SKU-FURN-01429,Sofa Japandi Minimalis 114,Sofa,0,SUP-PRJ-CRB-04,3235725,Sofa,Oversized
+SKU-FURN-01430,Furnitur Kayu Olahan 292,Lemari,1,SUP-PRJ-SLO-02,2389907,Lemari,Bulky
+SKU-FURN-01431,Furnitur Kayu Olahan 675,Meja Makan,1,SUP-PRJ-KLT-04,1651864,Meja,Bulky
+SKU-FURN-01432,Furnitur Kayu Olahan 789,Kursi Kerja,1,SUP-PBR-BKS-05,931560,Kursi,Sedang
+SKU-FURN-01433,Furnitur Kayu Olahan 544,Lemari,1,SUP-PBR-BKS-02,2966673,Lemari,Bulky
+SKU-FURN-01434,Furnitur Kayu Olahan 103,Lemari,1,SUP-PRJ-KLT-02,3460111,Lemari,Bulky
+SKU-FURN-01435,Hiasan Meja / Karpet Aesthetic 63,Dekorasi,0,SUP-IMP-SBY-01,751055,Dekorasi,Ringan
+SKU-FURN-01436,Furnitur Kayu Olahan 567,Meja Makan,1,SUP-PRJ-CRB-03,2065899,Meja,Sedang
+SKU-FURN-01437,Hiasan Meja / Karpet Aesthetic 87,Dekorasi,0,SUP-IMP-JKT-01,444567,Dekorasi,Ringan
+SKU-FURN-01438,Hiasan Meja / Karpet Aesthetic 17,Dekorasi,0,SUP-PBR-SMG-01,532243,Dekorasi,Ringan
+SKU-FURN-01439,Furnitur Kayu Olahan 525,Wardrobe,1,SUP-PBR-BKS-02,2501497,Lemari,Oversized
+SKU-FURN-01440,Hiasan Meja / Karpet Aesthetic 40,Dekorasi,0,SUP-IMP-JKT-01,195216,Dekorasi,Sedang
+SKU-FURN-01441,Furnitur Kayu Olahan 293,Office Chair,1,SUP-PBR-SDA-02,923330,Kursi,Sedang
+SKU-FURN-01442,Hiasan Meja / Karpet Aesthetic 55,Dekorasi,0,SUP-IMP-SBY-01,504110,Dekorasi,Ringan
+SKU-FURN-01443,Hiasan Meja / Karpet Aesthetic 48,Dekorasi,0,SUP-IMP-SBY-01,322351,Dekorasi,Sedang
+SKU-FURN-01444,Sofa Japandi Minimalis 129,Sofa,0,SUP-PRJ-CRB-04,3419898,Sofa,Bulky
+SKU-FURN-01445,Sofa Japandi Minimalis 154,Sofa,1,,3273574,Sofa,Oversized
+SKU-FURN-01446,Furnitur Kayu Olahan 623,Lemari,1,SUP-PRJ-TGL-01,2996785,Lemari,Oversized
+SKU-FURN-01447,Furnitur Kayu Olahan 919,Office Chair,1,SUP-PBR-SDA-02,1468450,Kursi,Sedang
+SKU-FURN-01448,Furnitur Kayu Olahan 945,Kursi Kerja,1,SUP-PBR-SDA-02,1258585,Kursi,Sedang
+SKU-FURN-01449,Sofa Japandi Minimalis 317,Sofa,1,SUP-PRJ-CRB-04,4331370,Sofa,Bulky
+SKU-FURN-01450,Furnitur Kayu Olahan 949,Office Chair,1,SUP-PBR-SDA-03,1397384,Kursi,Sedang
+SKU-FURN-01451,Furnitur Kayu Olahan 211,Bed,1,SUP-PBR-BKS-01,4219319,Bed,Bulky
+SKU-FURN-01452,Hiasan Meja / Karpet Aesthetic 15,Dekorasi,0,SUP-IMP-SBY-01,656886,Dekorasi,Ringan
+SKU-FURN-01453,Furnitur Kayu Olahan 983,Meja Makan,1,SUP-PRJ-KLT-04,1374138,Meja,Sedang
+SKU-FURN-01454,Furnitur Kayu Olahan 193,Lemari,1,SUP-PRJ-KLT-01,2642700,Lemari,Bulky
+SKU-FURN-01455,Hiasan Meja / Karpet Aesthetic 76,Dekorasi,0,SUP-PBR-SMG-01,363145,Dekorasi,Sedang
+SKU-FURN-01456,Hiasan Meja / Karpet Aesthetic 19,Dekorasi,0,SUP-PBR-BKS-03,296417,Dekorasi,Ringan
+SKU-FURN-01457,Furnitur Kayu Olahan 825,Kursi Kerja,1,SUP-PBR-BKS-05,1127480,Kursi,Sedang
+SKU-FURN-01458,Hiasan Meja / Karpet Aesthetic 64,Dekorasi,0,SUP-PBR-SMG-01,432585,Dekorasi,Ringan
+SKU-FURN-01459,Hiasan Meja / Karpet Aesthetic 58,Dekorasi,0,SUP-IMP-SBY-01,264718,Dekorasi,Ringan
+SKU-FURN-01460,Furnitur Kayu Olahan 882,Meja Makan,1,SUP-PBR-SMG-03,1367022,Meja,Bulky
+SKU-FURN-01461,Furnitur Kayu Olahan 903,Kursi Kerja,1,SUP-PBR-BKS-05,1435268,Kursi,Ringan
+SKU-FURN-01462,Furnitur Kayu Olahan 795,Meja Makan,1,SUP-PBR-SDA-01,2152881,Meja,Bulky
+SKU-FURN-01463,Furnitur Kayu Olahan 598,Wardrobe,1,SUP-PRJ-KLT-01,3499488,Lemari,Bulky
+SKU-FURN-01464,Furnitur Kayu Olahan 641,Bed,1,SUP-PRJ-KLT-04,3410207,Bed,Oversized
+SKU-FURN-01465,Sofa Japandi Minimalis 720,sofabed,1,SUP-PRJ-KLT-02,4048476,Sofa,Oversized
+SKU-FURN-01466,Furnitur Kayu Olahan 408,Lemari,1,SUP-PRJ-SLO-03,3467085,Lemari,Bulky
+SKU-FURN-01467,Hiasan Meja / Karpet Aesthetic 29,Dekorasi,0,SUP-IMP-SBY-01,373072,Dekorasi,Ringan
+SKU-FURN-01468,Furnitur Kayu Olahan 658,Meja Makan,1,SUP-PRJ-CRB-03,1800156,Meja,Sedang
+SKU-FURN-01469,Sofa Japandi Minimalis 625,Sofa,0,SUP-PRJ-CRB-04,4018373,Sofa,Bulky
+SKU-FURN-01470,Sofa Japandi Minimalis 233,Sofa,0,SUP-PRJ-CRB-04,3336694,Sofa,Bulky
+SKU-FURN-01471,Furnitur Kayu Olahan 108,Meja Makan,1,SUP-PRJ-KLT-05,1399366,Meja,Sedang
+SKU-FURN-01472,Hiasan Meja / Karpet Aesthetic 13,Dekorasi,0,SUP-IMP-JKT-01,794753,Dekorasi,Ringan
+SKU-FURN-01473,Furnitur Kayu Olahan 946,Lemari,1,,2206395,Lemari,Bulky
+SKU-FURN-01474,Hiasan Meja / Karpet Aesthetic 16,Dekorasi,0,SUP-PBR-BKS-03,327883,Dekorasi,Ringan
+SKU-FURN-01475,Furnitur Kayu Olahan 358,lmri,1,SUP-PRJ-KLT-02,3233404,Lemari,Oversized
+SKU-FURN-01476,Furnitur Kayu Olahan 582,Kursi Kerja,1,SUP-PBR-BKS-05,1035769,Kursi,Ringan
+SKU-FURN-01477,Sofa Japandi Minimalis 810,sofabed,0,SUP-PRJ-CRB-04,3181389,Sofa,Oversized
+SKU-FURN-01478,Furnitur Kayu Olahan 270,Bed,1,SUP-PBR-TNG-02,3618830,Bed,Oversized
+SKU-FURN-01479,Furnitur Kayu Olahan 625,Kursi Kerja,1,SUP-PBR-SDA-02,1249825,Kursi,Sedang
+SKU-FURN-01480,Furnitur Kayu Olahan 515,Dining Table,1,SUP-PBR-SDA-01,2128026,Meja,Bulky
+SKU-FURN-01481,Furnitur Kayu Olahan 824,Office Chair,1,SUP-PBR-SDA-03,1269862,Kursi,Ringan
+SKU-FURN-01482,Furnitur Kayu Olahan 574,Meja Makan,1,SUP-PRJ-KLT-04,2091660,Meja,Oversized
+SKU-FURN-01483,Furnitur Kayu Olahan 773,Kursi Kerja,1,SUP-PBR-SDA-03,1033789,Kursi,Ringan
+SKU-FURN-01484,Sofa Japandi Minimalis 771,Sofa,1,SUP-PBR-SMG-02,4414279,Sofa,Bulky
+SKU-FURN-01485,Furnitur Kayu Olahan 558,Wardrobe,1,SUP-PRJ-SLO-01,2558592,Lemari,Bulky
+SKU-FURN-01486,Furnitur Kayu Olahan 377,Wardrobe,1,SUP-PRJ-KLT-05,2769507,Lemari,Oversized
+SKU-FURN-01487,Furnitur Kayu Olahan 184,Office Chair,1,SUP-PBR-SDA-02,631859,Kursi,Sedang
+SKU-FURN-01488,Hiasan Meja / Karpet Aesthetic 69,Dekorasi,0,SUP-PBR-BKS-03,445714,Dekorasi,Ringan
+SKU-FURN-01489,Furnitur Kayu Olahan 511,Bed,1,SUP-PRJ-TGL-01,5288266,Bed,Bulky
+SKU-FURN-01490,Furnitur Kayu Olahan 112,Meja Makan,1,SUP-PRJ-KLT-04,1780078,Meja,Bulky
+SKU-FURN-01491,Sofa Japandi Minimalis 476,sofabed,0,SUP-PRJ-KLT-02,4403329,Sofa,Oversized
+SKU-FURN-01492,Furnitur Kayu Olahan 393,Office Chair,1,SUP-PBR-BKS-05,1349355,Kursi,Sedang
+SKU-FURN-01493,Sofa Japandi Minimalis 717,sofabed,0,SUP-PRJ-CRB-04,3320223,Sofa,Oversized
+SKU-FURN-01494,Furnitur Kayu Olahan 922,Meja Makan,1,SUP-PRJ-KLT-05,1893857,Meja,Bulky
+SKU-FURN-01495,Furnitur Kayu Olahan 394,Office Chair,1,SUP-PBR-BKS-05,844100,Kursi,Ringan
+SKU-FURN-01496,Sofa Japandi Minimalis 932,Sofa,0,SUP-PRJ-CRB-04,4404555,Sofa,Bulky
+SKU-FURN-01497,Furnitur Kayu Olahan 956,lmri,1,SUP-PRJ-TGL-01,3375543,Lemari,Oversized
+SKU-FURN-01498,Furnitur Kayu Olahan 774,Wardrobe,1,SUP-PBR-SDA-05,3235329,Lemari,Oversized
+SKU-FURN-01499,Furnitur Kayu Olahan 642,Dining Table,1,SUP-PRJ-KLT-04,1693620,Meja,Sedang
+SKU-FURN-01500,Furnitur Kayu Olahan 559,Office Chair,1,SUP-PBR-BKS-05,1096637,Kursi,Sedang

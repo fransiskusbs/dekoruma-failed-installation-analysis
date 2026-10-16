@@ -1,0 +1,41 @@
+store_id,store_name,channel_type,city,store_tier,opening_date
+DKR-001,DEC Alam Sutera 1,Physical Store,Alam Sutera,Standard,2022-12-30
+DKR-002,DEC Bintaro 2,Physical Store,Bintaro,Mini,2022-02-22
+DKR-003,DEC Kemang 3,Physical Store,Kemang,Standard,2020-12-11
+DKR-004,DEC Kelapa Gading 4,Physical Store,Kelapa Gading,Standard,2023-05-24
+DKR-005,DEC Medan 5,Physical Store,Medan,Mini,2019-07-04
+DKR-006,DEC Kemang 6,Physical Store,Kemang,Standard,2022-10-29
+DKR-007,DEC Surabaya 7,Physical Store,Surabaya,Flagship,2022-11-06
+DKR-008,DEC Bandung 8,Physical Store,Bandung,Mini,2020-09-18
+DKR-009,DEC Kelapa Gading 9,Physical Store,Kelapa Gading,Standard,2022-07-06
+DKR-010,DEC Kemang 10,Physical Store,Kemang,Standard,2020-05-29
+DKR-011,DEC Kelapa Gading 11,Physical Store,Kelapa Gading,Flagship,2022-09-05
+DKR-012,DEC Bintaro 12,Physical Store,Bintaro,Mini,2019-08-01
+DKR-013,DEC Surabaya 13,Physical Store,Surabaya,Standard,2020-02-13
+DKR-014,DEC Kelapa Gading 14,Physical Store,Kelapa Gading,Mini,2023-09-01
+DKR-015,DEC Bekasi 15,Physical Store,Bekasi,Flagship,2022-02-13
+DKR-016,DEC Bekasi 16,Physical Store,Bekasi,Standard,2022-09-19
+DKR-017,DEC Medan 17,Physical Store,Medan,Standard,2019-02-02
+DKR-018,DEC Alam Sutera 18,Physical Store,Alam Sutera,Standard,2020-09-18
+DKR-019,DEC Alam Sutera 19,Physical Store,Alam Sutera,Mini,2020-04-18
+DKR-020,DEC Surabaya 20,Physical Store,Surabaya,Standard,2022-05-16
+DKR-021,DEC Bekasi 21,Physical Store,Bekasi,Standard,2021-08-12
+DKR-022,DEC Alam Sutera 22,Physical Store,Alam Sutera,Standard,2023-07-31
+DKR-023,DEC Kelapa Gading 23,Physical Store,Kelapa Gading,Standard,2022-01-03
+DKR-024,DEC Alam Sutera 24,Physical Store,Alam Sutera,Mini,2023-03-15
+DKR-025,DEC Bekasi 25,Physical Store,Bekasi,Flagship,2022-12-12
+DKR-026,DEC Bandung 26,Physical Store,Bandung,Flagship,2021-08-21
+DKR-027,DEC Alam Sutera 27,Physical Store,Alam Sutera,Standard,2019-09-13
+DKR-028,DEC Surabaya 28,Physical Store,Surabaya,Mini,2023-12-09
+DKR-029,DEC Kelapa Gading 29,Physical Store,Kelapa Gading,Standard,2023-09-22
+DKR-030,DEC Kemang 30,Physical Store,Kemang,Standard,2022-10-17
+DKR-031,DEC Bintaro 31,Physical Store,Bintaro,Mini,2022-10-28
+DKR-032,DEC Medan 32,Physical Store,Medan,Mini,2020-05-02
+DKR-033,DEC Alam Sutera 33,Physical Store,Alam Sutera,Standard,2022-09-26
+DKR-034,DEC Bintaro 34,Physical Store,Bintaro,Standard,2022-08-16
+DKR-035,DEC Surabaya 35,Physical Store,Surabaya,Standard,2023-04-04
+DKR-036,DEC Alam Sutera 36,Physical Store,Alam Sutera,Standard,2019-03-25
+DKR-037,DEC Kelapa Gading 37,Physical Store,Kelapa Gading,Standard,2023-01-15
+DKR-038,DEC Bintaro 38,Physical Store,Bintaro,Standard,2020-07-06
+DKR-039,Dekoruma Mobile App,Mobile App,,,2017-08-01
+DKR-040,Dekoruma Website,Web,,,2015-03-10

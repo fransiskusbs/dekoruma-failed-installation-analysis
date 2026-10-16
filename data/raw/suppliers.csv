@@ -1,0 +1,33 @@
+supplier_id,supplier_name,supplier_type,region,primary_family,secondary_family,quality_certification_status,partnership_start_date
+SUP-IMP-JKT-01,Nordic Home Trading,Importir,Jakarta/Priok,Dekorasi,,Tersertifikasi,2019-06-15
+SUP-IMP-SBY-01,Global Home Import,Importir,Surabaya/Perak,Dekorasi,,Tersertifikasi,2016-03-10
+SUP-PBR-BKS-01,Prima Wood Manufacturing,Pabrik,Bekasi,Bed,,Tersertifikasi,2015-12-19
+SUP-PBR-BKS-02,Trimatra Furnindo,Pabrik,Bekasi,Lemari,Meja,Tersertifikasi,2019-03-05
+SUP-PBR-BKS-03,Mega Furnitur Industri,Pabrik,Bekasi,Dekorasi,Bed,Tersertifikasi,2016-03-31
+SUP-PBR-BKS-04,Andalan Kayu Prima,Pabrik,Bekasi,Meja,,Tersertifikasi,2020-10-06
+SUP-PBR-BKS-05,Sumber Kayu Jaya,Pabrik,Bekasi,Kursi,Meja,Tersertifikasi,2021-08-03
+SUP-PBR-SDA-01,Bina Furnitur Sejati,Pabrik,Sidoarjo,Meja,,Tersertifikasi,2021-02-15
+SUP-PBR-SDA-02,Sinar Mebel Nusantara,Pabrik,Sidoarjo,Kursi,,Tersertifikasi,2017-05-07
+SUP-PBR-SDA-03,Karunia Wood Industries,Pabrik,Sidoarjo,Kursi,Lemari,Tersertifikasi,2020-05-29
+SUP-PBR-SDA-04,Karya Mebel Sejahtera,Pabrik,Sidoarjo,Lemari,,Tersertifikasi,2017-06-13
+SUP-PBR-SDA-05,Lestari Kayu Manufaktur,Pabrik,Sidoarjo,Lemari,,Belum Tersertifikasi,2018-07-01
+SUP-PBR-SMG-01,Cipta Kayu Abadi,Pabrik,Semarang,Dekorasi,,Tersertifikasi,2019-01-03
+SUP-PBR-SMG-02,Cahaya Mebel Industri,Pabrik,Semarang,Sofa,,Tersertifikasi,2015-01-26
+SUP-PBR-SMG-03,Indo Craft Industries,Pabrik,Semarang,Meja,Bed,Belum Tersertifikasi,2015-12-26
+SUP-PBR-TNG-01,Nusantara Furnitama,Pabrik,Tangerang,Meja,,Belum Tersertifikasi,2020-11-18
+SUP-PBR-TNG-02,Global Furnindo,Pabrik,Tangerang,Bed,Lemari,Tersertifikasi,2017-03-27
+SUP-PRJ-CRB-01,UMKM Mebel Cirebon,Perajin Lokal,Cirebon,Bed,Meja,Belum Tersertifikasi,2023-02-03
+SUP-PRJ-CRB-02,Perajin Mebel Yogya,Perajin Lokal,Cirebon,Lemari,,Belum Tersertifikasi,2021-03-02
+SUP-PRJ-CRB-03,Sanggar Kayu Tegal,Perajin Lokal,Cirebon,Meja,Lemari,Belum Tersertifikasi,2021-05-16
+SUP-PRJ-CRB-04,Sentra UMKM Tegal,Perajin Lokal,Cirebon,Sofa,Meja,Belum Tersertifikasi,2020-03-21
+SUP-PRJ-CRB-05,Karya Perajin Jepara,Perajin Lokal,Cirebon,Bed,Lemari,Belum Tersertifikasi,2024-05-10
+SUP-PRJ-JPR-01,Griya Mebel Rakyat,Perajin Lokal,Jepara,Meja,Bed,Belum Tersertifikasi,2020-02-18
+SUP-PRJ-KLT-01,Karya Perajin Jepara,Perajin Lokal,Klaten,Lemari,,Belum Tersertifikasi,2024-06-09
+SUP-PRJ-KLT-02,Perajin Kayu Solo,Perajin Lokal,Klaten,Sofa,Lemari,Belum Tersertifikasi,2023-11-15
+SUP-PRJ-KLT-03,Perajin Jepara Mandiri,Perajin Lokal,Klaten,Meja,Bed,Belum Tersertifikasi,2022-10-25
+SUP-PRJ-KLT-04,UMKM Furnitur Ciputat,Perajin Lokal,Klaten,Meja,Bed,Tersertifikasi,2023-03-10
+SUP-PRJ-KLT-05,Mebel Rakyat Klaten,Perajin Lokal,Klaten,Meja,Lemari,Belum Tersertifikasi,2020-06-29
+SUP-PRJ-SLO-01,Bengkel Kayu Pak Slamet,Perajin Lokal,Solo,Meja,Lemari,Belum Tersertifikasi,2024-01-05
+SUP-PRJ-SLO-02,Sentra Kayu Klaten,Perajin Lokal,Solo,Lemari,,Tersertifikasi,2021-08-07
+SUP-PRJ-SLO-03,Perajin Rotan Cirebon,Perajin Lokal,Solo,Lemari,Bed,Tersertifikasi,2022-06-03
+SUP-PRJ-TGL-01,Koperasi Perajin Jepara,Perajin Lokal,Tegal,Lemari,Bed,Belum Tersertifikasi,2023-12-21
