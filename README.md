@@ -7,7 +7,7 @@ Key Objectives:
 - Supplier Quality Improvement: identify suppliers and product categories that disproportionately drive missing parts and damaged panels.
 - Installer & Logistics Performance: test whether delivery-to-installation lag, installers, store location, or region affect failure rates.
 - Omnichannel Attribution Accuracy: measure the link between DEC presence and App/Web purchases, and how much of it is captured in the data.
-- Data Quality: document validation gaps (inconsistent categories, impossible values, illogical dates, missing acquisition channels) as prerequisites for reliable KPIs
+- Data Quality: document validation gaps (inconsistent categories, impossible values, illogical dates, missing acquisition channels) as prerequisites for reliable KPI
 
 ## 2. Data Sources
 Six tables from the dekoruma MySQL database (transactions January–December 2023), provided as part of the Purwadhika Data Analytics capstone:
